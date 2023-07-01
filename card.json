@@ -2447,7 +2447,217 @@
             "grade": "3star",
             "inv": "P1HARMONY",
             "code": "`P1JS_3`"
-        }           
+        }
+    ],
+    "WKSJ_1": [
+        {
+            "name": "**✦ WEEEKLY Soojin**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994260253974528/WEEEKLY_20230629225414.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKSJ_1`"
+        }
+    ],
+    "WKJY_1": [
+        {
+            "name": "**✦ WEEEKLY Jiyoon**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994260581122209/WEEEKLY_20230629225436.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKJY_1`"
+        }  
+    ],
+    "WKMD_1": [
+        {
+            "name": "**✦ WEEEKLY Monday**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994260920864822/WEEEKLY_20230629231032.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKMD_1`"
+        }  
+    ],
+    "WKSE_1": [
+        {
+            "name": "**✦ WEEEKLY Soeun**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994261323522100/WEEEKLY_20230629225731.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKSE_1`"
+        }  
+    ],
+    "WKJH_1": [
+        {
+            "name": "**✦ WEEEKLY Jaehee**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994261650669619/WEEEKLY_20230629225652.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKJH_1`"
+        }  
+    ],
+    "WKJI_1": [
+        {
+            "name": "**✦ WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994261969440778/WEEEKLY_20230629225526.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKJI_1`"
+        }  
+    ],
+    "WKZA_1": [
+        {
+            "name": "**✦ WEEEKLY Zoa**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1123994262317572147/WEEEKLY_20230629225827.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WEEEKLY",
+            "code": "`WKZA_1`"
+        }    
+    ],
+    "WKSJ_2": [
+        {
+            "name": "**✦✦ WEEEKLY Soojin**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000750356402357/WEEEKLY_20230629233558.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKSJ_2`"
+        }
+    ],
+    "WKJY_2": [
+        {
+            "name": "**✦✦ WEEEKLY Jiyoon**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000750729691176/WEEEKLY_20230629233509.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKJY_2`"
+        }  
+    ],
+    "WKMD_2": [
+        {
+            "name": "**✦✦ WEEEKLY Monday**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000751119777883/WEEEKLY_20230629232157.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKMD_2`"
+        }  
+    ],
+    "WKSE_2": [
+        {
+            "name": "**✦✦ WEEEKLY Soeun**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000751451115701/WEEEKLY_20230629233441.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKSE_2`"
+        }  
+    ],
+    "WKJH_2": [
+        {
+            "name": "**✦✦ WEEEKLY Jaehee**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000751786655804/WEEEKLY_20230629233626.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKJH_2`"
+        }  
+    ],
+    "WKJI_2": [
+        {
+            "name": "**✦✦ WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000752159965184/WEEEKLY_20230629233535.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKJI_2`"
+        }  
+    ],
+    "WKZA_2": [
+        {
+            "name": "**✦✦ WEEEKLY Zoa**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124000752512274553/WEEEKLY_20230629233354.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "WEEEKLY",
+            "code": "`WKZA_2`"
+        }    
+    ],
+    "WKSJ_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Soojin**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134450771537950/WEEEKLY_20230630082614.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKSJ_3`"
+        }
+    ],
+    "WKJY_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Jiyoon**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134451149029557/WEEEKLY_20230630082415.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKJY_3`"
+        }  
+    ],
+    "WKMD_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Monday**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134451606204508/WEEEKLY_20230630082526.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKMD_3`"
+        }  
+    ],
+    "WKSE_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Soeun**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134452050804756/WEEEKLY_20230630082350.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKSE_3`"
+        }  
+    ],
+    "WKJH_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Jaehee**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134452466036736/WEEEKLY_20230630082240.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKJH_3`"
+        }  
+    ],
+    "WKJI_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134452981923960/WEEEKLY_20230630082440.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKJI_3`"
+        }  
+    ],
+    "WKZA_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Zoa**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134453925658775/WEEEKLY_20230630082317.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKZA_3`"
+        }               
         ]
                              }
                  
