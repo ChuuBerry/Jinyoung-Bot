@@ -2897,7 +2897,67 @@
             "grade": "3star",
             "inv": "Stray Kids",
             "code": "`SKIN_3`"
-        }               
+        }  
+   ],
+    "SFTY_1": [
+        {
+            "name": "**✦ Soloist Taeyeon**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1124718016064667769/Untitled341_20230701223302.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFTY_1`"
+        }       
+    ],
+    "SMWD_1": [
+        {
+            "name": "**✦ Soloist Woodz**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1124693951820091503/WOODZ_20230701205425.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMWD_1`"
+        }
+    ],
+    "SFTY_2": [
+        {
+            "name": "**✦✦ Soloist Taeyeon**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1124722624849780859/Untitled341_20230701232547.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFTY_2`"
+        }          
+    ],
+    "SMWD_2": [
+        {
+            "name": "**✦✦ Soloist Woodz**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1124694131701198918/WOODZ_20230701205715.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMWD_2`"
+        } 
+    ],
+    "SFTY_3": [
+        {
+            "name": "**✦✦✦ Soloist Taeyeon**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1124718221648461855/Untitled341_20230701230641.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFTY_3`"
+        }
+    ],
+    "SFWD_3": [
+        {
+            "name": "**✦✦✦ Soloist Woodz**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1124694194909352027/WOODZ_20230701212251.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFWD_3`"
+        }    
         ]
                              }
                  
