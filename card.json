@@ -2657,6 +2657,246 @@
             "grade": "3star",
             "inv": "WEEEKLY",
             "code": "`WKZA_3`"
+        }
+    ],
+    "SKBC_1": [
+        {
+            "name": "**✦ Stray Kids Bang Chan**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230471124004894/diamond_card_Bangchan.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKBC_1`"
+        }
+    ],
+    "SKLK_1": [
+        {
+            "name": "**✦ Stray Kids Lee Know**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230471480528916/diamond_card_Lee_Know.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKLK_1`"
+        }
+    ],
+    "SKCB_1": [
+        {
+            "name": "**✦ Stray Kids Changbin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230471811870760/diamond_card_Changbin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKCB_1`"
+        }
+    ],
+    "SKHJ_1": [
+        {
+            "name": "**✦ Stray Kids Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230472164200509/diamond_card_Hyunjin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKHJ_1`"
+        }
+    ],
+    "SKHA_1": [
+        {
+            "name": "**✦ Stray Kids Han**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230472466169997/diamond_card_Han.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKHA_1`"
+        }
+    ],
+    "SKFL_1": [
+        {
+            "name": "**✦ Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230472810115112/diamond_card_Felix.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKFL_1`"
+        }
+    ],
+    "SKSM_1": [
+        {
+            "name": "**✦ Stray Kids Seungmin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230473179222026/diamond_card_Seungmin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKSM_1`"
+        }
+    ],
+    "SKIN_1": [
+        {
+            "name": "**✦ Stray Kids I.N**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230473661546639/diamond_card_I.N.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Stray Kids",
+            "code": "`SKIN_1`"
+        }
+    ],
+    "SKBC_2": [
+        {
+            "name": "**✦✦ Stray Kids Bang Chan**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230582252085318/diamond_card_Bangchan.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKBC_2`"
+        }
+    ],
+    "SKLK_2": [
+        {
+            "name": "**✦✦ Stray Kids Lee Know**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230582667317288/diamond_card_Lee_Know.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKLK_2`"
+        }
+    ],
+    "SKCB_2": [
+        {
+            "name": "**✦✦ Stray Kids Changbin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230582977703996/diamond_card_Changbin.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKCB_2`"
+        }
+    ],
+    "SKHJ_2": [
+        {
+            "name": "**✦✦ Stray Kids Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230583401320448/diamond_card_Hyunjin.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKHJ_2`"
+        }
+    ],
+    "SKHA_2": [
+        {
+            "name": "**✦✦ Stray Kids Han**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230583648792626/diamond_card_Han.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKHA_2`"
+        }
+    ],
+    "SKFL_2": [
+        {
+            "name": "**✦✦ Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230583980138516/diamond_card_Felix.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKFL_2`"
+        }
+    ],
+    "SKSM_2": [
+        {
+            "name": "**✦✦ Stray Kids Seungmin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230584328269834/diamond_card_Seungmin.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKSM_2`"
+        }
+    ],
+    "SKIN_2": [
+        {
+            "name": "**✦✦ Stray Kids I.N**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230584718336020/diamond_card_I.N.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Stray Kids",
+            "code": "`SKIN_2`"
+        }
+    ],
+    "SKBC_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Bang Chan**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230665806819358/diamond_card_Bangchan.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKBC_3`"
+        }
+    ],
+    "SKLK_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Lee Know**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230666217865286/diamond_card_Lee_Know.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKLK_3`"
+        }
+    ],
+    "SKCB_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Changbin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230666628911215/diamond_card_Changbin.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKCB_3`"
+        }
+    ],
+    "SKHJ_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Hyunjin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230666985422958/diamond_card_Hyunjin.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKHJ_3`"
+        }
+    ],
+    "SKHA_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Han**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230667346128946/diamond_card_Han.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKHA_3`"
+        }
+    ],
+    "SKFL_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Felix**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230667769761822/diamond_card_Felix.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKFL_3`"
+        }
+    ],
+    "SKSM_3": [
+        {
+            "name": "**✦✦✦ Stray Kids Seungmin**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230668151435334/diamond_card_Seungmin.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKSM_3`"
+        }
+    ],
+    "SKIN_3": [
+        {
+            "name": "**✦✦✦ Stray Kids I.N**",
+            "image": "https://media.discordapp.net/attachments/1124116615915638835/1124230668516348004/diamond_card_I.N.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Stray Kids",
+            "code": "`SKIN_3`"
         }               
         ]
                              }
