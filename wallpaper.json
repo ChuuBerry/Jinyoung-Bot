@@ -79,7 +79,62 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`TWSM_WP`"
-        }        
+        } 
+    ],    
+    "F9FG_WP": [
+        {
+            "name": "**fromis_9 Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454118086848513/1123457851176788019/Untitled295_20230628113536.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`F9FG_WP`"
+        }
+    
+    ],
+    "IVWA_WP": [
+        {
+            "name": "**IVE Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`IVWA_WP`"
+        }    
+    ],
+    "RVQD_WP": [
+        {
+            "name": "**RED VELVET Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`RVQD_WP`"
+        } 
+    ],
+    "ATES_WP": [
+        {
+            "name": "**ATEEZ Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ATES_WP`"
+        }
+    ],
+    "MXFT_WP": [
+        {
+            "name": "**Monsta X Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`MXFT_WP`"
+        } 
+    ],
+    "TXGB_WP": [
+        {
+            "name": "**Tomorrow X Together Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1117289084713439293/1117328600052531220/Untitled295_20230611134053.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TXGB_WP`"
+        }          
     ]
 }
     
