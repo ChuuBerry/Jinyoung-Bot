@@ -2957,7 +2957,337 @@
             "grade": "3star",
             "inv": "Soloist",
             "code": "`SFWD_3`"
-        }    
+        }
+    ],
+    "TBSY_1": [
+        {
+            "name": "**✦ THE BOYZ Sangyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574145859035176/diamond_card_Sangyeon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBSY_1`"
+        }
+    ],
+    "TBJC_1": [
+        {
+            "name": "**✦ THE BOYZ Jacob**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574146236526712/diamond_card_Jacob.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBJC_1`"
+        }
+    ],
+    "TBYH_1": [
+        {
+            "name": "**✦ THE BOYZ Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574146584641586/diamond_card_Younghoon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBYH_1`"
+        }
+    ],
+    "TBHJ_1": [
+        {
+            "name": "**✦ THE BOYZ Hyunjae**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574146941165618/diamond_card_Hyunjae.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBHJ_1`"
+        }
+    ],
+    "TBJY_1": [
+        {
+            "name": "**✦ THE BOYZ Juyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574147398348860/diamond_card_Juyeon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBJY_1`"
+        }
+    ],
+    "TBKV_1": [
+        {
+            "name": "**✦ THE BOYZ Kevin**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574190503219240/diamond_card_Kevin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBKV_1`"
+        }
+    ],
+    "TBNE_1": [
+        {
+            "name": "**✦ THE BOYZ New**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574190985560084/diamond_card_New.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBNE_1`"
+        }
+    ],
+    "TBJQ_1": [
+        {
+            "name": "**✦ THE BOYZ Q**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574191329484820/diamond_card_Q.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBJQ_1`"
+        }
+    ],
+    "TBJH_1": [
+        {
+            "name": "**✦ THE BOYZ Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574191665041468/diamond_card_Juhaknyeon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBJH_1`"
+        }
+    ],
+    "TBSW_1": [
+        {
+            "name": "**✦ THE BOYZ Sunwoo**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574192084467782/diamond_card_Sunwoo.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBSW_3`"
+        }
+    ],
+    "TBER_1": [
+        {
+            "name": "**✦ THE BOYZ Eric**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574192461959229/diamond_card_Eric.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE BOYZ",
+            "code": "`TBER_1`"
+        }
+    ],
+    "TBSY_2": [
+        {
+            "name": "**✦✦ THE BOYZ Sangyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124605658407383070/diamond_card_Sangyeon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBSY_2`"
+        }
+    ],
+    "TBJC_2": [
+        {
+            "name": "**✦✦ THE BOYZ Jacob**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124605658742935572/diamond_card_Jacob.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBJC_2`"
+        }
+    ],
+    "TBYH_2": [
+        {
+            "name": "**✦✦ THE BOYZ Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124605659271401472/diamond_card_Younghoon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBYH_2`"
+        }
+    ],
+    "TBHJ_2": [
+        {
+            "name": "**✦✦ THE BOYZ Hyunjae**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124605659678257273/diamond_card_Hyunjae.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBHJ_2`"
+        }
+    ],
+    "TBJY_2": [
+        {
+            "name": "**✦✦ THE BOYZ Juyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124605660038959144/diamond_card_Juyeon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBJY_2`"
+        }
+    ],
+    "TBKV_2": [
+        {
+            "name": "**✦✦ THE BOYZ Kevin**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606009151856691/diamond_card_Kevin.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBKV_2`"
+        }
+    ],
+    "TBNE_2": [
+        {
+            "name": "**✦✦ THE BOYZ New**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606009491587122/diamond_card_New.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBNE_2`"
+        }
+    ],
+    "TBJQ_2": [
+        {
+            "name": "**✦✦ THE BOYZ Q**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606009814569002/diamond_card_Q.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBJQ_2`"
+        }
+    ],
+    "TBJH_2": [
+        {
+            "name": "**✦✦ THE BOYZ Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606010334650458/diamond_card_Juhaknyeon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBJH_2`"
+        }
+    ],
+    "TBSW_2": [
+        {
+            "name": "**✦✦ THE BOYZ Sunwoo**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606010665992212/diamond_card_Sunwoo.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBSW_2`"
+        }
+    ],
+    "TBER_2": [
+        {
+            "name": "**✦✦ THE BOYZ Eric**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124606011047694346/diamond_card_Eric.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE BOYZ",
+            "code": "`TBER_2`"
+        } 
+    ],
+    "TBSY_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Sangyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574277048475648/diamond_card_Sangyeon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBSY_3`"
+        }
+    ],
+    "TBJC_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Jacob**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574277342085140/diamond_card_Jacob.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBJC_3`"
+        }
+    ],
+    "TBYH_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Younghoon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574277723754537/diamond_card_Younghoon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBYH_3`"
+        }
+    ],
+    "TBHJ_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Hyunjae**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574278105440337/diamond_card_Hyunjae.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBHJ_3`"
+        }
+    ],
+    "TBJY_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Juyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574278478729287/diamond_card_Juyeon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBJY_3`"
+        }
+    ],
+    "TBKV_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Kevin**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574337651974214/diamond_card_Kevin.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBKV_3`"
+        }
+    ],
+    "TBNE_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ New**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574337979134073/diamond_card_New.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBNE_3`"
+        }
+    ],
+    "TBJQ_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Q**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574338591506452/diamond_card_Q.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBJQ_3`"
+        }
+    ],
+    "TBJH_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Juhaknyeon**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574339002540042/diamond_card_Juhaknyeon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBJH_3`"
+        }
+    ],
+    "TBSW_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Sunwoo**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574339354869780/diamond_card_Sunwoo.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBSW_3`"
+        }
+    ],
+    "TBER_3": [
+        {
+            "name": "**✦✦✦ THE BOYZ Eric**",
+            "image": "https://media.discordapp.net/attachments/1124555537523167242/1124574339862372372/diamond_card_Eric.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE BOYZ",
+            "code": "`TBER_3`"
+        }      
         ]
                              }
                  
