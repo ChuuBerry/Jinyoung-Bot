@@ -3677,7 +3677,127 @@
             "grade": "3star",
             "inv": "EXO",
             "code": "`EXSE_3`"
-        }            
+        }    
+   ],     
+   "BPJS_1": [
+        {
+            "name": "**✦ BLACKPINK Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1123989287218708631/jisoo_1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "BLACKPINK",
+            "code": "`BPJS_1`"
+        }          
+   ],     
+   "BPJN_1": [
+        {
+            "name": "**✦ BLACKPINK Jennie**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1123989286870585416/jennie_1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "BLACKPINK",
+            "code": "`BPJN_1`"
+        }   
+   ],     
+   "BPLS_1": [
+        {
+            "name": "**✦ BLACKPINK Lisa**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1123989286870585416/jennie_1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "BLACKPINK",
+            "code": "`BPLS_1`"
+        } 
+   ],     
+   "BPRS_1": [
+        {
+            "name": "**✦ BLACKPINK Rosé**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1123989287537492049/rose_1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "BLACKPINK",
+            "code": "`BPRS_1`"
+        }   
+   ],     
+   "BPJS_2": [
+        {
+            "name": "**✦✦ BLACKPINK Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124356919080001717/jisoo2.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "BLACKPINK",
+            "code": "`BPJS_2`"
+        }
+   ],     
+   "BPJN_2": [
+        {
+            "name": "**✦✦ BLACKPINK Jennie**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124356918681546902/jennie2.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "BLACKPINK",
+            "code": "`BPJN_2`"
+        }  
+   ],     
+   "BPLS_2": [
+        {
+            "name": "**✦✦ BLACKPINK Lisa**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124356918341795961/lisa2_1.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "BLACKPINK",
+            "code": "`BPLS_2`"
+        } 
+   ],     
+   "BPRS_2": [
+        {
+            "name": "**✦✦ BLACKPINK Rosé**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124356919457480894/rose2.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "BLACKPINK",
+            "code": "`BPRS_2`"
+        }  
+   ],     
+   "BPJS_3": [
+        {
+            "name": "**✦✦✦ BLACKPINK Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124901582480347186/jisoo_1.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "BLACKPINK",
+            "code": "`BPJS_3`"
+        }    
+   ],     
+   "BPJN_3": [
+        {
+            "name": "**✦✦✦ BLACKPINK Jennie**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124901582119641198/jennie.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "BLACKPINK",
+            "code": "`BPJN_3`"
+        }    
+   ],     
+   "BPLS_3": [
+        {
+            "name": "**✦✦✦ BLACKPINK Lisa**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124901581771522138/lisa.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "BLACKPINK",
+            "code": "`BPLS_3`"
+        }       
+   ],     
+   "BPRS_3": [
+        {
+            "name": "**✦✦✦ BLACKPINK Rosé**",
+            "image": "https://media.discordapp.net/attachments/1123968371881427085/1124901582778155079/rose.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "BLACKPINK",
+            "code": "`BPRS_3`"
+        }        
         ]
                              }
                  
