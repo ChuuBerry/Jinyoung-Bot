@@ -3287,7 +3287,157 @@
             "grade": "3star",
             "inv": "THE BOYZ",
             "code": "`TBER_3`"
-        }      
+        }
+    ],
+    "IZYJ_1": [
+        {
+            "name": "**✦ ITZY Yeji**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125061047137620109/Itzy_20230702214835.png?width=487&height=658",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ITZY",
+            "code": "`IZYJ_1`"
+        } 
+    ],
+    "IZLA_1": [
+        {
+            "name": "**✦ ITZY Lia**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125061047439597678/Itzy_20230702214931.png?width=487&height=658",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ITZY",
+            "code": "`IZLA_1`"
+        }   
+    ],
+    "IZRJ_1": [
+        {
+            "name": "**✦ ITZY Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125061047821287524/Itzy_20230702214955.png?width=487&height=658",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ITZY",
+            "code": "`IZRJ_1`"
+        }   
+    ],
+    "IZCY_1": [
+        {
+            "name": "**✦ ITZY Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125061048114892800/Itzy_20230702214852.png?width=487&height=658",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ITZY",
+            "code": "`IZCY_1`"
+        }   
+    ],
+    "IZYN_1": [
+        {
+            "name": "**✦ ITZY Yuna**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125061048463007924/Itzy_20230702214843.png?width=487&height=658",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ITZY",
+            "code": "`IZYN_1`"
+        } 
+    ],
+    "IZYJ_2": [
+        {
+            "name": "*https://media.discordapp.net/attachments/1124862438618169434/1125067312110776401/Itzy_20230702221455.png?width=487&height=658*✦✦ ITZY Yeji**",
+            "image": "",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ITZY",
+            "code": "`IZYJ_2`"
+        } 
+    ],
+    "IZLA_2": [
+        {
+            "name": "**✦✦ ITZY Lia**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125067312580546640/Itzy_20230702220305.png?width=487&height=658",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ITZY",
+            "code": "`IZLA_2`"
+        }   
+    ],
+    "IZRJ_2": [
+        {
+            "name": "**✦✦ ITZY Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125067312941240380/Itzy_20230702220313.png?width=487&height=658",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ITZY",
+            "code": "`IZRJ_2`"
+        }   
+    ],
+    "IZCY_2": [
+        {
+            "name": "**✦✦ ITZY Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125067313314549910/Itzy_20230702220322.png?width=487&height=658",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ITZY",
+            "code": "`IZCY_2`"
+        }   
+    ],
+    "IZYN_2": [
+        {
+            "name": "**✦✦ ITZY Yuna**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125067313796878396/Itzy_20230702220330.png?width=487&height=658",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ITZY",
+            "code": "`IZYN_2`"
+        } 
+    ],
+    "IZYJ_3": [
+        {
+            "name": "**✦✦✦ ITZY Yeji**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125079383388983397/Itzy_20230702230256.png?width=487&height=658",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ITZY",
+            "code": "`IZYJ_3`"
+        } 
+    ],
+    "IZLA_3": [
+        {
+            "name": "**✦✦✦ ITZY Lia**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125079383724531742/Itzy_20230702230044.png?width=487&height=658",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ITZY",
+            "code": "`IZLA_3`"
+        }   
+    ],
+    "IZRJ_3": [
+        {
+            "name": "**✦✦✦ ITZY Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125079384173318215/Itzy_20230702225922.png?width=487&height=658",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ITZY",
+            "code": "`IZRJ_3`"
+        }   
+    ],
+    "IZCY_3": [
+        {
+            "name": "**✦✦✦ ITZY Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125079384655659028/Itzy_20230702230119.png?width=487&height=658",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ITZY",
+            "code": "`IZCY_3`"
+        }   
+    ],
+    "IZYN_3": [
+        {
+            "name": "**✦✦✦ ITZY Yuna**",
+            "image": "https://media.discordapp.net/attachments/1124862438618169434/1125079385007984740/Itzy_20230702225731.png?width=487&height=658",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ITZY",
+            "code": "`IZYN_3`"
+        }       
         ]
                              }
                  
