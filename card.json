@@ -3437,7 +3437,247 @@
             "grade": "3star",
             "inv": "ITZY",
             "code": "`IZYN_3`"
-        }       
+        }  
+    ],
+    "EXSH_1": [
+        {
+            "name": "**✦ EXO Suho**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556251645358200/Untitled345_20230701121507.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXSH_1`"
+        }
+    ],
+    "EXXM_1": [
+        {
+            "name": "**✦ EXO Xiumin**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556252110929992/Untitled345_20230701121748.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXXM_1`"
+        } 
+    ],
+    "EXBH_1": [
+        {
+            "name": "**✦ EXO Baekhyun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556252521967626/Untitled345_20230701121354.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXBH_1`"
+        }    
+    ],
+    "EXCH_1": [
+        {
+            "name": "**✦ EXO Chen**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556252891058316/Untitled345_20230701121247.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXCH_1`"
+        }
+    ],
+    "EXCY_1": [
+        {
+            "name": "**✦ EXO Chanyeol**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556253247586354/Untitled345_20230701121648.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXCY_1`"
+        }    
+    ],
+    "EXDO_1": [
+        {
+            "name": "**✦ EXO D.O**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556253641846864/Untitled345_20230701121608.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXDO_1`"
+        }     
+    ],
+    "EXKA_1": [
+        {
+            "name": "**✦ EXO Kai**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556254115794974/Untitled345_20230701120840.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXKA_1`"
+        }  
+    ],
+    "EXSE_1": [
+        {
+            "name": "**✦ EXO Sehun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124556254505877514/Untitled345_20230701121545.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EXO",
+            "code": "`EXSE_1`"
+        }  
+    ],
+    "EXSH_2": [
+        {
+            "name": "**✦✦ EXO Suho**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569304503951410/Untitled345_20230701131246.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXSH_2`"
+        }    
+    ],
+    "EXXM_2": [
+        {
+            "name": "**✦✦ EXO Xiumin**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569304919179324/Untitled345_20230701131438.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXXM_2`"
+        } 
+    ],
+    "EXBH_2": [
+        {
+            "name": "**✦✦ EXO Baekhyun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569305296674926/Untitled345_20230701131403.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXBH_2`"
+        }    
+    ],
+    "EXCH_2": [
+        {
+            "name": "**✦✦ EXO Chen**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569305737085028/Untitled345_20230701131317.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXCH_2`"
+        }  
+    ],
+    "EXCY_2": [
+        {
+            "name": "**✦✦ EXO Chanyeol**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569306311688272/Untitled345_20230701125746.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXCY_2`"
+        }   
+    ],
+    "EXDO_2": [
+        {
+            "name": "**✦✦ EXO D.O**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569306747904151/Untitled345_20230701131138.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXDO_2`"
+        }  
+    ],
+    "EXKA_2": [
+        {
+            "name": "**✦✦ EXO Kai**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569307268005948/Untitled345_20230701131200.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXKA_2`"
+        }   
+    ],
+    "EXSE_2": [
+        {
+            "name": "**✦✦ EXO Sehun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124569307733557310/Untitled345_20230701130825.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EXO",
+            "code": "`EXSE_2`"
+        }   
+    ],
+    "EXSH_3": [
+        {
+            "name": "**✦✦✦ EXO Suho**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582143788584960/EXO_20230701135832.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXSH_3`"
+        }         
+    ],
+    "EXXM_3": [
+        {
+            "name": "**✦✦✦ EXO Xiumin**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582144132530276/EXO_20230701135756.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXXM_3`"
+        } 
+    ],
+    "EXBH_3": [
+        {
+            "name": "**✦✦✦ EXO Baekhyun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582144434524231/EXO_20230701140027.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXBH_3`"
+        } 
+    ],
+    "EXCH_3": [
+        {
+            "name": "**✦✦✦ EXO Chen**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582144803606579/EXO_20230701140139.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXCH_3`"
+        } 
+    ],
+    "EXCY_3": [
+        {
+            "name": "**✦✦✦ EXO Chanyeol**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582145130774528/EXO_20230701140533.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXCY_3`"
+        }     
+    ],
+    "EXDO_3": [
+        {
+            "name": "**✦✦✦ EXO D.O**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582145495683192/EXO_20230701135908.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXDO_3`"
+        }   
+    ],
+    "EXKA_3": [
+        {
+            "name": "**✦✦✦ EXO Kai**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582145860571207/EXO_20230701140203.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXKA_3`"
+        }  
+    ],
+    "EXSE_3": [
+        {
+            "name": "**✦✦✦ EXO Sehun**",
+            "image": "https://media.discordapp.net/attachments/1124555607958106132/1124582146263232592/EXO_20230701140634.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXSE_3`"
+        }            
         ]
                              }
                  
