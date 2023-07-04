@@ -3849,14 +3849,14 @@
             "code": "`ATRK_1`"
         }   
    ],     
-   "ATSH_1": [
+   "ATSA_1": [
         {
             "name": "**✦ ASTRO Sanha**",
             "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989317816164475/Untitled341_20230629224325.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "ASTRO",
-            "code": "`ATSH_1`"
+            "code": "`ATSA_1`"
         }   
    ],     
    "ATMJ_2": [
@@ -3909,14 +3909,14 @@
             "code": "`ATRK_2`"
         }   
    ],     
-   "ATSH_2": [
+   "ATSA_2": [
         {
             "name": "**✦✦ ASTRO Sanha**",
             "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012104039538718/Untitled341_20230630001115.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "ASTRO",
-            "code": "`ATSH_2`"
+            "code": "`ATSA_2`"
         }   
    ],     
    "ATMJ_3": [
@@ -3969,14 +3969,14 @@
             "code": "`ATRK_3`"
         }   
    ],     
-   "ATSH_3": [
+   "ATSA_3": [
         {
             "name": "**✦✦✦ ASTRO Sanha**",
             "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721743152566312/Untitled341_20230701231120.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "ASTRO",
-            "code": "`ATSH_3`"
+            "code": "`ATSA_3`"
         }
    ],     
    "EGEU_1": [
