@@ -3797,7 +3797,527 @@
             "grade": "3star",
             "inv": "BLACKPINK",
             "code": "`BPRS_3`"
-        }        
+        }
+   ],     
+   "ATMJ_1": [
+        {
+            "name": "**✦ ASTRO MJ**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989314943074354/Untitled341_20230629215334.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATMJ_1`"
+        }   
+   ],     
+   "ATJJ_1": [
+        {
+            "name": "**✦ ASTRO Jinjin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989316260069397/Untitled341_20230629215711.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATJJ_1`"
+        }   
+   ],     
+   "ATCE_1": [
+        {
+            "name": "**✦ ASTRO Cha Eunwoo**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989316687896596/Untitled341_20230629220218.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATCE_1`"
+        }   
+   ],     
+   "ATMB_1": [
+        {
+            "name": "**✦ ASTRO Moonbin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989317409308742/Untitled341_20230629224708.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATMB_1`"
+        }   
+   ],     
+   "ATRK_1": [
+        {
+            "name": "**✦ ASTRO Rocky**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989317006671942/Untitled341_20230629225042.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATRK_1`"
+        }   
+   ],     
+   "ATSH_1": [
+        {
+            "name": "**✦ ASTRO Sanha**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1123989317816164475/Untitled341_20230629224325.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ASTRO",
+            "code": "`ATSH_1`"
+        }   
+   ],     
+   "ATMJ_2": [
+        {
+            "name": "**✦✦ ASTRO MJ**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012102156300388/Untitled341_20230630001449.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATMJ_2`"
+        }   
+   ],     
+   "ATJJ_2": [
+        {
+            "name": "**✦✦ ASTRO Jinjin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012102512803920/Untitled341_20230630000823.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATJJ_2`"
+        }   
+   ],     
+   "ATCE_2": [
+        {
+            "name": "**✦✦ ASTRO Cha Eunwoo**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012102877716690/Untitled341_20230630002156.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATCE_2`"
+        }   
+   ],     
+   "ATMB_2": [
+        {
+            "name": "**✦✦ ASTRO Moonbin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012103309734030/Untitled341_20230630001613.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATMB_2`"
+        }   
+   ],     
+   "ATRK_2": [
+        {
+            "name": "**✦✦ ASTRO Rocky**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012103662043268/Untitled341_20230630001200.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATRK_2`"
+        }   
+   ],     
+   "ATSH_2": [
+        {
+            "name": "**✦✦ ASTRO Sanha**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124012104039538718/Untitled341_20230630001115.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "ASTRO",
+            "code": "`ATSH_2`"
+        }   
+   ],     
+   "ATMJ_3": [
+        {
+            "name": "**✦✦✦ ASTRO MJ**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721741395148961/Untitled341_20230701231702.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATMJ_3`"
+        }   
+   ],     
+   "ATJJ_3": [
+        {
+            "name": "**✦✦✦ ASTRO Jinjin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721741705515089/Untitled341_20230701230937.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATJJ_3`"
+        }   
+   ],     
+   "ATCE_3": [
+        {
+            "name": "**✦✦✦ ASTRO Cha Eunwoo**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721742015909978/Untitled341_20230701232203.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATCE_3`"
+        }   
+   ],     
+   "ATMB_3": [
+        {
+            "name": "**✦✦✦ ASTRO Moonbin**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721742359838820/Untitled341_20230701230144.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATMB_3`"
+        }   
+   ],     
+   "ATRK_3": [
+        {
+            "name": "**✦✦✦ ASTRO Rocky**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721742724730920/Untitled341_20230701231234.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATRK_3`"
+        }   
+   ],     
+   "ATSH_3": [
+        {
+            "name": "**✦✦✦ ASTRO Sanha**",
+            "image": "https://media.discordapp.net/attachments/1123981163732668546/1124721743152566312/Untitled341_20230701231120.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ASTRO",
+            "code": "`ATSH_3`"
+        }
+   ],     
+   "EGEU_1": [
+        {
+            "name": "**✦ EVERGLOW E:U**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236847778467890/everglow_20230703092109.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGEU_1`"
+        }
+   ],     
+   "EGSH_1": [
+        {
+            "name": "**✦ EVERGLOW Sihyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236848109821962/everglow_20230703092214.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGSH_1`"
+        }
+   ],     
+   "EGMA_1": [
+        {
+            "name": "**✦ EVERGLOW Mia**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236848466333718/everglow_20230703092310.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGMA_1`"
+        }
+   ],     
+   "EGOD_1": [
+        {
+            "name": "**✦ EVERGLOW Onda**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236848772534412/everglow_20230703092405.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGOD_1`"
+        }
+   ],     
+   "EGAS_1": [
+        {
+            "name": "**✦ EVERGLOW Aisha**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236849024180274/everglow_20230703092430.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGAS_1`"
+        }
+   ],     
+   "EGYR_1": [
+        {
+            "name": "**✦ EVERGLOW Yiren**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125236849401663549/everglow_20230703092452.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVERGLOW",
+            "code": "`EGYR_1`"
+        }
+   ],     
+   "EGEU_2": [
+        {
+            "name": "**✦✦ EVERGLOW E:U**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376052454248518/everglow_20230703184044.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGEU_2`"
+        }
+   ],     
+   "EGSH_2": [
+        {
+            "name": "**✦✦ EVERGLOW Sihyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376052768800848/everglow_20230703184025.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGSH_2`"
+        }
+   ],     
+   "EGMA_2": [
+        {
+            "name": "**✦✦ EVERGLOW Mia**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376053125337138/everglow_20230703184001.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGMA_2`"
+        }
+   ],     
+   "EGOD_2": [
+        {
+            "name": "**✦✦ EVERGLOW Onda**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376053498609784/everglow_20230703183942.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGOD_2`"
+        }
+   ],     
+   "EGAS_2": [
+        {
+            "name": "**✦✦ EVERGLOW Aisha**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376054048071750/everglow_20230703183852.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGAS_2`"
+        }
+   ],     
+   "EGYR_2": [
+        {
+            "name": "**✦✦ EVERGLOW Yiren**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376054442328144/everglow_20230703183800.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVERGLOW",
+            "code": "`EGYR_2`"
+        }
+   ],     
+   "EGEU_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW E:U**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376115490443404/everglow_20230703134100.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGEU_3`"
+        }
+   ],     
+   "EGSH_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW Sihyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376116241215538/everglow_20230703134150.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGSH_3`"
+        }
+   ],     
+   "EGMA_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW Mia**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376116836814958/everglow_20230703134027.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGMA_3`"
+        }
+   ],     
+   "EGOD_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW Onda**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376117205901404/everglow_20230703133948.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGOD_3`"
+        }
+   ],     
+   "EGAS_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW Aisha**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376117797302314/everglow_20230703133909.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGAS_3`"
+        }
+   ],     
+   "EGYR_3": [
+        {
+            "name": "**✦✦✦ EVERGLOW Yiren**",
+            "image": "https://media.discordapp.net/attachments/1124862532260200558/1125376118808137748/everglow_20230703133837.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVERGLOW",
+            "code": "`EGYR_3`"
+        }
+   ],     
+   "GIMY_1": [
+        {
+            "name": "**✦ (G)I-dle Miyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125095599600042054/Untitled341_20230702223245.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "(G)I-dle",
+            "code": "`GIMY_1`"
+        }
+   ],     
+   "GIMN_1": [
+        {
+            "name": "**✦ (G)I-dle Minnie**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125095599906242638/Untitled341_20230703000653.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "(G)I-dle",
+            "code": "`GIMN_1`"
+        }
+   ],     
+   "GISY_1": [
+        {
+            "name": "**✦ (G)I-dle Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125095600195641354/Untitled341_20230702223353.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "(G)I-dle",
+            "code": "`GISY_1`"
+        }
+   ],     
+   "GIYQ_1": [
+        {
+            "name": "**✦ (G)I-dle Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125095600485040188/Untitled341_20230702234943.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "(G)I-dle",
+            "code": "`GIYQ_1`"
+        }
+   ],     
+   "GISH_1": [
+        {
+            "name": "**✦ (G)I-dle Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125095600736714872/Untitled341_20230702223720.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "(G)I-dle",
+            "code": "`GISH_1`"
+        }
+   ],     
+   "GIMY_2": [
+        {
+            "name": "**✦✦ (G)I-dle Miyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125407838383128646/Untitled341_20230703204638.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "(G)I-dle",
+            "code": "`GIMY_2`"
+        }
+   ],     
+   "GIMN_2": [
+        {
+            "name": "**✦✦ (G)I-dle Minnie**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125407838878048296/Untitled341_20230703203934.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "(G)I-dle",
+            "code": "`GIMN_2`"
+        }
+   ],     
+   "GISY_2": [
+        {
+            "name": "**✦✦ (G)I-dle Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125407839209406474/Untitled341_20230703204152.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "(G)I-dle",
+            "code": "`GISY_2`"
+        }
+   ],     
+   "GIYQ_2": [
+        {
+            "name": "**✦✦ (G)I-dle Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125407839511400519/Untitled341_20230703204402.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GIYQ_2`"
+        }
+   ],     
+   "GISH_2": [
+        {
+            "name": "**✦✦ (G)I-dle Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125407839851126915/Untitled341_20230703204745.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GISH_3`"
+        }
+   ],     
+   "GIMY_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Miyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417107027394620/Untitled341_20230703212157.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GIMY_3`"
+        }
+   ],     
+   "GIMN_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Minnie**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417107379724401/Untitled341_20230703212311.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GIMN_3`"
+        }
+   ],     
+   "GISY_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Soyeon**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417108088569946/Untitled341_20230703212110.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GISY_3`"
+        }
+   ],     
+   "GIYQ_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417108373774347/Untitled341_20230703212036.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GIYQ_3`"
+        }
+   ],     
+   "GISH_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Shuhua**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417108717699092/Untitled341_20230703212133.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GISH_3`"
+        }
+   ],     
+   "GISJ_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Soojin**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417107740426302/Untitled341_20230703212427.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GISJ_3`"
+        }           
         ]
                              }
                  
