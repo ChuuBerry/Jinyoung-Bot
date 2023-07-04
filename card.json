@@ -4299,16 +4299,6 @@
             "code": "`GISH_3`"
         }
    ],     
-   "GISJ_3": [
-        {
-            "name": "**✦✦✦ (G)I-dle Soojin**",
-            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417107740426302/Untitled341_20230703212427.png?width=490&height=662",
-            "theme": "card3",
-            "grade": "3star",
-            "inv": "(G)I-dle",
-            "code": "`GISJ_3`"
-        }
-   ],     
    "EXLA_3": [
         {
             "name": "**✦✦✦ EXO Lay**",
@@ -4387,7 +4377,17 @@
             "grade": "3star",
             "inv": "WEEEKLY",
             "code": "`WKJI_3`"
-        }                
+        } 
+   ],     
+   "GISJ_3": [
+        {
+            "name": "**✦✦✦ (G)I-dle Soojin**",
+            "image": "https://media.discordapp.net/attachments/1124862394968068246/1125417107740426302/Untitled341_20230703212427.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "(G)I-dle",
+            "code": "`GISJ_3`"
+        }               
         ]
                              }
                  
