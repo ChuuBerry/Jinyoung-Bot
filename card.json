@@ -4317,7 +4317,77 @@
             "grade": "3star",
             "inv": "(G)I-dle",
             "code": "`GISJ_3`"
-        }           
+        }
+   ],     
+   "EXLA_3": [
+        {
+            "name": "**✦✦✦ EXO Lay**",
+            "image": "https://cdn.discordapp.com/attachments/1124555607958106132/1125610356925022308/EXO_20230704101320.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EXO",
+            "code": "`EXLA_3`"
+        } 
+   ],     
+   "WTGMN_3": [
+        {
+            "name": "**<:special:1125352394214092843> (G)I-dle Minnie**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954546020560947/SEUNGHWAN_20230702142605.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WTGMN_3`"
+        }  
+   ],     
+   "WT1SH_3": [
+        {
+            "name": "**<:special:1125352394214092843> 1THE9 Seunghwan**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954547224326234/SEUNGHWAN_20230702144250.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WT1SH_3`"
+        }  
+   ],     
+   "WT8MH_3": [
+        {
+            "name": "**<:special:1125352394214092843> 8TURN Myungho**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954547610210304/SEUNGHWAN_20230702143956.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WT8MH_3`"
+        }  
+   ],     
+   "WTAWT_3": [
+        {
+            "name": "**<:special:1125352394214092843> AESPA Winter**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954546435805295/SEUNGHWAN_20230702143756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WTAWT_3`"
+        }  
+   ],     
+   "WTCSH_3": [
+        {
+            "name": "**<:special:1125352394214092843> CIX Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954548096741477/SEUNGHWAN_20230702144143.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WTCSH_3`"
+        }  
+   ],     
+   "WTRJO_3": [
+        {
+            "name": "**<:special:1125352394214092843> RED VELVET Joy**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1124954546846842880/SEUNGHWAN_20230702143026.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Special Wispy Tracks",
+            "code": "`WTRJO_3`"
+        }              
         ]
                              }
                  
