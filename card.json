@@ -2639,16 +2639,6 @@
             "code": "`WKJH_3`"
         }  
     ],
-    "WKJI_3": [
-        {
-            "name": "**✦✦✦ WEEEKLY Jihan**",
-            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134452981923960/WEEEKLY_20230630082440.png?width=490&height=662",
-            "theme": "card3",
-            "grade": "3star",
-            "inv": "WEEEKLY",
-            "code": "`WKJI_3`"
-        }  
-    ],
     "WKZA_3": [
         {
             "name": "**✦✦✦ WEEEKLY Zoa**",
@@ -4387,7 +4377,17 @@
             "grade": "3star",
             "inv": "Special Wispy Tracks",
             "code": "`WTRJO_3`"
-        }              
+        }
+    ],
+    "WKJI_3": [
+        {
+            "name": "**✦✦✦ WEEEKLY Jihan**",
+            "image": "https://media.discordapp.net/attachments/1123991052576100372/1124134452981923960/WEEEKLY_20230630082440.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "WEEEKLY",
+            "code": "`WKJI_3`"
+        }                
         ]
                              }
                  
