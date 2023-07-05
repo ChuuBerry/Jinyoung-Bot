@@ -151,7 +151,61 @@
             "image": "https://media.discordapp.net/attachments/1123454158654152725/1125694421204217928/Untitled295_20230704154436.png?width=1187&height=662",
             "theme": "card1",
             "inv": "Wallpaper",
-            "code": "`P8TMH_WP`"
+            "code": "`PATJR_WP`"
+        }
+    ],
+    "WTGMN_WP": [
+        {
+            "name": "**Wispy Tracks Minnie Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973917924859934/Untitled236_20230705101026.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WTGMN_WP`"
+        }
+    ],
+    "WT1SH_WP": [
+        {
+            "name": "**Wispy Tracks Seunghwan Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973918155554966/Untitled236_20230705101709.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WT1SH_WP`"
+        }
+    ],
+    "WT8MH_WP": [
+        {
+            "name": "**Wispy Tracks Myungho Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973918491103312/Untitled236_20230705101524.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WT8MH_WP`"
+        }
+    ],
+    "WTAWT_WP": [
+        {
+            "name": "**Wispy Tracks Winter Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973918780497921/Untitled236_20230705100808.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WTAWT_WP`"
+        }
+    ],
+    "WTCSH_WP": [
+        {
+            "name": "**Wispy Tracks Seunghun Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973919057330226/Untitled236_20230705100924.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WTCSH_WP`"
+        }
+    ],
+    "WTRJO_WP": [
+        {
+            "name": "**Wispy Tracks Joy Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1125973919279632504/Untitled236_20230705095936.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WTRJO_WP`"
         }        
     ]
 }
