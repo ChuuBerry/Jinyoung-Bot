@@ -4747,9 +4747,429 @@
             "grade": "3star",
             "inv": "STAYC",
             "code": "`SCJJ_3`"
-        }                 
+        }
+   ],     
+   "N1TI_1": [
+        {
+            "name": "**✦ NCT127 Taeil**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436762232213585/Untitled341_20230701235839.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1TI_1`"
+        } 
+   ],     
+   "N1JO_1": [
+        {
+            "name": "**✦ NCT127 Johnny**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436762630656209/Untitled341_20230702000908.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1JO_1`"
+        } 
+   ],     
+   "N1TY_1": [
+        {
+            "name": "**✦ NCT127 Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436763268194305/Untitled341_20230701235202.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1TY_1`"
+        } 
+   ],     
+   "N1YT_1": [
+        {
+            "name": "**✦ NCT127 Yuta**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436763805077514/Untitled341_20230701235410.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1YT_1`"
+        } 
+   ],     
+   "N1DY_1": [
+        {
+            "name": "**✦ NCT127 Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436764253851759/Untitled341_20230701235545.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1DY_1`"
+        } 
+   ],     
+   "N1JH_1": [
+        {
+            "name": "**✦ NCT127 Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436764740407327/Untitled341_20230703224140.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1JH_1`"
+        } 
+   ],     
+   "N1JW_1": [
+        {
+            "name": "**✦ NCT127 Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436765054963802/Untitled341_20230702000336.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1JW_1`"
+        } 
+   ],     
+   "N1MA_1": [
+        {
+            "name": "**✦ NCT127 Mark**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436765453434970/Untitled341_20230702000519-1.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1MA_1`"
+        } 
+   ],     
+   "N1HC_1": [
+        {
+            "name": "**✦ NCT127 Haechan**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125436765990309888/Untitled341_20230702000757.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NCT 127",
+            "code": "`N1HC_1`"
+        }
+   ],     
+   "N1TI_2": [
+        {
+            "name": "**✦✦ NCT127 Taeil**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437725135360091/Untitled341_20230703222334.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1TI_2`"
+        } 
+   ],     
+   "N1JO_2": [
+        {
+            "name": "**✦✦ NCT127 Johnny**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437725550579763/Untitled341_20230703222704.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1JO_2`"
+        } 
+   ],     
+   "N1TY_2": [
+        {
+            "name": "**✦✦ NCT127 Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437725928083476/Untitled341_20230703220527.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1TY_2`"
+        } 
+   ],     
+   "N1YT_2": [
+        {
+            "name": "**✦✦ NCT127 Yuta**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437726280384572/Untitled341_20230703222515.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1YT_2`"
+        } 
+   ],     
+   "N1DY_2": [
+        {
+            "name": "**✦✦ NCT127 Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437726553018418/Untitled341_20230703221558.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1DY_2`"
+        } 
+   ],     
+   "N1JH_2": [
+        {
+            "name": "**✦✦ NCT127 Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437726955688028/Untitled341_20230703223100.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1JH_2`"
+        } 
+   ],     
+   "N1JW_2": [
+        {
+            "name": "**✦✦ NCT127 Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437727425429575/Untitled341_20230703221406.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1JW_2`"
+        } 
+   ],     
+   "N1MA_2": [
+        {
+            "name": "**✦✦ NCT127 Mark**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437727828086805/Untitled341_20230703220703.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1MA_2`"
+        } 
+   ],     
+   "N1HC_2": [
+        {
+            "name": "**✦✦ NCT127 Haechan**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125437728226562099/Untitled341_20230703220859.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NCT 127",
+            "code": "`N1HC_2`"
+        }
+   ],     
+   "N1TI_3": [
+        {
+            "name": "**✦✦✦ NCT127 Taeil**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812003995390062/Untitled341_20230704071520.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1TI_3`"
+        } 
+   ],     
+   "N1JO_3": [
+        {
+            "name": "**✦✦✦ NCT127 Johnny**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812004377079858/Untitled341_20230704232544.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1JO_3`"
+        } 
+   ],     
+   "N1TY_3": [
+        {
+            "name": "**✦✦✦ NCT127 Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812004771336203/Untitled341_20230704011020.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1TY_3`"
+        } 
+   ],     
+   "N1YT_3": [
+        {
+            "name": "**✦✦✦ NCT127 Yuta**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812005157216336/Untitled341_20230704071311.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1YT_3`"
+        } 
+   ],     
+   "N1DY_3": [
+        {
+            "name": "**✦✦✦ NCT127 Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812005568254083/Untitled341_20230704071101.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1DY_3`"
+        } 
+   ],     
+   "N1JH_3": [
+        {
+            "name": "**✦✦✦ NCT127 Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812005924773958/Untitled341_20230704233225.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1JH_3`"
+        } 
+   ],     
+   "N1JW_3": [
+        {
+            "name": "**✦✦✦ NCT127 Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812006226767942/Untitled341_20230704233049.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1JW_3`"
+        } 
+   ],     
+   "N1MA_3": [
+        {
+            "name": "**✦✦✦ NCT127 Mark**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812006776221856/Untitled341_20230704233433.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1MA_3`"
+        } 
+   ],     
+   "N1HC_3": [
+        {
+            "name": "**✦✦✦ NCT127 Haechan**",
+            "image": "https://media.discordapp.net/attachments/1125429942683963422/1125812007078203442/Untitled341_20230704012751.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NCT 127",
+            "code": "`N1HC_3`"
+        }
+   ],     
+   "LSSK_1": [
+        {
+            "name": "**✦ LE SSERAFIM Sakura**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474761573666827/sakura.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSSK_1`"
+        }
+   ],     
+   "LSCW_1": [
+        {
+            "name": "**✦ LE SSERAFIM Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474761930195014/chaewon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSCW_1`"
+        } 
+   ],     
+   "LSYJ_1": [
+        {
+            "name": "**✦ LE SSERAFIM Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474762349609050/yunjin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSYJ_1`"
+        } 
+   ],     
+   "LSKZ_1": [
+        {
+            "name": "**✦ LE SSERAFIM Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474762760654919/kazuha_20230703044433.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSKZ_1`"
+        } 
+   ],     
+   "LSEC_1": [
+        {
+            "name": "**✦ LE SSERAFIM Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474763180097536/eunchae.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSEC_1`"
+        }
+   ],     
+   "LSSK_2": [
+        {
+            "name": "**✦✦ LE SSERAFIM Sakura**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474800920436826/sakura2_3.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSSK_2`"
+        }
+   ],     
+   "LSCW_2": [
+        {
+            "name": "**✦✦ LE SSERAFIM Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474806171697163/chaewon_3.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSCW_2`"
+        } 
+   ],     
+   "LSYJ_2": [
+        {
+            "name": "**✦✦ LE SSERAFIM Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474806687604819/yunjin2_2.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSYJ_2`"
+        } 
+   ],     
+   "LSKZ_2": [
+        {
+            "name": "**✦✦ LE SSERAFIM Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474807115415552/kazuha2_2.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSKZ_2`"
+        } 
+   ],     
+   "LSEC_2": [
+        {
+            "name": "**✦✦ LE SSERAFIM Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125474807572611163/eunchae2_1.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSEC_2`"
+        }
+   ],     
+   "LSSK_3": [
+        {
+            "name": "**✦✦✦ LE SSERAFIM Sakura**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125475007703822438/sakura3_1.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSSK_3`"
+        }
+   ],     
+   "LSCW_3": [
+        {
+            "name": "**✦✦✦ LE SSERAFIM Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125475008123240468/chaewon2_20230703190701.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSCW_3`"
+        } 
+   ],     
+   "LSYJ_3": [
+        {
+            "name": "**✦✦✦ LE SSERAFIM Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125475008538488904/yunjin3.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSYJ_3`"
+        } 
+   ],     
+   "LSKZ_3": [
+        {
+            "name": "**✦✦✦ LE SSERAFIM Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125475008895012864/yunjin4.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSKZ_3`"
+        } 
+   ],     
+   "LSEC_3": [
+        {
+            "name": "**✦✦✦ LE SSERAFIM Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1125254377893007371/1125475009192788068/eunchae3_1.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LE SSERAFIM",
+            "code": "`LSEC_3`"
+        }                          
         ]
-                             }
+ }
                  
         
     
