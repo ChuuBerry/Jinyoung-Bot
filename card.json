@@ -4387,7 +4387,367 @@
             "grade": "3star",
             "inv": "(G)I-dle",
             "code": "`GISJ_3`"
-        }               
+        } 
+   ],     
+   "NMLL_1": [
+        {
+            "name": "**✦ NMIXX Lily**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785483339894804/diamond_card_Lily.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMLL_1`"
+        }
+   ],     
+   "NMHW_1": [
+        {
+            "name": "**✦ NMIXX Haewon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785483742564442/diamond_card_Haewon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMHW_1`"
+        }  
+   ],     
+   "NMSY_1": [
+        {
+            "name": "**✦ NMIXX Sullyoon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785484019380285/diamond_card_Sullyoon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMSY_1`"
+        }  
+   ],     
+   "NMBA_1": [
+        {
+            "name": "**✦ NMIXX Bae**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785484841463959/diamond_card_BAE.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMBA_1`"
+        } 
+   ],     
+   "NMJW_1": [
+        {
+            "name": "**✦ NMIXX Jiwoo**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785485218959380/diamond_card_Jiwoo.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMJW_1`"
+        }  
+   ],     
+   "NMKJ_1": [
+        {
+            "name": "**✦ NMIXX Kyujin**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785485709676584/diamond_card_Kyujin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMKJ_1`"
+        }
+   ],     
+   "NMLL_2": [
+        {
+            "name": "**✦✦ NMIXX Lily**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043649671704638/diamond_card_Lily.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMLL_2`"
+        }
+   ],     
+   "NMHW_2": [
+        {
+            "name": "**✦✦ NMIXX Haewon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043649986285600/diamond_card_Haewon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMHW_2`"
+        }  
+   ],     
+   "NMSY_2": [
+        {
+            "name": "**✦✦ NMIXX Sullyoon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043650208571463/diamond_card_Sullyoon.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMSY_2`"
+        }  
+   ],     
+   "NMBA_2": [
+        {
+            "name": "**✦✦ NMIXX Bae**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043650657374218/diamond_card_BAE.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMBA_2`"
+        } 
+   ],     
+   "NMJW_2": [
+        {
+            "name": "**✦✦ NMIXX Jiwoo**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043650917408849/diamond_card_Jiwoo.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMJW_2`"
+        }  
+   ],     
+   "NMKJ_2": [
+        {
+            "name": "**✦✦ NMIXX Kyujin**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043651252957234/diamond_card_Kyujin.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "NMIXX",
+            "code": "`NMKJ_2`"
+        }  
+   ],     
+   "NMLL_3": [
+        {
+            "name": "**✦✦✦ NMIXX Lily**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043727098556476/diamond_card_Lily.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMLL_3`"
+        }
+   ],     
+   "NMHW_3": [
+        {
+            "name": "**✦✦✦ NMIXX Haewon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043727647997972/diamond_card_Haewon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMHW_3`"
+        }  
+   ],     
+   "NMSY_3": [
+        {
+            "name": "**✦✦✦ NMIXX Sullyoon**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043728105185392/diamond_card_Sullyoon.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMSY_3`"
+        }  
+   ],     
+   "NMBA_3": [
+        {
+            "name": "**✦✦✦ NMIXX Bae**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043728574939177/diamond_card_BAE.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMBA_3`"
+        } 
+   ],     
+   "NMJW_3": [
+        {
+            "name": "**✦✦✦ NMIXX Jiwoo**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043728910491648/diamond_card_Jiwoo.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMJW_3`"
+        }  
+   ],     
+   "NMKJ_3": [
+        {
+            "name": "**✦✦✦ NMIXX Kyujin**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1126043729564807199/diamond_card_Kyujin.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "NMIXX",
+            "code": "`NMKJ_3`"
+        }
+   ],     
+   "SCSM_1": [
+        {
+            "name": "**✦ STAYC Sumin**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799625119514706/Untitled342_20230704110633.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCSM_1`"
+        }
+   ],     
+   "SCSI_1": [
+        {
+            "name": "**✦ STAYC Sieun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799625538949170/Untitled342_20230704110520.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCSI_1`"
+        }
+   ],     
+   "SCIS_1": [
+        {
+            "name": "**✦ STAYC Isa**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799625954177054/Untitled342_20230704110352.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCIS_1`"
+        }
+   ],     
+   "SCSE_1": [
+        {
+            "name": "**✦ STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799626340057139/Untitled342_20230704110254.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCSE_1`"
+        }
+   ],     
+   "SCYO_1": [
+        {
+            "name": "**✦ STAYC Yoon**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799626755297310/Untitled342_20230704110128.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCYO_1`"
+        }
+   ],     
+   "SCJJ_1": [
+        {
+            "name": "**✦ STAYC J**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125799627141165066/Untitled342_20230704110135.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "STAYC",
+            "code": "`SCJJ_1`"
+        }
+   ],     
+   "SCSM_2": [
+        {
+            "name": "**✦✦ STAYC Sumin**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800484742103081/Untitled342_20230704224826.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCSM_2`"
+        }
+   ],     
+   "SCSI_2": [
+        {
+            "name": "**✦✦ STAYC Sieun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800485119602708/Untitled342_20230704224818.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCSI_2`"
+        }
+   ],     
+   "SCIS_2": [
+        {
+            "name": "**✦✦ STAYC Isa**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800485656465418/Untitled342_20230704224808.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCIS_2`"
+        }
+   ],     
+   "SCSE_2": [
+        {
+            "name": "**✦✦ STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800486038143088/Untitled342_20230704224800.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCSE_2`"
+        }
+   ],     
+   "SCYO_2": [
+        {
+            "name": "**✦✦ STAYC Yoon**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800486407254096/Untitled342_20230704224744.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCYO_2`"
+        }
+   ],     
+   "SCJJ_2": [
+        {
+            "name": "**✦✦ STAYC J**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125800486746984470/Untitled342_20230704224733.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "STAYC",
+            "code": "`SCJJ_2`"
+        }
+   ],     
+   "SCSM_3": [
+        {
+            "name": "**✦✦✦ STAYC Sumin**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814488302616636/Untitled342_20230704234303.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCSM_3`"
+        }
+   ],     
+   "SCSI_3": [
+        {
+            "name": "**✦✦✦ STAYC Sieun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814488713670678/Untitled342_20230704234317.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCSI_3`"
+        }
+   ],     
+   "SCIS_3": [
+        {
+            "name": "**✦✦✦ STAYC Isa**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814489158258758/Untitled342_20230704234327.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCIS_3`"
+        }
+   ],     
+   "SCSE_3": [
+        {
+            "name": "**✦✦✦ STAYC Seeun**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814489552519229/Untitled342_20230704234334.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCSE_3`"
+        }
+   ],     
+   "SCYO_3": [
+        {
+            "name": "**✦✦✦ STAYC Yoon**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814489988730911/Untitled342_20230704234340.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCYO_3`"
+        }
+   ],     
+   "SCJJ_3": [
+        {
+            "name": "**✦✦✦ STAYC J**",
+            "image": "https://media.discordapp.net/attachments/1125623807504289913/1125814490307493949/Untitled342_20230704234347.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "STAYC",
+            "code": "`SCJJ_3`"
+        }                 
         ]
                              }
                  
