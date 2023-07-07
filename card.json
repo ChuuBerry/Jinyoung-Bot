@@ -5167,7 +5167,437 @@
             "grade": "3star",
             "inv": "LE SSERAFIM",
             "code": "`LSEC_3`"
-        }                          
+        }
+   ],     
+   "8TMH_1": [
+        {
+            "name": "**✦ 8TURN Myungho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864086868028/8turn_20230704012105.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TMH_1`"
+        }
+   ],     
+   "8TJY_1": [
+        {
+            "name": "**✦ 8TURN Jaeyun**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864527261796/8turn_20230704012743.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TJY_1`"
+        }
+   ],     
+   "8TMI_1": [
+        {
+            "name": "**✦ 8TURN Minho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864913141890/8turn_20230704012152.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TMI_1`"
+        }
+   ],     
+   "8TYS_1": [
+        {
+            "name": "**✦ 8TURN Yoonsung**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486865361936494/8turn_20230704020058.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TYS_1`"
+        }
+   ],     
+   "8THM_1": [
+        {
+            "name": "**✦ 8TURN Haemin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486865823301642/8turn_20230704012651.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8THM_1`"
+        }
+   ],     
+   "8TKM_1": [
+        {
+            "name": "**✦ 8TURN Kyungmin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866280489121/8turn_20230704020140.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TKM_1`"
+        }
+   ],     
+   "8TYG_1": [
+        {
+            "name": "**✦ 8TURN Yungyu**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866632802304/8turn_20230704012831.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TYG_1`"
+        }
+   ],     
+   "8TSH_1": [
+        {
+            "name": "**✦ 8TURN Seungheon**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866993520700/8turn_20230704012351.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "8TURN",
+            "code": "`8TSH_1`"
+        }
+   ],     
+   "8TMH_2": [
+        {
+            "name": "**✦✦ 8TURN Myungho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100182883381338/8turn_20230704234214.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TMH_2`"
+        }
+   ],     
+   "8TJY_2": [
+        {
+            "name": "**✦✦ 8TURN Jaeyun**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100183298605106/8turn_20230704233931.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TJY_2`"
+        }
+   ],     
+   "8TMI_2": [
+        {
+            "name": "**✦✦ 8TURN Minho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184238137454/8turn_20230704231152.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TMI_2`"
+        }
+   ],     
+   "8TYS_2": [
+        {
+            "name": "**✦✦ 8TURN Yoonsung**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184955367475/8turn_20230704234047.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TYS_2`"
+        }
+   ],     
+   "8THM_2": [
+        {
+            "name": "**✦✦ 8TURN Haemin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184955367475/8turn_20230704234047.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8THM_2`"
+        }
+   ],     
+   "8TKM_2": [
+        {
+            "name": "**✦✦ 8TURN Kyungmin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100185790029844/8turn_20230705183823.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TKM_2`"
+        }
+   ],     
+   "8TYG_2": [
+        {
+            "name": "**✦✦ 8TURN Yungyu**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100186142355526/8turn_20230704234749.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TYG_2`"
+        }
+   ],     
+   "8TSH_2": [
+        {
+            "name": "**✦✦ 8TURN Seungheon**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100186834403418/8turn_20230705183558.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "8TURN",
+            "code": "`8TSH_3`"
+        }
+   ],     
+   "8TMH_3": [
+        {
+            "name": "**✦✦✦ 8TURN Myungho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388451231666277/8turn_20230706133634.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TMH_3`"
+        }
+   ],     
+   "8TJY_3": [
+        {
+            "name": "**✦✦✦ 8TURN Jaeyun**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388451621740604/8turn_20230706133604.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TJY_3`"
+        }
+   ],     
+   "8TMI_3": [
+        {
+            "name": "**✦✦✦ 8TURN Minho**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452053749810/8turn_20230706133530.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TMI_3`"
+        }
+   ],     
+   "8TYS_3": [
+        {
+            "name": "**✦✦✦ 8TURN Yoonsung**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452418666507/8turn_20230706133451.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TYS_3`"
+        }
+   ],     
+   "8THM_3": [
+        {
+            "name": "**✦✦✦ 8TURN Haemin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452800339979/8turn_20230706133359.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8THM_3`"
+        }
+   ],     
+   "8TKM_3": [
+        {
+            "name": "**✦✦✦ 8TURN Kyungmin**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453186211941/8turn_20230706133311.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TKM_3`"
+        }
+   ],     
+   "8TYG_3": [
+        {
+            "name": "**✦✦✦ 8TURN Yungyu**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453525962822/8turn_20230706133228.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TYG_3`"
+        }
+   ],     
+   "8TSH_3": [
+        {
+            "name": "**✦✦✦ 8TURN Seungheon**",
+            "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453878276126/8turn_20230706133152.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "8TURN",
+            "code": "`8TSH_3`"
+        }
+   ],     
+   "TNKJ_1": [
+        {
+            "name": "**✦ THE NEW SIX Kyungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150813794963516/Untitled342_20230705215921.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNKJ_1`"
+        }
+   ],     
+   "TNTH_1": [
+        {
+            "name": "**✦ THE NEW SIX Taehun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150813375529070/Untitled341_20230705212119.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNTH_1`"
+        }
+   ],     
+   "TNHS_1": [
+        {
+            "name": "**✦ THE NEW SIX Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150814273110117/Untitled341_20230705213115.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHS_1`"
+        }
+   ],     
+   "TNJH_1": [
+        {
+            "name": "**✦ THE NEW SIX Junhyeok**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150814642212906/Untitled341_20230705213624.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNJH_1`"
+        }
+   ],     
+   "TNHW_1": [
+        {
+            "name": "**✦ THE NEW SIX Hwi**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150815145545728/Untitled342_20230705214611.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHW_1`"
+        }
+   ],     
+   "TNSJ_1": [
+        {
+            "name": "**✦ THE NEW SIX Sungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126150815497846854/Untitled342_20230705214841.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "THE NEW SIX",
+            "code": "`TNSJ_1`"
+        }
+   ],     
+   "TNKJ_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Kyungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165478532984974/Untitled342_20230705225144.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNKJ_2`"
+        }
+   ],     
+   "TNTH_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Taehun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165478038052904/Untitled342_20230705225327.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNTH_2`"
+        }
+   ],     
+   "TNHS_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165478969196644/Untitled342_20230705225354.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHS_2`"
+        }
+   ],     
+   "TNJH_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Junhyeok**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165479338287185/Untitled342_20230705225431.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNJH_2`"
+        }
+   ],     
+   "TNHW_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Hwi**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165479673835540/Untitled342_20230705225624.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHW_2`"
+        }
+   ],     
+   "TNSJ_2": [
+        {
+            "name": "**✦✦ THE NEW SIX Sungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126165480286199888/Untitled342_20230705225822.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "THE NEW SIX",
+            "code": "`TNSJ_2`"
+        }
+   ],     
+   "TNKJ_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Kyungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183595292233738/Untitled342_20230705235020.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNKJ_3`"
+        }
+   ],     
+   "TNTH_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Taehun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183594868621407/Untitled342_20230705233930.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNTH_3`"
+        }
+   ],     
+   "TNHS_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183595757813860/Untitled342_20230705234328.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHS_3`"
+        }
+   ],     
+   "TNJH_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Junhyeok**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183596181426296/Untitled342_20230705233048.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNJH_3`"
+        }
+   ],     
+   "TNHW_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Hwi**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183596605063408/Untitled342_20230705234709.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNHW_3`"
+        }
+   ],     
+   "TNSJ_3": [
+        {
+            "name": "**✦✦✦ THE NEW SIX Sungjun**",
+            "image": "https://media.discordapp.net/attachments/1126147937622315099/1126183597028675614/Untitled342_20230705235318.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "THE NEW SIX",
+            "code": "`TNSJ_3`"
+        }
+   ],     
+   "NMJN_1": [
+        {
+            "name": "**✦ NMIXX Jinni**",
+            "image": "https://media.discordapp.net/attachments/1125785241181761537/1125785484434624585/diamond_card_Jinni.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "NMIXX",
+            "code": "`NMJN_3`"
+        }                             
         ]
  }
                  
