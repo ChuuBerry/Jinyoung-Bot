@@ -742,7 +742,7 @@
     "NJHI_3": [
         {
             "name": "**✦✦✦ NewJeans Hyein**",
-            "image": "https://media.discordapp.net/attachments/1123416639392727072/1123421929295065088/Newjeans_20230628091347.png",
+            "image": "https://media.discordapp.net/attachments/1123416639392727072/1126674471739203684/Newjeans_20230707084131.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "NewJeans",
@@ -5169,244 +5169,244 @@
             "code": "`LSEC_3`"
         }
    ],     
-   "8TMH_1": [
+   "ETMH_1": [
         {
             "name": "**✦ 8TURN Myungho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864086868028/8turn_20230704012105.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TMH_1`"
+            "code": "`ETMH_1`"
         }
    ],     
-   "8TJY_1": [
+   "ETJY_1": [
         {
             "name": "**✦ 8TURN Jaeyun**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864527261796/8turn_20230704012743.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
-            "inv": "8TURN",
-            "code": "`8TJY_1`"
+            "inv": "ETURN",
+            "code": "`ETJY_1`"
         }
    ],     
-   "8TMI_1": [
+   "ETMI_1": [
         {
             "name": "**✦ 8TURN Minho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486864913141890/8turn_20230704012152.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TMI_1`"
+            "code": "`ETMI_1`"
         }
    ],     
-   "8TYS_1": [
+   "ETYS_1": [
         {
             "name": "**✦ 8TURN Yoonsung**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486865361936494/8turn_20230704020058.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TYS_1`"
+            "code": "`ETYS_1`"
         }
    ],     
-   "8THM_1": [
+   "ETHM_1": [
         {
             "name": "**✦ 8TURN Haemin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486865823301642/8turn_20230704012651.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8THM_1`"
+            "code": "`ETHM_1`"
         }
    ],     
-   "8TKM_1": [
+   "ETKM_1": [
         {
             "name": "**✦ 8TURN Kyungmin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866280489121/8turn_20230704020140.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TKM_1`"
+            "code": "`ETKM_1`"
         }
    ],     
-   "8TYG_1": [
+   "ETYG_1": [
         {
             "name": "**✦ 8TURN Yungyu**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866632802304/8turn_20230704012831.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TYG_1`"
+            "code": "`ETYG_1`"
         }
    ],     
-   "8TSH_1": [
+   "ETSH_1": [
         {
             "name": "**✦ 8TURN Seungheon**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1125486866993520700/8turn_20230704012351.png?width=490&height=662",
             "theme": "card1",
             "grade": "1star",
             "inv": "8TURN",
-            "code": "`8TSH_1`"
+            "code": "`ETSH_1`"
         }
    ],     
-   "8TMH_2": [
+   "ETMH_2": [
         {
             "name": "**✦✦ 8TURN Myungho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100182883381338/8turn_20230704234214.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
-            "inv": "8TURN",
-            "code": "`8TMH_2`"
+            "inv": "ETURN",
+            "code": "`ETMH_2`"
         }
    ],     
-   "8TJY_2": [
+   "ETJY_2": [
         {
             "name": "**✦✦ 8TURN Jaeyun**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100183298605106/8turn_20230704233931.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8TJY_2`"
+            "code": "`ETJY_2`"
         }
    ],     
-   "8TMI_2": [
+   "ETMI_2": [
         {
             "name": "**✦✦ 8TURN Minho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184238137454/8turn_20230704231152.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8TMI_2`"
+            "code": "`ETMI_2`"
         }
    ],     
-   "8TYS_2": [
+   "ETYS_2": [
         {
             "name": "**✦✦ 8TURN Yoonsung**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184955367475/8turn_20230704234047.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8TYS_2`"
+            "code": "`ETYS_2`"
         }
    ],     
-   "8THM_2": [
+   "ETHM_2": [
         {
             "name": "**✦✦ 8TURN Haemin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100184955367475/8turn_20230704234047.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8THM_2`"
+            "code": "`ETHM_2`"
         }
    ],     
-   "8TKM_2": [
+   "ETKM_2": [
         {
             "name": "**✦✦ 8TURN Kyungmin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100185790029844/8turn_20230705183823.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8TKM_2`"
+            "code": "`ETKM_2`"
         }
    ],     
-   "8TYG_2": [
+   "ETYG_2": [
         {
             "name": "**✦✦ 8TURN Yungyu**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100186142355526/8turn_20230704234749.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
-            "inv": "8TURN",
-            "code": "`8TYG_2`"
+            "inv": "ETURN",
+            "code": "`ETYG_2`"
         }
    ],     
-   "8TSH_2": [
+   "ETSH_2": [
         {
             "name": "**✦✦ 8TURN Seungheon**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126100186834403418/8turn_20230705183558.png?width=490&height=662",
             "theme": "card2",
             "grade": "2star",
             "inv": "8TURN",
-            "code": "`8TSH_3`"
+            "code": "`ETSH_3`"
         }
    ],     
-   "8TMH_3": [
+   "ETMH_3": [
         {
             "name": "**✦✦✦ 8TURN Myungho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388451231666277/8turn_20230706133634.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TMH_3`"
+            "code": "`ETMH_3`"
         }
    ],     
-   "8TJY_3": [
+   "ETJY_3": [
         {
             "name": "**✦✦✦ 8TURN Jaeyun**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388451621740604/8turn_20230706133604.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TJY_3`"
+            "code": "`ETJY_3`"
         }
    ],     
-   "8TMI_3": [
+   "ETMI_3": [
         {
             "name": "**✦✦✦ 8TURN Minho**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452053749810/8turn_20230706133530.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TMI_3`"
+            "code": "`ETMI_3`"
         }
    ],     
-   "8TYS_3": [
+   "ETYS_3": [
         {
             "name": "**✦✦✦ 8TURN Yoonsung**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452418666507/8turn_20230706133451.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TYS_3`"
+            "code": "`ETYS_3`"
         }
    ],     
-   "8THM_3": [
+   "ETHM_3": [
         {
             "name": "**✦✦✦ 8TURN Haemin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388452800339979/8turn_20230706133359.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8THM_3`"
+            "code": "`ETHM_3`"
         }
    ],     
-   "8TKM_3": [
+   "ETKM_3": [
         {
             "name": "**✦✦✦ 8TURN Kyungmin**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453186211941/8turn_20230706133311.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TKM_3`"
+            "code": "`ETKM_3`"
         }
    ],     
-   "8TYG_3": [
+   "ETYG_3": [
         {
             "name": "**✦✦✦ 8TURN Yungyu**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453525962822/8turn_20230706133228.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TYG_3`"
+            "code": "`ETYG_3`"
         }
    ],     
-   "8TSH_3": [
+   "ETSH_3": [
         {
             "name": "**✦✦✦ 8TURN Seungheon**",
             "image": "https://media.discordapp.net/attachments/1125479660441047111/1126388453878276126/8turn_20230706133152.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "8TURN",
-            "code": "`8TSH_3`"
+            "code": "`ETSH_3`"
         }
    ],     
    "TNKJ_1": [
