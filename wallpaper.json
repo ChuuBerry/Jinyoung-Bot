@@ -242,6 +242,24 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`PNTEN_WP`"
+        }
+    ],
+    "PENHA_WP": [
+        {
+            "name": "**ENHYPEN Staff Exclusive Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1126804021265563689/Untitled244_20230707171534.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`PENHA_WP`"
+        }
+    ],
+    "PZBWS_WP": [
+        {
+            "name": "**ZEROBASEONE WoongSungz Staff Exclusive Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1126916470379663420/Untitled247_20230708003835.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`PZBWS_WP`"
         }          
     ]
 }
