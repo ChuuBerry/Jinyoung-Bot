@@ -260,7 +260,43 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`PZBWS_WP`"
-        }          
+        }    
+    ],
+    "EXHM_WP": [
+        {
+            "name": "**EXO Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1129964946730520646/Untitled295_20230716103533.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`EXHM_WP`"
+        }  
+    ],
+    "SKSC_WP": [
+        {
+            "name": "**Stray Kids Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1129964947137376448/Untitled295_20230716103608.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`SKSC_WP`"
+        } 
+    ],
+    "GIQC_WP": [
+        {
+            "name": "**(G)I-DLE Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1129964947531628634/Untitled295_20230716103626.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`GIQC_WP`"
+        }  
+    ],
+    "VVPU_WP": [
+        {
+            "name": "**VIVIZ Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1129964948051734579/Untitled295_20230716103537.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`VVPU_WP`"
+        }     
     ]
 }
     
