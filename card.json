@@ -6977,6 +6977,636 @@
             "grade": "3star",
             "inv": "GIRLS PLANET",
             "code": "`GP9ZLF_3`"
+        }
+   ],     
+   "EPWI_1": [
+        {
+            "name": "**✦ EPEX Wish**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844418024210505/EPEX_20230713080504.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPWI_1`"
+        }
+   ],     
+   "EPKE_1": [
+        {
+            "name": "**✦ EPEX Keum**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844418531733524/EPEX_20230713080453.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPKE_1`"
+        }
+   ],     
+   "EPMU_1": [
+        {
+            "name": "**✦ EPEX Mu**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844418909212752/EPEX_20230713080344.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPMU_1`"
+        }
+   ],     
+   "EPAM_1": [
+        {
+            "name": "**✦ EPEX A-Min**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844419307667527/EPEX_20230713080438.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPAM_1`"
+        }
+   ],     
+   "EPBS_1": [
+        {
+            "name": "**✦ EPEX Baekseung**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844419668381866/EPEX_20230713080413.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPBS_1`"
+        }
+   ],     
+   "EPAD_1": [
+        {
+            "name": "**✦ EPEX Ayden**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844420192665692/EPEX_20230713080325.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPAD_1`"
+        }
+   ],     
+   "EPYW_1": [
+        {
+            "name": "**✦ EPEX Yewang**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844420570165349/EPEX_20230713080359.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPYW_1`"
+        }
+   ],     
+   "EPJF_1": [
+        {
+            "name": "**✦ EPEX Jeff**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844420943446127/EPEX_20230713080425.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EPEX",
+            "code": "`EPJF_1`"
+        }
+   ],     
+   "EPWI_2": [
+        {
+            "name": "**✦✦ EPEX Wish**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844555551260722/EPEX_20230713081743.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPWI_2`"
+        }
+   ],     
+   "EPKE_2": [
+        {
+            "name": "**✦✦ EPEX Keum**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844555962294332/EPEX_20230713081842.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPKE_2`"
+        }
+   ],     
+   "EPMU_2": [
+        {
+            "name": "**✦✦ EPEX Mu**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844556474003487/EPEX_20230713082122.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPMU_2`"
+        }
+   ],     
+   "EPAM_2": [
+        {
+            "name": "**✦✦ EPEX A-Min**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844556838912130/EPEX_20230713081959.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPAM_2`"
+        }
+   ],     
+   "EPBS_2": [
+        {
+            "name": "**✦✦ EPEX Baekseung**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844557228974080/EPEX_20230713082152.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPBS_2`"
+        }
+   ],     
+   "EPAD_2": [
+        {
+            "name": "**✦✦ EPEX Ayden**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844558004924537/EPEX_20230713082054.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPAD_2`"
+        }
+   ],     
+   "EPYW_2": [
+        {
+            "name": "**✦✦ EPEX Yewang**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844558378221748/EPEX_20230713082109.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPYW_2`"
+        }
+   ],     
+   "EPJF_2": [
+        {
+            "name": "**✦✦ EPEX Jeff**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128844558726340638/EPEX_20230713082138.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EPEX",
+            "code": "`EPJF_2`"
+        }
+   ],     
+   "EPWI_3": [
+        {
+            "name": "**✦✦✦ EPEX Wish**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881186714943668/EPEX_20230713104547.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPWI_3`"
+        }
+   ],     
+   "EPKE_3": [
+        {
+            "name": "**✦✦✦ EPEX Keum**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881187096641536/EPEX_20230713104203.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPKE_3`"
+        }
+   ],     
+   "EPMU_3": [
+        {
+            "name": "**✦✦✦ EPEX Mu**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881187620913152/EPEX_20230713104352.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPMU_3`"
+        }
+   ],     
+   "EPAM_3": [
+        {
+            "name": "**✦✦✦ EPEX A-Min**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881188271046696/EPEX_20230713104223.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPAM_3`"
+        }
+   ],     
+   "EPBS_3": [
+        {
+            "name": "**✦✦✦ EPEX Baekseung**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881188665298994/EPEX_20230713104846.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPBS_3`"
+        }
+   ],     
+   "EPAD_3": [
+        {
+            "name": "**✦✦✦ EPEX Ayden**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881189000855562/EPEX_20230713104334.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPAD_3`"
+        }
+   ],     
+   "EPYW_3": [
+        {
+            "name": "**✦✦✦ EPEX Yewang**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881189378330625/EPEX_20230713104409.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPYW_3`"
+        }
+   ],     
+   "EPJF_3": [
+        {
+            "name": "**✦✦✦ EPEX Jeff**",
+            "image": "https://media.discordapp.net/attachments/1128844105024274442/1128881189789368381/EPEX_20230713104148.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EPEX",
+            "code": "`EPJF_3`"
+        }
+   ],     
+   "SVSC_1": [
+        {
+            "name": "**✦ SEVENTEEN S.Coups**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011450376527902/SEVENTEEN_20230711010406.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSC_1`"
+        }
+   ],     
+   "SVJH_1": [
+        {
+            "name": "**✦ SEVENTEEN Jeonghan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011450993098832/Untitled351_20230711005523.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJH_1`"
+        }
+   ],     
+   "SVJS_1": [
+        {
+            "name": "**✦ SEVENTEEN Joshua**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011451341230181/SEVENTEEN_20230711011205.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJS_1`"
+        }
+   ],     
+   "SVJU_1": [
+        {
+            "name": "**✦ SEVENTEEN Jun**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011451706130462/SEVENTEEN_20230711005942.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJU_1`"
+        }
+   ],     
+   "SVHS_1": [
+        {
+            "name": "**✦ SEVENTEEN Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011452133953687/SEVENTEEN_20230711011307.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVHS_1`"
+        }
+   ],     
+   "SVWW_1": [
+        {
+            "name": "**✦ SEVENTEEN Wonwoo**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011452540796968/SEVENTEEN_20230711010106.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWW_1`"
+        }
+   ],     
+   "SVWZ_1": [
+        {
+            "name": "**✦ SEVENTEEN Woozi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011453031534592/SEVENTEEN_20230711010013.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWZ_1`"
+        }
+   ],     
+   "SVDK_1": [
+        {
+            "name": "**✦ SEVENTEEN DK**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011453417398363/SEVENTEEN_20230711010306.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDK_1`"
+        }
+   ],     
+   "SVMG_1": [
+        {
+            "name": "**✦ SEVENTEEN Mingyu**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011453853614232/SEVENTEEN_20230711010346.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVMG_1`"
+        }
+   ],     
+   "SVT8_1": [
+        {
+            "name": "**✦ SEVENTEEN The8**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011549240467456/SEVENTEEN_20230711010146.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVT8_1`"
+        }
+   ],     
+   "SVSK_1": [
+        {
+            "name": "**✦ SEVENTEEN Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011549496324096/SEVENTEEN_20230711010208.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSK_1`"
+        }
+   ],     
+   "SVVN_1": [
+        {
+            "name": "**✦ SEVENTEEN Vernon**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011549911568516/SEVENTEEN_20230711010233.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVVN_1`"
+        }
+   ],     
+   "SVDN_1": [
+        {
+            "name": "**✦ SEVENTEEN Dino**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128011550272266350/SEVENTEEN_20230711010445.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDN_1`"
+        }
+   ],     
+   "SVSC_2": [
+        {
+            "name": "**✦✦ SEVENTEEN S.Coups**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619107810553956/SEVENTEEN_20230712172129.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSC_2`"
+        }
+   ],     
+   "SVJH_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Jeonghan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619108175450163/SEVENTEEN_20230712172308.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJH_2`"
+        }
+   ],     
+   "SVJS_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Joshua**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619108498415656/SEVENTEEN_20230712172820.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJS_2`"
+        }
+   ],     
+   "SVJU_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Jun**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619108775243868/SEVENTEEN_20230712171856.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJU_2`"
+        }
+   ],     
+   "SVHS_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619109123362916/SEVENTEEN_20230712172011.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVHS_2`"
+        }
+   ],     
+   "SVWW_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Wonwoo**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619109463105536/SEVENTEEN_20230712172052.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWW_2`"
+        }
+   ],     
+   "SVWZ_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Woozi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619109773480047/SEVENTEEN_20230712172111.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWZ_2`"
+        }
+   ],     
+   "SVDK_2": [
+        {
+            "name": "**✦✦ SEVENTEEN DK**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619110184525875/SEVENTEEN_20230712172335.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDK_2`"
+        }
+   ],     
+   "SVMG_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Mingyu**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619110511685692/SEVENTEEN_20230712172437.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVMG_2`"
+        }
+   ],     
+   "SVT8_2": [
+        {
+            "name": "**✦✦ SEVENTEEN The8**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619153067094026/SEVENTEEN_20230712172154.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVT8_2`"
+        }
+   ],     
+   "SVSK_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619153406828614/SEVENTEEN_20230712172350.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSK_2`"
+        }
+   ],     
+   "SVVN_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Vernon**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619153817882684/SEVENTEEN_20230712172408.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVVN_2`"
+        }
+   ],     
+   "SVDN_2": [
+        {
+            "name": "**✦✦ SEVENTEEN Dino**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128619154145030164/SEVENTEEN_20230712172422.png?width=490&height=662",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDN_2`"
+        }
+   ],     
+   "SVSC_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN S.Coups**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639263693611008/SEVENTEEN_20230712184447.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSC_3`"
+        }
+   ],     
+   "SVJH_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Jeonghan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639263966232616/SEVENTEEN_20230712184652.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJH_3`"
+        }
+   ],     
+   "SVJS_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Joshua**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639264368898048/SEVENTEEN_20230712184525.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJS_3`"
+        }
+   ],     
+   "SVJU_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Jun**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639264624746516/SEVENTEEN_20230712184149.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVJU_3`"
+        }
+   ],     
+   "SVHS_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639265027391558/SEVENTEEN_20230712184259.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVHS_3`"
+        }
+   ],     
+   "SVWW_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Wonwoo**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639265383919668/SEVENTEEN_20230712183747.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWW_3`"
+        }
+   ],     
+   "SVWZ_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Woozi**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639265681711104/SEVENTEEN_20230712183636.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVWZ_3`"
+        }
+   ],     
+   "SVDK_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN DK**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639266159853690/SEVENTEEN_20230712184357.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDK_3`"
+        }
+   ],     
+   "SVMG_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Mingyu**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639266394746980/SEVENTEEN_20230712184110.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVMG_3`"
+        }
+   ],     
+   "SVT8_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN The8**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639312972492870/SEVENTEEN_20230712184002.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVT8_3`"
+        }
+   ],     
+   "SVSK_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639313412902983/SEVENTEEN_20230712183335.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVSK_3`"
+        }
+   ],     
+   "SVVN_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Vernon**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639313794580520/SEVENTEEN_20230712183435.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVVN_3`"
+        }
+   ],     
+   "SVDN_3": [
+        {
+            "name": "**✦✦✦ SEVENTEEN Dino**",
+            "image": "https://media.discordapp.net/attachments/1128009336489246751/1128639314226589736/SEVENTEEN_20230712183202.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "SEVENTEEN",
+            "code": "`SVDN_3`"
         }                                     
         ]
  }
