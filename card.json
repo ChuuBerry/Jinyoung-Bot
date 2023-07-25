@@ -7607,6 +7607,116 @@
             "grade": "3star",
             "inv": "SEVENTEEN",
             "code": "`SVDN_3`"
+        }
+   ],     
+   "LDJDY_3": [
+        {
+            "name": "**<:limited:1126328828298547322> DOJAEJUNG Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1132902880278495232/djj_20230724130824.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "DOJAEJUNG",
+            "code": "`LDJDY_3`"
+        }
+   ],     
+   "LDJJH_3": [
+        {
+            "name": "**<:limited:1126328828298547322> DOJAEJUNG Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1132902880760827945/djj_20230724130857.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "DOJAEJUNG",
+            "code": "`LDJJH_3`"
+        }
+   ],     
+   "LDJJW_3": [
+        {
+            "name": "**<:limited:1126328828298547322> DOJAEJUNG Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1132902879917789184/djj_20230724130719.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "DOJAEJUNG",
+            "code": "`LDJJW_3`"
+        }
+   ],     
+   "LMSMM_3": [
+        {
+            "name": "**<:limited:1126328828298547322> MISAMO Momo**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133030299559809156/misamo_20230724212057.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MISAMO",
+            "code": "`LMSMM_3`"
+        }
+   ],     
+   "LMSSN_3": [
+        {
+            "name": "**<:limited:1126328828298547322> MISAMO Sana**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133030300218294353/misamo_20230724211839.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MISAMO",
+            "code": "`LMSSN_3`"
+        }
+   ],     
+   "LMSMN_3": [
+        {
+            "name": "**<:limited:1126328828298547322> MISAMO Mina**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133030300570636419/misamo_20230724212217.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "MISAMO",
+            "code": "`LMSMN_3`"
+        }
+   ],     
+   "LOEJS_3": [
+        {
+            "name": "**<:limited:1126328828298547322> ODD EYE CIRCLE Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133018252537237655/djj2_20230724204812.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ODD EYE CIRCLE",
+            "code": "`LOEJS_3`"
+        }
+   ],     
+   "LOEKL_3": [
+        {
+            "name": "**<:limited:1126328828298547322> ODD EYE CIRCLE Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133018253241892864/djj2_20230724204843.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ODD EYE CIRCLE",
+            "code": "`LOEKL_3`"
+        }
+   ],     
+   "LOECE_3": [
+        {
+            "name": "**<:limited:1126328828298547322> ODD EYE CIRCLE Choerry**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133018252902158487/djj2_20230724204828.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "ODD EYE CIRCLE",
+            "code": "`LOECE_3`"
+        }
+   ],     
+   "LSHSN_3": [
+        {
+            "name": "**<:limited:1126328828298547322> SHOWNU x HYUNGWON Shownu**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133030445949403246/showon_20230724213600.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Shownu x Hyungwon",
+            "code": "`LSHSN_3`"
+        }
+   ],     
+   "LSHHW_3": [
+        {
+            "name": "**<:limited:1126328828298547322> SHOWNU x HYUNGWON Hyungwon**",
+            "image": "https://media.discordapp.net/attachments/1132902805993173074/1133030445639020544/showon_20230724213504.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Shownu x Hyungwon",
+            "code": "`LSHHW_3`"
         }                                     
         ]
  }
