@@ -297,6 +297,42 @@
             "inv": "Wallpaper",
             "code": "`VVPU_WP`"
         }     
+    ],
+    "CCDJJ_WP": [
+        {
+            "name": "**Chic Collection NCT DoJaeJung Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1133258538890838158/Untitled295_20230725124334.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CCDJJ_WP`"
+        }  
+    ],
+    "CCOEC_WP": [
+        {
+            "name": "**Chic Collection Odd Eye Circle Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1133258539134095442/Untitled295_20230725124153.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CCOEC_WP`"
+        }  
+    ],
+    "CCMSM_WP": [
+        {
+            "name": "**Chic Collection MiSaMo Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1133258539444469851/Untitled295_20230725124221.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CCMSM_WP`"
+        }   
+    ],
+    "CCSXH_WP": [
+        {
+            "name": "**Chic Collection Shownu X Hyungwon Premium Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1133258539817766942/Untitled295_20230725124237.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CCSXH_WP`"
+        }     
     ]
 }
     
