@@ -7717,7 +7717,57 @@
             "grade": "3star",
             "inv": "Shownu x Hyungwon",
             "code": "`LSHHW_3`"
-        }                                     
+        }
+   ],     
+   "KAROMI": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> Aespa Karina**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1134472883591196722/karomi_20230728210433.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`KAROMI`"
+        }
+   ],     
+   "ZEHN": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> TOMORROW X TOGETHER Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1134472883922542593/Wispy_Tracks-1_20230728210836.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`ZEHN`"
+        } 
+   ],     
+   "SOOBIN": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> TOMORROW X TOGETHER Soobin**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1134472918940795015/custom2_20230728210643.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`SOOBIN`"
+        }
+   ],     
+   "PGWKM": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> ZEROBASEONE Park Gunwook**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1134479070650957864/custom3_20230728212904.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`PGWKM`"
+        }
+   ],     
+   "SUNGHOON": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> ENHYPEN Sunghoon**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1134479071812800582/custom_20230728213248.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`SUNGHOON`"
+        }                               
         ]
  }
                  
