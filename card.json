@@ -7767,7 +7767,17 @@
             "grade": "3star",
             "inv": "custom",
             "code": "`SUNGHOON`"
-        }                               
+        }
+   ],     
+   "SAN": [
+        {
+            "name": "**<:SBA_pixelheart:1107911640873185380> ATEEZ San**",
+            "image": "https://media.discordapp.net/attachments/1124954148278902806/1134515833813602384/Wispy_Tracks-2_20230728235951.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "custom",
+            "code": "`SAN`"
+        }                                   
         ]
  }
                  
