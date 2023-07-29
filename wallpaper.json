@@ -333,6 +333,60 @@
             "inv": "Wallpaper",
             "code": "`CCSXH_WP`"
         }     
+    ],
+    "CAEWT_WP": [
+        {
+            "name": "**AESPA Winter Custom Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1134834270293217330/Untitled295_20230729210335.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CAEWT_WP`"
+        }         
+    ],
+    "CSKBC_WP": [
+        {
+            "name": "**Stray Kids Bang Chan Custom Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1134473118400925746/IMG_5673.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CSKBC_WP`"
+        } 
+    ],
+    "NCFV_WP": [
+        {
+            "name": "**NCT 127 Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1134834229583302696/Untitled295_20230729210424.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`NCFV_WP`"
+        } 
+    ],
+    "SVSP_WP": [
+        {
+            "name": "**SEVENTEEN Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1134834229960785950/Untitled295_20230729210403.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`SVSP_WP`"
+        }
+    ],
+    "BPSD_WP": [
+        {
+            "name": "**BLACKPINK Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1134834230451503155/Untitled295_20230729210444.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`BPSD_WP`"
+        }         
+    ],
+    "TWSC_WP": [
+        {
+            "name": "**TWICE Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454137967841334/1134834234209620080/Untitled295_20230729210500.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TWSC_WP`"
+        }          
     ]
 }
     
