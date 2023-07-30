@@ -7777,6 +7777,816 @@
             "grade": "3star",
             "inv": "custom",
             "code": "`SAN`"
+        }
+   ],     
+   "XGJR_1": [
+        {
+            "name": "**✦ XG Jurin**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044670534668328/diamond_card_Jurin.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGJR_1`"
+        }
+   ],     
+   "XGCS_1": [
+        {
+            "name": "**✦ XG Chisa**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044670907940915/diamond_card_Chisa.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGCS_1`"
+        }
+   ],     
+   "XGHN_1": [
+        {
+            "name": "**✦ XG Hinata**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044671310606449/diamond_card_Hinata.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGHN_1`"
+        }
+   ],     
+   "XGHV_1": [
+        {
+            "name": "**✦ XG Harvey**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044671721656350/diamond_card_Harvey.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGHV_1`"
+        }
+   ],     
+   "XGJA_1": [
+        {
+            "name": "**✦ XG Juria**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044672094941275/diamond_card_Juria.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGJA_1`"
+        }
+   ],     
+   "XGMY_1": [
+        {
+            "name": "**✦ XG Maya**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044672447271043/diamond_card_Maya.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGMY_1`"
+        }
+   ],     
+   "XGCC_1": [
+        {
+            "name": "**✦ XG Cocona**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1129044672786989067/diamond_card_Cocona.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "XG",
+            "code": "`XGCC_1`"
+        }
+   ],     
+   "XGJR_2": [
+        {
+            "name": "**✦✦ XG Jurin**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076563046645851/diamond_card_Jurin.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGJR_2`"
+        }
+   ],     
+   "XGCS_2": [
+        {
+            "name": "**✦✦ XG Chisa**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076563340242985/diamond_card_Chisa.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGCS_2`"
+        }
+   ],     
+   "XGHN_2": [
+        {
+            "name": "**✦✦ XG Hinata**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076563759681687/diamond_card_Hinata.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGHN_2`"
+        }
+   ],     
+   "XGHV_2": [
+        {
+            "name": "**✦✦ XG Harvey**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076564061667378/diamond_card_Harvey.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGHV_2`"
+        }
+   ],     
+   "XGJA_2": [
+        {
+            "name": "**✦✦ XG Juria**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076564380430397/diamond_card_Juria.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGJA_2`"
+        }
+   ],     
+   "XGMY_2": [
+        {
+            "name": "**✦✦ XG Maya**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076565278011462/diamond_card_Maya.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGMY_2`"
+        }
+   ],     
+   "XGCC_2": [
+        {
+            "name": "**✦✦ XG Cocona**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135076565630341170/diamond_card_Cocona.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "XG",
+            "code": "`XGCC_2`"
+        }
+   ],     
+   "XGJR_3": [
+        {
+            "name": "**✦✦✦ XG Jurin**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135086074658570270/diamond_card_Jurin.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGJR_3`"
+        }
+   ],     
+   "XGCS_3": [
+        {
+            "name": "**✦✦✦ XG Chisa**",
+            "image": "https://media.discordapp.net/attachments/1129044035470905485/1135086075073794109/diamond_card_Chisa.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGCS_3`"
+        }
+   ],     
+   "XGHN_3": [
+        {
+            "name": "**✦✦✦ XG Hinata**",
+            "image": "https://media.discordapp.net/attachments/1129044035470905485/1135086075421925457/diamond_card_Hinata.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGHN_3`"
+        }
+   ],     
+   "XGHV_3": [
+        {
+            "name": "**✦✦✦ XG Harvey**",
+            "image": "https://media.discordapp.net/attachments/1129044035470905485/1135086075753283634/diamond_card_Harvey.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGHV_3`"
+        }
+   ],     
+   "XGJA_3": [
+        {
+            "name": "**✦✦✦ XG Juria**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135086076130758706/diamond_card_Juria.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGJA_3`"
+        }
+   ],     
+   "XGMY_3": [
+        {
+            "name": "**✦✦✦ XG Maya**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135086076478890075/diamond_card_Maya.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGMY_3`"
+        }
+   ],     
+   "XGCC_3": [
+        {
+            "name": "**✦✦✦ XG Cocona**",
+            "image": "https://cdn.discordapp.com/attachments/1129044035470905485/1135086076936077472/diamond_card_Cocona.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "XG",
+            "code": "`XGCC_3`"
+        }
+   ],     
+   "K1YJ_1": [
+        {
+            "name": "**✦ Kep1er Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263148945195172/Untitled341_20230708232405.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1YJ_1`"
+        }
+   ],     
+   "K1XT_1": [
+        {
+            "name": "**✦ Kep1er Xiaoting**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263149549166703/Untitled341_20230708232552.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1XT_1`"
+        }
+   ],     
+   "K1MS_1": [
+        {
+            "name": "**✦ Kep1er Mashiro**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263150165737522/Untitled341_20230708225012.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1MS_1`"
+        }
+   ],     
+   "K1CH_1": [
+        {
+            "name": "**✦ Kep1er Chaehyun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263150518042704/Untitled341_20230708232057.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1CH_1`"
+        }
+   ],     
+   "K1DY_1": [
+        {
+            "name": "**✦ Kep1er Dayeon**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263151554052216/Untitled341_20230708232814.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1DY_1`"
+        }
+   ],     
+   "K1HK_1": [
+        {
+            "name": "**✦ Kep1er Hikaru**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263151939911771/Untitled341_20230708233849.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1HK_1`"
+        }
+   ],     
+   "K1HB_1": [
+        {
+            "name": "**✦ Kep1er Huening Bahiyyih**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263152317407282/Untitled341_20230708232908.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1HB_1`"
+        }
+   ],     
+   "K1YE_1": [
+        {
+            "name": "**✦ Kep1er Youngeun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263152317407282/Untitled341_20230708232908.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1YE_1`"
+        }
+   ],     
+   "K1YS_1": [
+        {
+            "name": "**✦ Kep1er Yeseo**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1127263153038835783/Untitled341_20230708233933.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Kep1er",
+            "code": "`K1YS_1`"
+        }
+   ],     
+   "K1YJ_2": [
+        {
+            "name": "**✦✦ Kep1er Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802594043736154/Untitled341_20230713051949.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1YJ_2`"
+        }
+   ],     
+   "K1XT_2": [
+        {
+            "name": "**✦✦ Kep1er Xiaoting**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802594412826664/Untitled341_20230713052729.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1XT_2`"
+        }
+   ],     
+   "K1MS_2": [
+        {
+            "name": "**✦✦ Kep1er Mashiro**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802594769346700/Untitled341_20230713052553.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1MS_2`"
+        }
+   ],     
+   "K1CH_2": [
+        {
+            "name": "**✦✦ Kep1er Chaehyun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802595117469829/Untitled341_20230713052918.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1CH_2`"
+        }
+   ],     
+   "K1DY_2": [
+        {
+            "name": "**✦✦ Kep1er Dayeon**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802595419463700/Untitled341_20230711002937.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1DY_2`"
+        }
+   ],     
+   "K1HK_2": [
+        {
+            "name": "**✦✦ Kep1er Hikaru**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802595742429214/Untitled341_20230713053212.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1HK_2`"
+        }
+   ],     
+   "K1HB_2": [
+        {
+            "name": "**✦✦ Kep1er Huening Bahiyyih**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802596082163864/Untitled341_20230711002406.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1HB_2`"
+        }
+   ],     
+   "K1YE_2": [
+        {
+            "name": "**✦✦ Kep1er Youngeun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802596350603485/Untitled341_20230713051357.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1YE_2`"
+        }
+   ],     
+   "K1YS_2": [
+        {
+            "name": "**✦✦ Kep1er Yeseo**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1128802596623229029/Untitled341_20230713051211.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Kep1er",
+            "code": "`K1YS_2`"
+        }
+   ],     
+   "K1YJ_3": [
+        {
+            "name": "**✦✦✦ Kep1er Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535402183737365/Untitled341_20230729010131.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1YJ_3`"
+        }
+   ],     
+   "K1XT_3": [
+        {
+            "name": "**✦✦✦ Kep1er Xiaoting**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535402661883904/Untitled341_20230729010234.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1XT_3`"
+        }
+   ],     
+   "K1MS_3": [
+        {
+            "name": "**✦✦✦ Kep1er Mashiro**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535402984849418/Untitled341_20230729010541.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1MS_3`"
+        }
+   ],     
+   "K1CH_3": [
+        {
+            "name": "**✦✦✦ Kep1er Chaehyun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535403483967600/Untitled341_20230729005958.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1CH_3`"
+        }
+   ],     
+   "K1DY_3": [
+        {
+            "name": "**✦✦✦ Kep1er Dayeon**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535404159254669/Untitled341_20230729010713.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1DY_3`"
+        }
+   ],     
+   "K1HK_3": [
+        {
+            "name": "**✦✦✦ Kep1er Hikaru**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535404561911909/Untitled341_20230729010413.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1HK_3`"
+        }
+   ],     
+   "K1HB_3": [
+        {
+            "name": "**✦✦✦ Kep1er Huening Bahiyyih**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535404901642291/Untitled341_20230729011450.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1HB_3`"
+        }
+   ],     
+   "K1YE_3": [
+        {
+            "name": "**✦✦✦ Kep1er Youngeun**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535405224607764/Untitled341_20230729011126.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1YE_3`"
+        }
+   ],     
+   "K1YS_3": [
+        {
+            "name": "**✦✦✦ Kep1er Yeseo**",
+            "image": "https://cdn.discordapp.com/attachments/1127257542330961980/1134535410010312795/Untitled341_20230729010924.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Kep1er",
+            "code": "`K1YS_3`"
+        }
+   ],     
+   "CRSR_1": [
+        {
+            "name": "**✦ CRAVITY Serim**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625869963923456/Untitled344_20230712174056.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRSR_1`"
+        }  
+   ],     
+   "CRAL_1": [
+        {
+            "name": "**✦ CRAVITY Allen**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625870366584933/Untitled344_20230712174950.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRAL_1`"
+        }  
+   ],     
+   "CRJM_1": [
+        {
+            "name": "**✦ CRAVITY Jungmo**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625870794391602/Untitled344_20230712174304.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRJM_1`"
+        }  
+   ],     
+   "CRWB_1": [
+        {
+            "name": "**✦ CRAVITY Woobin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625871159300156/Untitled344_20230712174416.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRWB_1`"
+        }  
+   ],     
+   "CRWJ_1": [
+        {
+            "name": "**✦ CRAVITY Wonjin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625871561961512/Untitled344_20230712174545.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRWJ_1`"
+        }  
+   ],     
+   "CRMH_1": [
+        {
+            "name": "**✦ CRAVITY Minhee**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625871968796713/Untitled344_20230712174721.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRMH_1`"
+        }  
+   ],     
+   "CRHJ_1": [
+        {
+            "name": "**✦ CRAVITY Hyeongjun**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625872446959646/Untitled344_20230712174844.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRHJ_1`"
+        }  
+   ],     
+   "CRTY_1": [
+        {
+            "name": "**✦ CRAVITY Taeyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625872828629052/Untitled344_20230712174932.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRTY_1`"
+        }  
+   ],     
+   "CRSM_1": [
+        {
+            "name": "**✦ CRAVITY Seongmin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1128625873302589490/Untitled344_20230712175122.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "CRAVITY",
+            "code": "`CRSM_1`"
+        }
+   ],     
+   "CRSR_2": [
+        {
+            "name": "**✦✦ CRAVITY Serim**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605134371397683/Untitled344_20230726114115.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRSR_2`"
+        }  
+   ],     
+   "CRAL_2": [
+        {
+            "name": "**✦✦ CRAVITY Allen**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605134736310344/Untitled344_20230726114109.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRAL_2`"
+        }  
+   ],     
+   "CRJM_2": [
+        {
+            "name": "**✦✦ CRAVITY Jungmo**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605135013117962/Untitled344_20230726114102.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRJM_2`"
+        }  
+   ],     
+   "CRWB_2": [
+        {
+            "name": "**✦✦ CRAVITY Woobin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605135277367306/Untitled344_20230726114054.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRWB_2`"
+        }  
+   ],     
+   "CRWJ_2": [
+        {
+            "name": "**✦✦ CRAVITY Wonjin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605135633891448/Untitled344_20230726114046.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRWJ_2`"
+        }  
+   ],     
+   "CRMH_2": [
+        {
+            "name": "**✦✦ CRAVITY Minhee**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605135935864902/Untitled344_20230726114038.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRMH_2`"
+        }  
+   ],     
+   "CRHJ_2": [
+        {
+            "name": "**✦✦ CRAVITY Hyeongjun**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605136225280111/Untitled344_20230726114031.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRHJ_2`"
+        }  
+   ],     
+   "CRTY_2": [
+        {
+            "name": "**✦✦ CRAVITY Taeyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605136502112327/Untitled344_20230726114025.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRTY_2`"
+        }  
+   ],     
+   "CRSM_2": [
+        {
+            "name": "**✦✦ CRAVITY Seongmin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133605136749559838/Untitled344_20230726114010.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "CRAVITY",
+            "code": "`CRSM_2`"
+        }
+   ],     
+   "CRSR_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Serim**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612403070869504/Untitled344_20230726120746.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRSR_3`"
+        }  
+   ],     
+   "CRAL_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Allen**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612403410612315/Untitled344_20230726120803.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRAL_3`"
+        }  
+   ],     
+   "CRJM_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Jungmo**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612403720998932/Untitled344_20230726120816.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRJM_3`"
+        }  
+   ],     
+   "CRWB_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Woobin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612404085891192/Untitled344_20230726120829.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRWB_3`"
+        }  
+   ],     
+   "CRWJ_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Wonjin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612404434022481/Untitled344_20230726120851.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRWJ_3`"
+        }  
+   ],     
+   "CRMH_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Minhee**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612404828295258/Untitled344_20230726120911.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRMH_3`"
+        }  
+   ],     
+   "CRHJ_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Hyeongjun**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612405172215918/Untitled344_20230726120928.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRHJ_3`"
+        }  
+   ],     
+   "CRTY_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Taeyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612405612621874/Untitled344_20230726120945.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRTY_3`"
+        }  
+   ],     
+   "CRSM_3": [
+        {
+            "name": "**✦✦✦ CRAVITY Seongmin**",
+            "image": "https://cdn.discordapp.com/attachments/1128624784402559046/1133612406074003556/Untitled344_20230726121015.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "CRAVITY",
+            "code": "`CRSM_3`"
+        }
+   ],     
+   "SFCH_1": [
+        {
+            "name": "**✦ Soloist Chungha**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1134542683302527026/Untitled341_20230729013331.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFCH_1`"
+        } 
+   ],     
+   "SMKE_1": [
+        {
+            "name": "**✦ Soloist Key**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1134886719901151333/KEY_20230730002725.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMKE_1`"
+        }
+   ],     
+   "SFCH_2": [
+        {
+            "name": "**✦✦ Soloist Chungha**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1134542851116646459/Untitled341_20230729012325.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFCH_2`"
+        } 
+   ],     
+   "SMKE_2": [
+        {
+            "name": "**✦✦ Soloist Key**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1134886779820978217/KEY_20230730003009.png",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMKE_2`"
+        }
+   ],     
+   "SFCH_3": [
+        {
+            "name": "**✦✦✦ Soloist Chungha**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1134542915247542433/Untitled341_20230729014512.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFCH_3`"
+        } 
+   ],     
+   "SMKE_3": [
+        {
+            "name": "**✦✦✦ Soloist Key**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1134915734032634046/KEY_20230730022812.png",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SMKE_3`"
         }                                   
         ]
  }
