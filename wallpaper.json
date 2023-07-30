@@ -386,7 +386,16 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`TWSC_WP`"
-        }          
+        }
+    ],
+    "CNCRJ_WP": [
+        {
+            "name": "**TWICE Limited Wallpaper #1**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1135039599287218347/Untitled263_20230730101334.png?width=1187&height=662",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CNCRJ_WP`"
+        }            
     ]
 }
     
