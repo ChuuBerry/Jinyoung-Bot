@@ -8587,7 +8587,147 @@
             "grade": "3star",
             "inv": "Soloist",
             "code": "`SMKE_3`"
-        }                                   
+        }
+   ],     
+   "SGCEW_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Cha Eunwoo**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCEW_3`"
+        }      
+   ],     
+   "SGCSN_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Sunoo**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCSN_3`"
+        }          
+   ],     
+   "SGCDK_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms DK**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCDK_3`"
+        }  
+   ],     
+   "SGCHS_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Hyunsoo**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCHS_3`"
+        } 
+   ],     
+   "SGCGO_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Gaon**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCGO_3`"
+        }
+   ],     
+   "SGCTR_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Taerae**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCTT_3`"
+        }  
+   ],     
+   "SGCHB_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Hoonbread**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCHB_3`"
+        } 
+   ],     
+   "SGCTY_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Taylor Swift**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCTY_3`"
+        }  
+   ],     
+   "SGCHY_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Hayoung**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCHY_3`"
+        }
+   ],     
+   "SGCRE_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Rei**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCRE_3`"
+        } 
+   ],     
+   "SGCBE_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Belle**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCBE_3`"
+        } 
+   ],     
+   "SGCHR_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Haerin**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCHR_3`"
+        }     
+   ],     
+   "SGCSM_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Sumin**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCSM_3`"
+        }  
+   ],     
+   "SGCNN_3": [
+        {
+            "name": "**<:limited:1126328828298547322> Gemmed Charms Nana**",
+            "image": "https://media.discordapp.net/attachments/1126092409877561444/1127534103147851897/o.o.o_20230709145756.png?width=490&height=662",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GEMMED CHARMS",
+            "code": "`SGCNN_3`"
+        }              
         ]
  }
                  
