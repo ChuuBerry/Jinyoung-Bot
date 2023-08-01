@@ -8639,14 +8639,14 @@
             "code": "`GCXGO_3`"
         }
    ],     
-   "GCZTR_3": [
+   "GCZKT_3": [
         {
-            "name": "**<:special:1125352394214092843> Gemmed Charms Taerae**",
-            "image": "https://media.discordapp.net/attachments/1135472256831733790/1135848590397415434/gemmed_charms_Taerae.png",
+            "name": "**<:special:1125352394214092843> Gemmed Charms Kim Taerae**",
+            "image": "https://media.discordapp.net/attachments/1135472256831733790/1135952622524837898/gemmed_charms_Taerae.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "GEMMED CHARMS",
-            "code": "`GCZTR_3`"
+            "code": "`GCZKT_3`"
         }  
    ],     
    "GCEHB_3": [
@@ -8669,14 +8669,14 @@
             "code": "`GCSTS_3`"
         }  
    ],     
-   "GCFSH_3": [
+   "GCFHY_3": [
         {
             "name": "**<:special:1125352394214092843> Gemmed Charms Hayoung**",
-            "image": "https://media.discordapp.net/attachments/1135472256831733790/1135882861455609856/gemmed_charms_Hayoung.png",
+            "image": "https://media.discordapp.net/attachments/1135472256831733790/1135952622935871508/gemmed_charms_Hayoung.png?width=490&height=662",
             "theme": "card3",
             "grade": "3star",
             "inv": "GEMMED CHARMS",
-            "code": "`GCFSH_3`"
+            "code": "`GCFHY_3`"
         }
    ],     
    "GCIRE_3": [
