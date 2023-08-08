@@ -8727,7 +8727,187 @@
             "grade": "3star",
             "inv": "GEMMED CHARMS",
             "code": "`GCWNN_3`"
-        }              
+        }  
+    ],
+    "WVKU_1": [
+        {
+            "name": "**✦ WayV Kun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347517340725320/Untitled341_2_20230805192749.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVKU_1`"
+        }
+    ],
+    "WVKU_2": [
+        {
+            "name": "**✦✦ WayV Kun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744957633998860/Untitled341_2_20230805195925.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVKU_2`"
+        }     
+    ],
+    "WVKU_3": [
+        {
+            "name": "**✦✦✦ WayV Kun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1138196423570112512/Untitled341_2_20230808010004.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVKU_3`"
+        } 
+    ],
+    "WVTE_1": [
+        {
+            "name": "**✦ WayV Ten**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347517604970547/Untitled341_2_20230805192937.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVTE_1`"
+        }
+    ],
+    "WVTE_2": [
+        {
+            "name": "**✦✦ WayV Ten**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744957982130206/Untitled341_2_20230806215036.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVTE_2`"
+        }     
+    ],
+    "WVTE_3": [
+        {
+            "name": "**✦✦✦ WayV Ten**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137773571855356104/Untitled341_2_20230806233514.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVTE_3`"
+        }
+    ],
+    "WVWW_1": [
+        {
+            "name": "**✦ WayV Winwin**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347517890170961/Untitled341_2_20230805193032.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVWW_1`"
+        }
+    ],
+    "WVWW_2": [
+        {
+            "name": "**✦✦ WayV Winwin**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744958279921806/Untitled341_2_20230805195703.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVWW_2`"
+        }     
+    ],
+    "WVWW_3": [
+        {
+            "name": "**✦✦✦ WayV Winwin**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137773572266393750/Untitled341_2_20230806234131.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVWW_3`"
+        }  
+    ],
+    "WVXJ_1": [
+        {
+            "name": "**✦ WayV Xiaojun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347518208946216/Untitled341_2_20230805192314.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVXJ_1`"
+        }
+    ],
+    "WVXJ_2": [
+        {
+            "name": "**✦✦ WayV Xiaojun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744958644822177/Untitled341_2_20230805194751.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVXJ_2`"
+        }     
+    ],
+    "WVXJ_3": [
+        {
+            "name": "**✦✦✦ WayV Xiaojun**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137773572690030632/Untitled341_2_20230806232416.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVXJ_3`"
+        } 
+    ],
+    "WVHD_1": [
+        {
+            "name": "**✦ WayV Hendery**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347518489968730/Untitled341_2_20230805192211.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVHD_1`"
+        }
+    ],
+    "WVHD_2": [
+        {
+            "name": "**✦✦ WayV Hendery**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744958963597444/Untitled341_2_20230806214838.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVHD_2`"
+        }     
+    ],
+    "WVHD_3": [
+        {
+            "name": "**✦✦✦ WayV Hendery**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137773573109452851/Untitled341_2_20230806231409.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVHD_3`"
+        } 
+    ],
+    "WVYY_1": [
+        {
+            "name": "**✦ WayV Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137347518791946270/Untitled341_2_20230805192451.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WayV",
+            "code": "`WVYY_1`"
+        }
+],
+    "WVYY_2": [
+        {
+            "name": "**✦✦ WayV Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137744959227834451/Untitled341_2_20230805195449.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WayV",
+            "code": "`WVYY_2`"
+        }     
+ ],
+    "WVYY_3": [
+        {
+            "name": "**✦✦✦ WayV Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1137347261312028713/1137773573495324873/Untitled341_2_20230806232737.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WayV",
+            "code": "`WVYY_3`"
+        }     
         ]
  }
                  
