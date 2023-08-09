@@ -9027,6 +9027,216 @@
             "grade": "3star",
             "inv": "Soloist",
             "code": "`SFYK_3`"
+        }  
+     ],
+    "BLMS_1": [
+        {
+            "name": "**✦ Billlie Moon Sua**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135195513017356370/Untitled341_20230730210119.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLMS_1`"
+        }
+    ],
+    "BLMS_2": [
+        {
+            "name": "**✦✦ Billlie Moon Sua**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835647726170212/Untitled341_20230713073755.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLMS_2`"
+        }     
+    ],
+    "BLMS_3": [
+        {
+            "name": "**✦✦✦ Billlie Moon Sua**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240844207722628/Untitled341_20230730235525.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLMS_3`"
+        } 
+     ],
+    "BLSU_1": [
+        {
+            "name": "**✦ Billlie Suhyeon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815982836711484/Untitled341_20230713062427.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLSU_1`"
+        }
+    ],
+    "BLSU_2": [
+        {
+            "name": "**✦✦ Billlie Suhyeon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835648158175325/Untitled341_20230713074123.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLSU_2`"
+        }     
+    ],
+    "BLSU_3": [
+        {
+            "name": "**✦✦✦ Billlie Suhyeon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240844786540594/Untitled341_20230730235730.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLSU_3`"
+        }
+    ],
+    "BLHR_1": [
+        {
+            "name": "**✦ Billlie Haram**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815983222591558/Untitled341_20230713061757.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLHR_1`"
+        }
+    ],
+    "BLHR_2": [
+        {
+            "name": "**✦✦ Billlie Haram**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835648724414584/Untitled341_20230713074327.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLHR_2`"
+        }     
+    ],
+    "BLHR_3": [
+        {
+            "name": "**✦✦✦ Billlie Haram**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240845184995460/Untitled341_20230730235835.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLHR_3`"
+        } 
+     ],
+    "BLTK_1": [
+        {
+            "name": "**✦ Billlie Tsuki**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815983537180764/Untitled341_20230713062644.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLTK_1`"
+        }
+    ],
+    "BLTK_2": [
+        {
+            "name": "**✦✦ Billlie Tsuki**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835649307414618/Untitled341_20230713074420.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLTK_2`"
+        }     
+    ],
+    "BLTK_3": [
+        {
+            "name": "**✦✦✦ Billlie Tsuki**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240845566685324/Untitled341_20230730235958.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLTK_3`"
+        } 
+     ],
+    "BLSH_1": [
+        {
+            "name": "**✦ Billlie Sheon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815983998537748/Untitled341_20230713061452.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLSH_1`"
+        }
+    ],
+    "BLSH_2": [
+        {
+            "name": "**✦✦ Billlie Sheon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835649986891886/Untitled341_20230713074635.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLSH_2`"
+        }     
+    ],
+    "BLSH_3": [
+        {
+            "name": "**✦✦✦ Billlie Sheon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240846569119825/Untitled341_20230731000101.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLSH_3`"
+        } 
+      ],
+    "BLSY_1": [
+        {
+            "name": "**✦ Billlie Siyoon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815984438956112/Untitled341_20230713062935.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLSY_1`"
+        }
+    ],
+    "BLSY_2": [
+        {
+            "name": "**✦✦ Billlie Siyoon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835650880286730/Untitled341_20230713074800.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`BLSY_2`"
+        }     
+    ],
+    "BLSY_3": [
+        {
+            "name": "**✦✦✦ Billlie Siyoon**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240847093403778/Untitled341_20230730235401.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLSY_3`"
+        } 
+      ],
+    "BLHA_1": [
+        {
+            "name": "**✦ Billlie Haruna**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128815984799649802/Untitled341_20230713063121.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Billlie",
+            "code": "`BLHA_1`"
+        }
+    ],
+    "BLHA_2": [
+        {
+            "name": "**✦✦ Billlie Haruna**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1128835651371012168/Untitled341_20230713074917.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Billlie",
+            "code": "`BLHA_2`"
+        }     
+    ],
+    "BLHA_3": [
+        {
+            "name": "**✦✦✦ Billlie Haruna**",
+            "image": "https://media.discordapp.net/attachments/1128814872419905657/1135240847508648096/Untitled341_20230730235629.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Billlie",
+            "code": "`BLHA_3`"
         }    
         ]
  }
