@@ -8907,7 +8907,127 @@
             "grade": "3star",
             "inv": "WayV",
             "code": "`WVYY_3`"
+        }
+    ],
+    "SMHS_1": [
+        {
+            "name": "**✦ Soloist Ha Sungwoon**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1137416012627714108/diamond_card_Sungwoon.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMHS_1`"
+        }
+    ],
+    "SMHS_2": [
+        {
+            "name": "**✦✦ Soloist Ha Sungwoon**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1137416206748504156/diamond_card_Sungwoon.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMHS_2`"
         }     
+    ],
+    "SMHS_3": [
+        {
+            "name": "**✦✦✦ Soloist Ha Sungwoon**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1137698356886523954/diamond_card_Sungwoon.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SMHS_3`"
+        } 
+     ],
+    "SMMA_1": [
+        {
+            "name": "**✦ Soloist Mark**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1138500734934077530/MARK_20230730125642.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMMA_1`"
+        }
+    ],
+    "SMMA_2": [
+        {
+            "name": "**✦✦ Soloist Mark**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1138501309956370552/MARK_20230730125807.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMMA_2`"
+        }     
+    ],
+    "SMMA_3": [
+        {
+            "name": "**✦✦✦ Soloist Mark**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1138507615354224680/MARK_20230808234121.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SMMA_3`"
+        }  
+     ],
+    "SFSM_1": [
+        {
+            "name": "**✦ Soloist Somi**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1138500154782138450/JEON_SOMI_20230808232413.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFSM_1`"
+        }
+    ],
+    "SFSM_2": [
+        {
+            "name": "**✦✦ Soloist Somi**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1138500863674023946/JEON_SOMI_20230808230925.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFSM_2`"
+        }     
+    ],
+    "SFSM_3": [
+        {
+            "name": "**✦✦✦ Soloist Somi**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1138502928655724574/JEON_SOMI_20230808234009.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFSM_3`"
+        }  
+     ],
+    "SFYK_1": [
+        {
+            "name": "**✦ Soloist Yukika**",
+            "image": "https://media.discordapp.net/attachments/1124693669744742501/1138500396982210710/YUKIKA_20230808225526.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFYK_1`"
+        }
+    ],
+    "SFYK_2": [
+        {
+            "name": "**✦✦ Soloist Yukika**",
+            "image": "https://media.discordapp.net/attachments/1124693768453496882/1138501181057007646/YUKIKA_20230808225716.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFYK_2`"
+        }     
+    ],
+    "SFYK_3": [
+        {
+            "name": "**✦✦✦ Soloist Yukika**",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1138506685229576243/YUKIKA_20230808230324.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFYK_3`"
+        }    
         ]
  }
                  
