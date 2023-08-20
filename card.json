@@ -9237,7 +9237,127 @@
             "grade": "3star",
             "inv": "Billlie",
             "code": "`BLHA_3`"
-        }    
+        } 
+   ],
+    "FXVT_1": [
+        {
+            "name": "**✦ f(x) Victoria**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388029664608409/Untitled341_2_20230814041004.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "FX",
+            "code": "`FXVT_1`"
+        }
+    ],
+    "FXVT_2": [
+        {
+            "name": "**✦✦ f(x) Victoria**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388115744292975/Untitled341_2_20230814042350.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "FX",
+            "code": "`FXVT_2`"
+        }     
+    ],
+    "FXVT_3": [
+        {
+            "name": "**✦✦✦ f(x) Victoria**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388271063572520/Untitled341_2_20230814044756.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "FX",
+            "code": "`FXVT_3`"
+        }  
+    ],
+    "FXAB_1": [
+        {
+            "name": "**✦ f(x) Amber**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388029966590014/Untitled341_2_20230814041142.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "FX",
+            "code": "`FXAB_1`"
+        }
+    ],
+    "FXAB_2": [
+        {
+            "name": "**✦✦ f(x) Amber**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388116100829254/Untitled341_2_20230814042316.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "FX",
+            "code": "`FXAB_2`"
+        }     
+    ],
+    "FXAB_3": [
+        {
+            "name": "**✦✦✦ f(x) Amber**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388271453646878/Untitled341_2_20230814045218.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "FX",
+            "code": "`FXAB_3`"
+        }   
+     ],
+    "FXLN_1": [
+        {
+            "name": "**✦ f(x) Luna**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388030243409961/Untitled341_2_20230814041333.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "FX",
+            "code": "`FXLN_1`"
+        }
+    ],
+    "FXLN_2": [
+        {
+            "name": "**✦✦ f(x) Luna**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388116381835356/Untitled341_2_20230814041946.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "FX",
+            "code": "`FXLN_2`"
+        }     
+    ],
+    "FXLN_3": [
+        {
+            "name": "**✦✦✦ f(x) Luna**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388271747235991/Untitled341_2_20230814045057.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "FX",
+            "code": "`FXLN_3`"
+        }   
+     ],
+    "FXKT_1": [
+        {
+            "name": "**✦ f(x) Krystal**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388030889337062/Untitled341_2_20230814041537.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "FX",
+            "code": "`FXKT_1`"
+        }
+    ],
+    "FXKT_2": [
+        {
+            "name": "**✦✦ f(x) Krystal**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388117124227132/Untitled341_2_20230814041831.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "FX",
+            "code": "`FXKT_2`"
+        }     
+    ],
+    "FXKT_3": [
+        {
+            "name": "**✦✦✦ f(x) Krystal**",
+            "image": "https://media.discordapp.net/attachments/1140387904271691868/1140388272401559613/Untitled341_2_20230814044609.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "FX",
+            "code": "`FXKT_3`"
+        }     
         ]
  }
                  
