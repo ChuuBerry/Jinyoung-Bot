@@ -9357,7 +9357,127 @@
             "grade": "3star",
             "inv": "FX",
             "code": "`FXKT_3`"
+        } 
+    ],
+    "SNON_1": [
+        {
+            "name": "**✦ SHINee Onew**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1137783684179697684/Untitled341_2_20230807002353.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SHINee",
+            "code": "`SNON_1`"
+        }
+    ],
+    "SNON_2": [
+        {
+            "name": "**✦✦ SHINee Onew**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139952919274344602/Untitled341_2_20230812235530.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "SHINee",
+            "code": "`SNON_2`"
         }     
+    ],
+    "SNON_3": [
+        {
+            "name": "**✦✦✦ SHINee Onew**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139963446713127012/Untitled341_2_20230813004700.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "SHINee",
+            "code": "`SNON_3`"
+        }     
+    ],
+    "SNKE_1": [
+        {
+            "name": "**✦ SHINee Key**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1137783684636889108/Untitled341_2_20230807002458.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SHINee",
+            "code": "`SNKE_1`"
+        }
+    ],
+    "SNKE_2": [
+        {
+            "name": "**✦✦ SHINee Key**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139952919605690368/Untitled341_2_20230813000151.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "SHINee",
+            "code": "`SNKE_2`"
+        }     
+    ],
+    "SNKE_3": [
+        {
+            "name": "**✦✦✦ SHINee Key**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139963447199678504/Untitled341_2_20230813004531.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "SHINee",
+            "code": "`SNKE_3`"
+        }
+     ],
+    "SNMH_1": [
+        {
+            "name": "**✦ SHINee Minho**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1137783685056307291/Untitled341_2_20230807002331.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SHINee",
+            "code": "`SNMH_1`"
+        }
+    ],
+    "SNMH_2": [
+        {
+            "name": "**✦✦ SHINee Minho**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139952919895093400/Untitled341_2_20230812235244.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "SHINee",
+            "code": "`SNMH_2`"
+        }     
+    ],
+    "SNMH_3": [
+        {
+            "name": "**✦✦✦ SHINee Minho**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139963447698784256/Untitled341_2_20230813003759.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "SHINee",
+            "code": "`SNMH_3`"
+        }  
+    ],
+    "SNTM_1": [
+        {
+            "name": "**✦ SHINee Taemin**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1137783685626744893/Untitled341_2_20230807002238.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "SHINee",
+            "code": "`SNTM_1`"
+        }
+    ],
+    "SNTM_2": [
+        {
+            "name": "**✦✦ SHINee Taemin**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139952920188702845/Untitled341_2_20230813000501.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "SHINee",
+            "code": "`SNTM_2`"
+        }     
+    ],
+    "SNTM_3": [
+        {
+            "name": "**✦✦✦ SHINee Taemin**",
+            "image": "https://media.discordapp.net/attachments/1137778817503612999/1139963447988195481/Untitled341_2_20230813003924.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "SHINee",
+            "code": "`SNTM_3`"
+        }  
         ]
  }
                  
