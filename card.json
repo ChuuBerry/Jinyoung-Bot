@@ -8971,7 +8971,7 @@
      ],
     "SFSM_1": [
         {
-            "name": "**✦ Soloist Somi**",
+            "name": "**✦ Soloist JEON SOMI**",
             "image": "https://media.discordapp.net/attachments/1124693669744742501/1138500154782138450/JEON_SOMI_20230808232413.png",
             "theme": "card1",
             "grade": "1star",
@@ -8981,7 +8981,7 @@
     ],
     "SFSM_2": [
         {
-            "name": "**✦✦ Soloist Somi**",
+            "name": "**✦✦ Soloist JEON SOMI**",
             "image": "https://media.discordapp.net/attachments/1124693768453496882/1138500863674023946/JEON_SOMI_20230808230925.png",
             "theme": "card1",
             "grade": "2star",
@@ -8991,7 +8991,7 @@
     ],
     "SFSM_3": [
         {
-            "name": "**✦✦✦ Soloist Somi**",
+            "name": "**✦✦✦ Soloist JEON SOMI**",
             "image": "https://media.discordapp.net/attachments/1124693796546945054/1138502928655724574/JEON_SOMI_20230808234009.png",
             "theme": "card1",
             "grade": "3star",
@@ -9477,6 +9477,186 @@
             "grade": "3star",
             "inv": "SHINee",
             "code": "`SNTM_3`"
+        }
+    ],
+    "BBCYH_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189352214274139/Barbie_Yonghee.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBCYH_3`"
+        }
+    ],
+    "BBCSM_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Seongmin**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189352574980156/Barbie_Seongmin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBCSM_3`"
+        }
+    ],
+    "BBDMS_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Minseo**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189352931508254/Barbie_Minseo.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBDMS_3`"
+        }
+    ],
+    "BBMDP_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Dongpyo**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189353258655775/Barbie_Dongpyo.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBMDP_3`"
+        }
+    ],
+    "BBPTH_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Theo**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189353602584576/Barbie_Theo.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBPTH_3`"
+        }
+    ],
+    "BBPJ_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Park Jihoon**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189353942335589/Barbie_Park_Jihoon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBPJ_3`"
+        }
+    ],
+    "BBNTY_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Taeyong**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189543852015706/Barbie_Taeyong.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBNTY_3`"
+        }
+    ],
+    "BBTNE_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> New**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189544414072892/Barbie_New.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBTNE_3`"
+        }
+    ],
+    "BBVKM_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Kangmin**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144189544837677056/Barbie_Kangmin.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBVKM_3`"
+        }
+    ],
+    "BBBJN_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Jennie**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910200025907280/Barbie_Jennie.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBCYH_3`"
+        }
+    ],
+    "BBCJW_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Jiwon**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910200436969532/Barbie_Jiwon.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBCJW_3`"
+        }
+    ],
+    "BBHRN_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Riina**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910200927699054/Barbie_Riina.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBHRN_3`"
+        }
+    ],
+    "BBIYN_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Yuna**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910201259032626/Barbie_Yuna.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBIYN_3`"
+        }
+    ],
+    "BBIJW_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Jang Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910201649123398/Barbie_Wonyoung.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBIJW_3`"
+        }
+    ],
+    "BBRYH_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Yeonhee**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910202169196584/Barbie_Yeonhee.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBRYH_3`"
+        }
+    ],
+    "BBANN_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Ningning**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910284176240671/Barbie_Ningning.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBANN_3`"
+        }
+    ],
+    "BBSM_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> JEON SOMI**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910284486615050/Barbie_Jeon_Somi.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBSM_3`"
+        }
+    ],
+    "BBTSN_3": [
+        {
+            "name": "**<:barbie:1143131228648771594> Sana**",
+            "image": "https://media.discordapp.net/attachments/1144188897560100945/1144910285006721094/Barbie_Sana.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Barbie",
+            "code": "`BBTSN_3`"
         }  
         ]
  }
