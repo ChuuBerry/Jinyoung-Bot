@@ -395,7 +395,34 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`CNCRJ_WP`"
-        }            
+        }
+    ],
+    "CENSJ_WP": [
+        {
+            "name": "**ENHYPEN SunJay Custom Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1145369376883736699/Untitled340_20230822160615.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CENSJ_WP`"
+        } 
+   ],
+    "CENSH_WP": [
+        {
+            "name": "**ENHYPEN Sunghoon Custom Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1145369376221040672/Untitled338_20230821214151.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CENSH_WP`"
+        }
+    ],
+    "CATGR_WP": [
+        {
+            "name": "**ATEEZ Group Custom Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1123454158654152725/1145369377366085644/Untitled461_20230827224726.png",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`CATGR_WP`"
+        }    
     ]
 }
     
