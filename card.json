@@ -9657,7 +9657,1157 @@
             "grade": "3star",
             "inv": "Barbie",
             "code": "`BBTSN_3`"
-        }  
+        }
+    ],
+    "GGTY_1": [
+        {
+            "name": "**✦ Girls' Generation Taeyeon**",
+            "image": "https://media.discordapp.net/attachments/1141123274693152819/1141123665010888825/Untitled341_2_20230816045744.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGTY_1`"
+        }
+    ],
+    "GGSN_1": [
+        {
+            "name": "**✦ Girls' Generation Sunny**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123665489055784/Untitled341_2_20230816050624.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGSN_3`"
+        }
+    ],
+    "GGTF_1": [
+        {
+            "name": "**✦ Girls' Generation Tiffany**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123665962995874/Untitled341_2_20230816053423.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGTF_1`"
+        }
+    ],
+    "GGHY_1": [
+        {
+            "name": "**✦ Girls' Generation Hyoyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123666470502530/Untitled341_2_20230816045916.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GGHY",
+            "code": "`GGTY_1`"
+        }
+    ],
+    "GGYR_1": [
+        {
+            "name": "**✦ Girls' Generation Yuri**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123666902536192/Untitled341_2_20230816051250.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGYR_1`"
+        }
+    ],
+    "GGSY_1": [
+        {
+            "name": "**✦ Girls' Generation Sooyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123667313561711/Untitled341_2_20230816050252.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGSY_1`"
+        }
+    ],
+    "GGYN_1": [
+        {
+            "name": "**✦ Girls' Generation Yoona**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123667955306498/Untitled341_2_20230816050958.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGYN_1`"
+        }
+    ],
+    "GGSH_1": [
+        {
+            "name": "**✦ Girls' Generation Seohyun**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123668370526258/Untitled341_2_20230816050457.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GG",
+            "code": "`GGSH_1`"
+        }
+    ],
+    "GGTY_2": [
+        {
+            "name": "**✦✦ Girls' Generation Taeyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123814743347260/Untitled341_2_20230816052058.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGTY_2`"
+        }
+    ],
+    "GGSN_2": [
+        {
+            "name": "**✦✦ Girls' Generation Sunny**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123815053730082/Untitled341_2_20230816052030.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGSN_2`"
+        }
+    ],
+    "GGTF_2": [
+        {
+            "name": "**✦✦ Girls' Generation Tiffany**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123815410253958/Untitled341_2_20230816052656.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGTF_2`"
+        }
+    ],
+    "GGHY_2": [
+        {
+            "name": "**✦✦ Girls' Generation Hyoyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123815733203015/Untitled341_2_20230816052237.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGTY_2`"
+        }
+    ],
+    "GGYR_2": [
+        {
+            "name": "**✦✦ Girls' Generation Yuri**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123816031002654/Untitled341_2_20230816052502.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGYR_2`"
+        }
+    ],
+    "GGSY_2": [
+        {
+            "name": "**✦✦ Girls' Generation Sooyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123816358166558/Untitled341_2_20230816053052.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGSY_2`"
+        }
+    ],
+    "GGYN_2": [
+        {
+            "name": "**✦✦ Girls' Generation Yoona**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123816765001779/Untitled341_2_20230816053203.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGYN_2`"
+        }
+    ],
+    "GGSH_2": [
+        {
+            "name": "**✦✦ Girls' Generation Seohyun**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1141123817066995925/Untitled341_2_20230816052942.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "GG",
+            "code": "`GGSH_2`"
+        }
+    ],
+    "GGTY_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Taeyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054695393841244/Untitled341_2_Restored_20230818190018.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGTY_3`"
+        }
+    ],
+    "GGJS_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Jessica**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054695821643806/Untitled341_2_Restored_20230818191517.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGJS_3`"
+        }
+    ],
+    "GGSN_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Sunny**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054696148815882/Untitled341_2_Restored_20230818191153.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGSN_3`"
+        }
+    ],
+    "GGTF_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Tiffany**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054696475955331/Untitled341_2_Restored_20230818190548.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGTF_3`"
+        }
+    ],
+    "GGHY_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Hyoyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054696857649297/Untitled341_2_Restored_20230818185941.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GGHY",
+            "code": "`GGTY_3`"
+        }
+    ],
+    "GGYR_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Yuri**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054697222557798/Untitled341_2_Restored_20230818191103.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGYR_3`"
+        }
+    ],
+    "GGSY_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Sooyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054697746829442/Untitled341_2_Restored_20230818190716.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGSY_3`"
+        }
+    ],
+    "GGYN_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Yoona**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054698103357510/Untitled341_2_Restored_20230818191305.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGYN_3`"
+        }
+    ],
+    "GGSH_3": [
+        {
+            "name": "**✦✦✦ Girls' Generation Seohyun**",
+            "image": "https://cdn.discordapp.com/attachments/1141123274693152819/1142054698480849016/Untitled341_2_Restored_20230818185818.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "GG",
+            "code": "`GGSH_3`"
+        }
+    ],
+    "G7MA_1": [
+        {
+            "name": "**✦ GOT7 Mark**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747412244348988/2.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7MA_1`"
+        }
+    ],
+    "G7JB_1": [
+        {
+            "name": "**✦ GOT7 Jay B**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747412521156618/1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7JB_1`"
+        }
+    ],
+    "G7JS_1": [
+        {
+            "name": "**✦ GOT7 Jackson**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747412886081547/6.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7JS_1`"
+        }
+    ],
+    "G7JY_1": [
+        {
+            "name": "**✦ GOT7 Jinyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747413209038878/7.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7JY_1`"
+        }
+    ],
+    "G7YJ_1": [
+        {
+            "name": "**✦ GOT7 Youngjae**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747413502623794/4.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7YJ_1`"
+        }
+    ],
+    "G7BB_1": [
+        {
+            "name": "**✦ GOT7 Bambam**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747413792051272/3.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7BB_1`"
+        }
+    ],
+    "G7YG_1": [
+        {
+            "name": "**✦ GOT7 Yugyeom**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1130747414127591504/5.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Got7",
+            "code": "`G7YG_1`"
+        }
+    ],
+    "G7MA_2": [
+        {
+            "name": "**✦✦ GOT7 Mark**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791631245287444/2_1.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7MA_2`"
+        }
+    ],
+    "G7JB_2": [
+        {
+            "name": "**✦✦ GOT7 Jay B**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791631585030154/1_1.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7JB_2`"
+        }
+    ],
+    "G7JS_2": [
+        {
+            "name": "**✦✦ GOT7 Jackson**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791631887028375/6_1.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7JS_2`"
+        }
+    ],
+    "G7JY_2": [
+        {
+            "name": "**✦✦ GOT7 Jinyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791632222560436/12.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7JY_2`"
+        }
+    ],
+    "G7YJ_2": [
+        {
+            "name": "**✦✦ GOT7 Youngjae**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791632528748594/9.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7YJ_2`"
+        }
+    ],
+    "G7BB_2": [
+        {
+            "name": "**✦✦ GOT7 Bambam**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791632851718296/3_1.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7BB_2`"
+        }
+    ],
+    "G7YG_2": [
+        {
+            "name": "**✦✦ GOT7 Yugyeom**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146791633199833108/5_1.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "Got7",
+            "code": "`G7YG_2`"
+        }
+    ],
+    "G7MA_3": [
+        {
+            "name": "**✦✦✦ GOT7 Mark**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814566068670634/2_3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7MA_3`"
+        }
+    ],
+    "G7JB_3": [
+        {
+            "name": "**✦✦✦ GOT7 Jay B**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814566341288036/1_4.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7JB_3`"
+        }
+    ],
+    "G7JS_3": [
+        {
+            "name": "**✦✦✦ GOT7 Jackson**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146824451791528067/6_20230831165530.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7JS_3`"
+        }
+    ],
+    "G7JY_3": [
+        {
+            "name": "**✦✦✦ GOT7 Jinyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814567528288266/12_1.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7JY_3`"
+        }
+    ],
+    "G7YJ_3": [
+        {
+            "name": "**✦✦✦ GOT7 Youngjae**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814567985455265/13_20230831154216.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7YJ_3`"
+        }
+    ],
+    "G7BB_3": [
+        {
+            "name": "**✦✦✦ GOT7 Bambam**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814568354549831/3_2.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7BB_3`"
+        }
+    ],
+    "G7YG_3": [
+        {
+            "name": "**✦✦✦ GOT7 Yugyeom**",
+            "image": "https://cdn.discordapp.com/attachments/1130747035650379847/1146814568711069787/5_2.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "Got7",
+            "code": "`G7YG_3`"
+        }
+    ],
+    "HKSI_1": [
+        {
+            "name": "**✦ H1-KEY Seoi**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281615673282710/SEOI1.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "H1KEY",
+            "code": "`HKSI_1`"
+        }
+    ],
+    "HKRN_1": [
+        {
+            "name": "**✦ H1-KEY Riina**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281616008814612/RIINA1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "H1KEY",
+            "code": "`HKRN_1`"
+        }
+    ],
+    "HKHS_1": [
+        {
+            "name": "**✦ H1-KEY Hwiseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281616310816878/HWISEO1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "H1KEY",
+            "code": "`HKHS_1`"
+        }
+    ],
+    "HKYE_1": [
+        {
+            "name": "**✦ H1-KEY Yel**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281616679903252/YEL1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "H1KEY",
+            "code": "`HKYE_1`"
+        }
+    ],
+    "HKSI_2": [
+        {
+            "name": "**✦✦ H1-KEY Seoi**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281672329941033/SEOI2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "H1KEY",
+            "code": "`HKSI_2`"
+        }
+    ],
+    "HKRN_2": [
+        {
+            "name": "**✦✦ H1-KEY Riina**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281672652898464/RIINA2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "H1KEY",
+            "code": "`HKRN_2`"
+        }
+    ],
+    "HKHS_2": [
+        {
+            "name": "**✦✦ H1-KEY Hwiseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281672980037645/HWISEO2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "H1KEY",
+            "code": "`HKHS_2`"
+        }
+    ],
+    "HKYE_2": [
+        {
+            "name": "**✦✦ H1-KEY Yel**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281673252687972/YEL2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "H1KEY",
+            "code": "`HKYE_2`"
+        }
+    ],
+    "HKSI_3": [
+        {
+            "name": "**✦✦✦ H1-KEY Seoi**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281736687333447/SEOI3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "H1KEY",
+            "code": "`HKSI_3`"
+        }
+    ],
+    "HKRN_3": [
+        {
+            "name": "**✦✦✦ H1-KEY Riina**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281737060634725/RIINA3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "H1KEY",
+            "code": "`HKRN_3`"
+        }
+    ],
+    "HKHS_3": [
+        {
+            "name": "**✦✦✦ H1-KEY Hwiseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281737572335737/HWISEO3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "H1KEY",
+            "code": "`HKHS_3`"
+        }
+    ],
+    "HKYE_3": [
+        {
+            "name": "**✦✦✦ H1-KEY Yel**",
+            "image": "https://cdn.discordapp.com/attachments/1146281268716261376/1146281737895292928/YEL3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "H1KEY",
+            "code": "`HKYE_3`"
+        }
+    ],
+    "ZBKJ_1": [
+        {
+            "name": "**✦ ZEROBASEONE Kim Jiwoong**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809980108939415/Untitled341_20230831213016.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKJ_1`"
+        }
+    ],
+    "ZBZH_1": [
+        {
+            "name": "**✦ ZEROBASEONE Zhang Hao**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809980507394189/Untitled341_20230831213002.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBZH_1`"
+        }
+    ],
+    "ZBSH_1": [
+        {
+            "name": "**✦ ZEROBASEONE Sung Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809980859727922/Untitled341_20230831212948.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSH_1`"
+        }
+    ],
+    "ZBSM_1": [
+        {
+            "name": "**✦ ZEROBASEONE Seok Matthew**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809981644050472/Untitled341_20230831212929.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSM_1`"
+        }
+    ],
+    "ZBKT_1": [
+        {
+            "name": "**✦ ZEROBASEONE Kim Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809982013165679/Untitled341_20230831212915.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKT_1`"
+        }
+    ],
+    "ZBRK_1": [
+        {
+            "name": "**✦ ZEROBASEONE Ricky**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809982440972400/Untitled341_20230831212859.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBRK_1`"
+        }
+    ],
+    "ZBKG_1": [
+        {
+            "name": "**✦ ZEROBASEONE Kim Gyuvin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809982835232899/Untitled341_20230831212846.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKG_1`"
+        }
+    ],
+    "ZBPG_1": [
+        {
+            "name": "**✦ ZEROBASEONE Park Gunwook**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809983275647016/Untitled341_20230831212833.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBPG_1`"
+        }
+    ],
+    "ZBHY_1": [
+        {
+            "name": "**✦ ZEROBASEONE Han Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146809983657320558/Untitled341_20230831212815.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBHY_1`"
+        }
+    ],
+    "ZBKJ_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Kim Jiwoong**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810044193718393/Untitled341_20230831213110.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKJ_2`"
+        }
+    ],
+    "ZBZH_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Zhang Hao**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810044453757001/Untitled341_20230831213159.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBZH_2`"
+        }
+    ],
+    "ZBSH_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Sung Hanbin**",
+            "image": "https://media.discordapp.net/attachments/1146713027954102303/1146810044810276884/Untitled341_20230831213231.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSH_2`"
+        }
+    ],
+    "ZBSM_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Seok Matthew**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810045166796820/Untitled341_20230831213305.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSM_2`"
+        }
+    ],
+    "ZBKT_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Kim Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810045582028910/Untitled341_20230831213329.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKT_2`"
+        }
+    ],
+    "ZBRK_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Ricky**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810045896597554/Untitled341_20230831213352.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBRK_2`"
+        }
+    ],
+    "ZBKG_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Kim Gyuvin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810046362169364/Untitled341_20230831213409.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKG_2`"
+        }
+    ],
+    "ZBPG_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Park Gunwook**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810046655774902/Untitled341_20230831213501.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBPG_2`"
+        }
+    ],
+    "ZBHY_2": [
+        {
+            "name": "**✦✦ ZEROBASEONE Han Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146810047037452418/Untitled341_20230831213521.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBHY_2`"
+        }
+    ],
+    "ZBKJ_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Kim Jiwoong**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811708422242354/Untitled341_20230831220905.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKJ_3`"
+        }
+    ],
+    "ZBZH_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Zhang Hao**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811708795523102/Untitled341_20230831220853.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBZH_3`"
+        }
+    ],
+    "ZBSH_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Sung Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811709193994240/Untitled341_20230831220830.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSH_3`"
+        }
+    ],
+    "ZBSM_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Seok Matthew**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811710062202910/Untitled341_20230831220816.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBSM_3`"
+        }
+    ],
+    "ZBKT_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Kim Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811710498422814/Untitled341_20230831220736.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKT_3`"
+        }
+    ],
+    "ZBRK_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Ricky**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811710926229584/Untitled341_20230831221558.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBRK_3`"
+        }
+    ],
+    "ZBKG_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Kim Gyuvin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811711769280652/Untitled341_20230831220517.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBKG_3`"
+        }
+    ],
+    "ZBPG_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Park Gunwook**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811712130007050/Untitled341_20230831220352.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBPG_3`"
+        }
+    ],
+    "ZBHY_3": [
+        {
+            "name": "**✦✦✦ ZEROBASEONE Han Yujin**",
+            "image": "https://cdn.discordapp.com/attachments/1146713027954102303/1146811712486510592/Untitled341_20230831220252.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "ZEROBASEONE",
+            "code": "`ZBHY_3`"
+        }
+    ],
+    "WJSA_1": [
+        {
+            "name": "**✦ WJSN SeolA**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022642319638550/SEOLA1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJSA_1`"
+        }
+    ],
+    "WJBN_1": [
+        {
+            "name": "**✦ WJSN Bona**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022642650976256/BONA1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJBN_1`"
+        }
+    ],
+    "WJEX_1": [
+        {
+            "name": "**✦ WJSN Exy**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022643024285766/EXY1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJEX_1`"
+        }
+    ],
+    "WJSB_1": [
+        {
+            "name": "**✦ WJSN Soobin**",
+            "image": "https://media.discordapp.net/attachments/1146022267659239444/1146022643334660149/SOOBIN1.png?width=490&height=662",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJSB_1`"
+        }
+    ],
+    "WJLD_1": [
+        {
+            "name": "**✦ WJSN Luda**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022643770855474/LUDA1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJLD_1`"
+        }
+    ],
+    "WJDW_1": [
+        {
+            "name": "**✦ WJSN Dawon**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022644160942161/DAWON1.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJDW_1`"
+        }
+    ],
+    "WJES_1": [
+        {
+            "name": "**✦ WJSN Eunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022644471316490/EUNSEO1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJES_1`"
+        }
+    ],
+    "WJYR_1": [
+        {
+            "name": "**✦ WJSN Yeoreum**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022644752322641/YEOREUM1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJYR_1`"
+        }
+    ],
+    "WJDY_1": [
+        {
+            "name": "**✦ WJSN Dayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022645071106079/DAYOUNG1.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJDY_1`"
+        }
+    ],
+    "WJYJ_3": [
+        {
+            "name": "**✦ WJSN Yeonjung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022645377286195/YEONJUNG1.png",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "WJSN",
+            "code": "`WJYJ_1`"
+        }
+    ],
+    "WJSA_2": [
+        {
+            "name": "**✦✦ WJSN SeolA**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022778043113513/SEOLA2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJSA_2`"
+        }
+    ],
+    "WJBN_2": [
+        {
+            "name": "**✦✦ WJSN Bona**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022778416410664/BONA2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJBN_2`"
+        }
+    ],
+    "WJEX_2": [
+        {
+            "name": "**✦✦ WJSN Exy**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022778823266304/EXY2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJEX_2`"
+        }
+    ],
+    "WJSB_2": [
+        {
+            "name": "**✦✦ WJSN Soobin**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022779766972487/SOOBIN2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJSB_2`"
+        }
+    ],
+    "WJLD_2": [
+        {
+            "name": "**✦✦ WJSN Luda**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022780190601236/LUDA2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJLD_2`"
+        }
+    ],
+    "WJDW_2": [
+        {
+            "name": "**✦✦ WJSN Dawon**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022780656177232/DAWON2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJDW_2`"
+        }
+    ],
+    "WJES_2": [
+        {
+            "name": "**✦✦ WJSN Eunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022781016879154/EUNSEO2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJES_2`"
+        }
+    ],
+    "WJYR_2": [
+        {
+            "name": "**✦✦ WJSN Yeoreum**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022781478248568/YEOREUM2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJYR_2`"
+        }
+    ],
+    "WJDY_2": [
+        {
+            "name": "**✦✦ WJSN Dayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022781956403210/DAYOUNG2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJDY_2`"
+        }
+    ],
+    "WJYJ_2": [
+        {
+            "name": "**✦✦ WJSN Yeonjung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146022782392619038/YEONJUNG2.png",
+            "theme": "card1",
+            "grade": "2star",
+            "inv": "WJSN",
+            "code": "`WJYJ_2`"
+        }
+    ],
+    "WJSA_3": [
+        {
+            "name": "**✦✦✦ WJSN SeolA**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023117622362153/SEOLA3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJSA_3`"
+        }
+    ],
+    "WJBN_3": [
+        {
+            "name": "**✦✦✦ WJSN Bona**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023118050168832/BONA3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJBN_3`"
+        }
+    ],
+    "WJEX_3": [
+        {
+            "name": "**✦✦✦ WJSN Exy**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023118373138452/EXY3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJEX_3`"
+        }
+    ],
+    "WJSB_3": [
+        {
+            "name": "**✦✦✦ WJSN Soobin**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023118691909652/SOOBIN3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJSB_3`"
+        }
+    ],
+    "WJLD_3": [
+        {
+            "name": "**✦✦✦ WJSN Luda**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023119170048150/LUDA3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJLD_3`"
+        }
+    ],
+    "WJDW_3": [
+        {
+            "name": "**✦✦✦ WJSN Dawon**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023119501406259/DAWON3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJDW_3`"
+        }
+    ],
+    "WJES_3": [
+        {
+            "name": "**✦✦✦ WJSN Eunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023119820177469/EUNSEO3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJES_3`"
+        }
+    ],
+    "WJYR_3": [
+        {
+            "name": "**✦✦✦ WJSN Yeoreum**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023120604499968/YEOREUM3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJYR_3`"
+        }
+    ],
+    "WJDY_3": [
+        {
+            "name": "**✦✦✦ WJSN Dayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023120961024091/DAYOUNG3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJDY_3`"
+        }
+    ],
+    "WJYJ_3": [
+        {
+            "name": "**✦✦✦ WJSN Yeonjung**",
+            "image": "https://cdn.discordapp.com/attachments/1146022267659239444/1146023121372069888/YEONJUNG3.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "WJSN",
+            "code": "`WJYJ_3`"
+        }
         ]
  }
                  
