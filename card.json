@@ -9022,7 +9022,7 @@
     "SFYK_3": [
         {
             "name": "**✦✦✦ Soloist Yukika**",
-            "image": "https://media.discordapp.net/attachments/1124693796546945054/1138506685229576243/YUKIKA_20230808230324.png",
+            "image": "https://media.discordapp.net/attachments/1124693796546945054/1149676227800608799/YUKIKA_20230908200112.png?width=492&height=665",
             "theme": "card1",
             "grade": "3star",
             "inv": "Soloist",
@@ -10807,6 +10807,176 @@
             "grade": "3star",
             "inv": "WJSN",
             "code": "`WJYJ_3`"
+        }
+    ],
+    "CSMSU_3": [
+        {
+            "name": "** <:cs:1149676375876317184> MAVE: Siu:**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599453385330749/ror_20230908142712.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSMSU_3`"
+        }
+    ],
+    "CSMZN_3": [
+        {
+            "name": "** <:cs:1149676375876317184> MAVE: Zena:**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599453762813993/ror_20230908142818.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSMZN_3`"
+        }
+    ],
+    "CSMTR_3": [
+        {
+            "name": "** <:cs:1149676375876317184> MAVE: Tyra:**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599454299697162/ror_20230908142911.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSMTR_3`"
+        }
+    ],
+    "CSMMT_3": [
+        {
+            "name": "** <:cs:1149676375876317184> MAVE: Marty:**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599454660399165/ror_20230908143011.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSMMT_3`"
+        }
+    ],
+    "CSPNA_3": [
+        {
+            "name": "** <:cs:1149676375876317184> PLAVE Noa**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599501032620062/ror_20230908144851.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSPNA_3`"
+        }
+    ],
+    "CSPBB_3": [
+        {
+            "name": "** <:cs:1149676375876317184> PLAVE Bamby**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599501447868446/ror_20230908145047.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSPBB_3`"
+        }
+    ],
+    "CSPYJ_3": [
+        {
+            "name": "** <:cs:1149676375876317184> PLAVE Yejun**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599501846315088/ror_20230908145147.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSPYJ_3`"
+        }
+    ],
+    "CSPEH_3": [
+        {
+            "name": "** <:cs:1149676375876317184> PLAVE Eunho**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599502257369129/ror_20230908145414.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSPEH_3`"
+        }
+    ],
+    "CSPHM_3": [
+        {
+            "name": "** <:cs:1149676375876317184> PLAVE Hamin**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149599502685184010/ror_20230908145520.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSPHM_3`"
+        }
+    ],
+    "CSAAK_3": [
+        {
+            "name": "** <:cs:1149676375876317184> ÆSPA æ-Karina**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649589943681095/ror_20230908180946.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSAAK_3`"
+        }
+    ],
+    "CSAAG_3": [
+        {
+            "name": "** <:cs:1149676375876317184> ÆSPA æ-Giselle**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649589578772500/ror_20230908180932.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSAAG_3`"
+        }
+    ],
+    "CSAAW_3": [
+        {
+            "name": "** <:cs:1149676375876317184> ÆSPA æ-Winter**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649589188689972/ror_20230908180909.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSAAW_3`"
+        }
+    ],
+    "CSAAN_3": [
+        {
+            "name": "** <:cs:1149676375876317184> ÆSPA æ-Ningning**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649588739911790/ror_20230908180841.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSAAN_3`"
+        }
+    ],
+    "CSANV_3": [
+        {
+            "name": "** <:cs:1149676375876317184> ÆSPA Nævis**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649632243220520/ror_20230908181506.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSANV_3`"
+        }
+    ],
+    "CSSSJ_3": [
+        {
+            "name": "** <:cs:1149676375876317184> SUPER KIND Saejin **",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649503876546591/ror_20230908180100.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSSSJ_3`"
+        }
+    ],
+    "CSSSG_3": [
+        {
+            "name": "** <:cs:1149676375876317184> SUPER KIND Seung **",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149649504291799070/ror_20230908175154.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSSSG_3`"
+        }
+    ],
+    "CSAP_3": [
+        {
+            "name": "** <:cs:1149676375876317184> APOKI**",
+            "image": "https://cdn.discordapp.com/attachments/1149599303719993375/1149655553962950676/ror_20230908183539.png",
+            "theme": "card1",
+            "grade": "3star",
+            "inv": "CYBERSPACE",
+            "code": "`CSAP_3`"
         }
         ]
  }
