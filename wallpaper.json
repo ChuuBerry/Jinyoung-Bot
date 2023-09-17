@@ -422,7 +422,43 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "`CATGR_WP`"
-        }    
+        } 
+    ],
+    "TBBD_WP": [
+        {
+            "name": "**THE BOYZ Limited Wallpaper #1**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`TBBD_WP`"
+        }
+    ],
+    "ZBIB_WP": [
+        {
+            "name": "**ZEROBASEONE Limited Wallpaper #1**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`ZBIB_WP`"
+        }
+    ],
+    "LSAF_WP": [
+        {
+            "name": "**LE SSERAFIM Limited Wallpaper #1**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`LSAF_WP`"
+        }
+    ],
+    "SCSB_WP": [
+        {
+            "name": "**STAYC Limited Wallpaper #1**",
+            "image": "",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "SCSB`_WP`"
+        }   
     ]
 }
     
