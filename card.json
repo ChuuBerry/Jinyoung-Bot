@@ -12782,7 +12782,7 @@
     "GFSW_3": [
         {
             "name": "**✦✦✦ GFRIEND Sowon**",
-            "image": "",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157331864340660274/Gfriend_20230929230112.png?ex=651838ca&is=6516e74a&hm=3e5b958f0cea05a8415581dd29fa8131bae04007ae3377a01cc3dbf9f27e0057&",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -12792,7 +12792,7 @@
     "GFYR_3": [
         {
             "name": "**✦✦✦ GFRIEND Yerin**",
-            "image": "",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157331864734933093/Gfriend_20230929230142.png?ex=651838ca&is=6516e74a&hm=1ada070f1166eb72487fec5835b80d44c03ec68c0405e0cdf7bccaedc039e6e7&",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -12802,7 +12802,7 @@
     "GFEH_3": [
         {
             "name": "**✦✦✦ GFRIEND Eunha**",
-            "image": "",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157331865116622878/Gfriend_20230929230129.png?ex=651838ca&is=6516e74a&hm=ead7b87672a1b282e4592dd044a7649d36fe200b3d0c2851956c0e6b5eaad4a2&",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -12812,7 +12812,7 @@
     "GFYJ_3": [
         {
             "name": "**✦✦✦ GFRIEND Yuju**",
-            "image": "",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157331865460539413/Gfriend_20230929230155.png?ex=651838ca&is=6516e74a&hm=f3bca1fdafd76c507572d45fca15d2f5a3fe0eabe61be2f1a9a68f9f254e3165&",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -12822,7 +12822,7 @@
     "GFSB_3": [
         {
             "name": "**✦✦✦ GFRIEND SinB**",
-            "image": "",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157331865808683179/Gfriend_20230929230206.png?ex=651838ca&is=6516e74a&hm=fd422cb70be9f32c3d0941d69e7e614e8d602f967b49c0aef2f3a49a49178119&",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -12832,7 +12832,7 @@
     "GFUJ_3": [
         {
             "name": "**✦✦✦ GFRIEND Umji**",
-            "image": "",
+            "image": "https://media.discordapp.net/attachments/1156964446053339297/1157331866127441950/Gfriend_20230929230220.png?ex=651838cb&is=6516e74b&hm=0c402692853a614aba6f1325ed7f721a420e485f75fd480142f0c80c9ee64c6b&=&width=492&height=665",
             "theme": "card3",
             "grade": "3star",
             "inv": "GFRIEND",
@@ -13228,6 +13228,126 @@
             "inv": "LIGHTSUM",
             "code": "`LSYU_3`"
         }
+   ],
+    "SMPJ_1": [
+        {
+            "name": "**✦ Soloist PARK JIHOON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1156531929605226517/diamond_card_Park_Jihoon.png?ex=6517f2cb&is=6516a14b&hm=1a71038797fada3656182ba61ab288de48a088f96c4968aacc30917b2446cd5e&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMPJ_1`"
+        }
+   ],
+    "SMPJ_2": [
+        {
+            "name": "**✦✦ Soloist PARK JIHOON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1156532009628348416/diamond_card_Park_Jihoon.png?ex=6517f2de&is=6516a15e&hm=843b8fd80adfa5d5b504e5bc5071e443fc3c5d4fffc26f07390d08f67c817b0e&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMPJ_2`"
+        }
+   ],
+    "SMPJ_3": [
+        {
+            "name": "**✦✦✦ Soloist PARK JIHOON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1156532268802781256/diamond_card_Park_Jihoon.png?ex=6517f31c&is=6516a19c&hm=2e7effdb0f9a581a8022b27077f2034b682779516e3a28559fa0313542464215&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SMPJ_3`"
+        }
+   ],
+    "SMWH_1": [
+        {
+            "name": "**✦ Soloist WONHO**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1157325413471764511/Wonho_20230929222916.png?ex=651832c8&is=6516e148&hm=6974eea071ec449057211aed4f32ba64aa91388509cdf237f63d1e62e4b8ac14&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SMWH_1`"
+        }
+   ],
+    "SMWH_2": [
+        {
+            "name": "**✦✦ Soloist WONHO**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1157325492765069373/Wonho_20230929223225.png?ex=651832db&is=6516e15b&hm=91f02cf66786f9fa02301356eb6616b021202e5b79d00179710a68cac15e64bf&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SMWH_2`"
+        }
+   ],
+    "SMWH_3": [
+        {
+            "name": "**✦✦✦ Soloist WONHO**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1157325558053617704/Wonho_20230929223632.png?ex=651832eb&is=6516e16b&hm=1c253654f7a1363b805e63bdce4bb3bd0d49dcb1e3ab6ee55ee35c496ccb0759&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SMWH_3`"
+        }
+   ],
+    "SFJY_1": [
+        {
+            "name": "**✦ Soloist JO YURI**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1156954373902057483/Untitled342_20230924112636.png?ex=65182ab9&is=6516d939&hm=23cf0e5ae29f259da12a2a2dbde734fc9c317ab1b9209d1219154545111633c1&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFJY_1`"
+        }
+   ],
+    "SFJY_2": [
+        {
+            "name": "**✦✦ Soloist JO YURI**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1156954469486035044/Untitled342_20230928213140.png?ex=65182ad0&is=6516d950&hm=917e0ffe1d1ec15d1e782631ba315babb471114d367ab6fa38a3d5471457105b&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFJY_2`"
+        }
+   ],
+    "SFJY_3": [
+        {
+            "name": "**✦✦✦ Soloist JO YURI**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1156954580064681984/Untitled342_20230928215320.png?ex=65182aeb&is=6516d96b&hm=ef9cdb149f5d2687a548824f9d5c9540912d2378c8cd9369016ada020e2381be&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFJY_3`"
+        }
+   ],
+    "SFLC_1": [
+        {
+            "name": "**✦ Soloist LEE CHAEYEON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693669744742501/1155493185875890186/Untitled341_20230924131515.png?ex=65181fe3&is=6516ce63&hm=9d795ac85b41ee2ce1ce3075a8b818f75c216edad82a03938219154d6d71dcd7&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "Soloist",
+            "code": "`SFLC_1`"
+        }
+   ],
+    "SFLC_2": [
+        {
+            "name": "**✦✦ Soloist LEE CHAEYEON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693768453496882/1155493272668622920/Untitled341_20230924144243.png?ex=65181ff8&is=6516ce78&hm=493a5701577c9ded103c9dafddf740feb95001c10eacf74f4dbcee77f200e3d6&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "Soloist",
+            "code": "`SFLC_2`"
+        }
+   ],
+    "SFLC_3": [
+        {
+            "name": "**✦✦✦ Soloist LEE CHAEYEON**",
+            "image": "https://cdn.discordapp.com/attachments/1124693796546945054/1155754409930797096/Untitled341_20230925083500.png?ex=6517c1ac&is=6516702c&hm=2ccdd9cd0b4aae7a8b9f73a78ae1b89a65b032cbb500d354bd38763588fbfdc5&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Soloist",
+            "code": "`SFLC_3`"
+        }                          
     ]
  }
                  
