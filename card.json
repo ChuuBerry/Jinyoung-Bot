@@ -12658,6 +12658,576 @@
             "inv": "TEMPEST",
             "code": "`TPTR_3`" 
         }
+   ],
+    "GFSW_1": [
+        {
+            "name": "**✦ GFRIEND Sowon**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964595815161956/Untitled342_20230928223333.png?ex=65178b7f&is=651639ff&hm=1a489cf5dc055481a3a7598634b3e1b259215235c1ad1f401f9f4812e83b73bb&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFSW_1`"
+        }
+   ],
+    "GFYR_1": [
+        {
+            "name": "**✦ GFRIEND Yerin**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964596188463114/Untitled342_20230928224012.png?ex=65178b7f&is=651639ff&hm=c117782f98dd84c10d479cd438346e3568d43f4f281eaf9e6b90972c39633e2e&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFYR_1`"
+        }
+   ],
+    "GFEH_1": [
+        {
+            "name": "**✦ GFRIEND Eunha**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964596549169192/Untitled342_20230928222142.png?ex=65178b7f&is=651639ff&hm=a72d26cdbda1068e2e51afb6c26a471a88517cc53faecf0fb24cf6fa1e1d2873&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFEH_1`"
+        }
+   ],
+    "GFYJ_1": [
+        {
+            "name": "**✦ GFRIEND Yuju**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964596825989140/Untitled342_20230928224216.png?ex=65178b7f&is=651639ff&hm=47d387f7a7321c2ad9217af6be758afd819c9404c27cdf123aa9a858e284afae&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFYJ_1`"
+        }
+   ],
+    "GFSB_1": [
+        {
+            "name": "**✦ GFRIEND SinB**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964597316730993/Untitled342_20230928223218.png?ex=65178b7f&is=651639ff&hm=1473252b68e4212dcd489d1d8e02763d37dcdca5ea3ad1a67e698565f57b7feb&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFSB_1`"
+        }
+   ],
+    "GFUJ_1": [
+        {
+            "name": "**✦ GFRIEND Umji**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1156964597752930334/Untitled342_20230928223828.png?ex=65178b7f&is=651639ff&hm=e91a4582262781620139a193c13f9a9237c476afdbba8740bdda4f0148f0cfef&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GFRIEND",
+            "code": "`GFUJ_1`"
+        }
+   ],
+    "GFSW_2": [
+        {
+            "name": "**✦✦ GFRIEND Sowon**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269324885655562/Untitled342_20230929184319.png?ex=6517fe8c&is=6516ad0c&hm=a8da69567caa51ef8078108a3d4bafa75f0e869aef5cc35ecf4436f382059eac&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFSW_2`"
+        }
+   ],
+    "GFYR_2": [
+        {
+            "name": "**✦✦ GFRIEND Yerin**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269325380587631/Untitled342_20230929184415.png?ex=6517fe8c&is=6516ad0c&hm=6b1e8771a6306be8707f513a35efd6080fd0e6b7d84fa8d80c66793de5b6f6f5&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFYR_2`"
+        }
+   ],
+    "GFEH_2": [
+        {
+            "name": "**✦✦ GFRIEND Eunha**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269325770653807/Untitled342_20230929184757.png?ex=6517fe8c&is=6516ad0c&hm=fbb0976fc202fd29302fbd0658fba142584269aa629316a8aaaae6677eb00bd4&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFEH_2`"
+        }
+   ],
+    "GFYJ_2": [
+        {
+            "name": "**✦✦ GFRIEND Yuju**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269326215254126/Untitled342_20230929183624.png?ex=6517fe8c&is=6516ad0c&hm=c1d74ca7021b679e6898aee29d8937b1628271bc8becf2caeec4137522804842&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFYJ_2`"
+        }
+   ],
+    "GFSB_2": [
+        {
+            "name": "**✦✦ GFRIEND SinB**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269326617923624/Untitled342_20230929183656.png?ex=6517fe8c&is=6516ad0c&hm=ab8efad0bbc46ea515c6f12fee8c338d65469005e862139732f4235bc90eba07&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFSB_2`"
+        }
+   ],
+    "GFUJ_2": [
+        {
+            "name": "**✦✦ GFRIEND Umji**",
+            "image": "https://cdn.discordapp.com/attachments/1156964446053339297/1157269326953451560/Untitled342_20230929184518.png?ex=6517fe8c&is=6516ad0c&hm=e4239c1c05fb63fea4b3d6cc1d5a127a613ebd1b4f4a9922d048e2577e014d82&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GFRIEND",
+            "code": "`GFUJ_2`"
+        }
+   ],
+    "GFSW_3": [
+        {
+            "name": "**✦✦✦ GFRIEND Sowon**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFSW_3`"
+        }
+   ],
+    "GFYR_3": [
+        {
+            "name": "**✦✦✦ GFRIEND Yerin**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFYR_3`"
+        }
+   ],
+    "GFEH_3": [
+        {
+            "name": "**✦✦✦ GFRIEND Eunha**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFEH_3`"
+        }
+   ],
+    "GFYJ_3": [
+        {
+            "name": "**✦✦✦ GFRIEND Yuju**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFYJ_3`"
+        }
+   ],
+    "GFSB_3": [
+        {
+            "name": "**✦✦✦ GFRIEND SinB**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFSB_3`"
+        }
+   ],
+    "GFUJ_3": [
+        {
+            "name": "**✦✦✦ GFRIEND Umji**",
+            "image": "",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GFRIEND",
+            "code": "`GFUJ_3`"
+        }
+   ],
+    "GWMY_1": [
+        {
+            "name": "**✦ GWSN Miya**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113295103348856/gwsn_20230929072623.png?ex=651815fb&is=6516c47b&hm=c7238f12a6ea2756ecd81f754da8171dce8eb6d4a5c165bce0ff4fe40ad219d6&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWMY_1`"
+        }
+   ],
+    "GWSK_1": [
+        {
+            "name": "**✦ GWSN Seokyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113295413723226/gwsn_20230929072705.png?ex=651815fb&is=6516c47b&hm=68b84a5bc16ef192ee3dccbfed0671413a04f24ca3d2178f9b1f0aef9d189b34&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWSK_1`"
+        }
+   ],
+    "GWSR_1": [
+        {
+            "name": "**✦ GWSN Seoryoung**",
+            "image": "https://media.discordapp.net/attachments/1157112693501730816/1157113295807991838/gwsn_20230929072811.png?ex=65176d3b&is=65161bbb&hm=c2199ec105a1d40fde58e93efc7cde469bf5438930030bf3c0af6c1cd893eeb1&=&width=448&height=605",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWSR_1`"
+        }
+   ],
+    "GWAN_1": [
+        {
+            "name": "**✦ GWSN Anne**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113296143532143/gwsn_20230929072725.png?ex=651815fb&is=6516c47b&hm=1d7b316d84966c643a2e9172ea5b32877de458a004826cc0472172f537ae9627&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWAN_1`"
+        }
+   ],
+    "GWMJ_1": [
+        {
+            "name": "**✦ GWSN Minju**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113296470679593/gwsn_20230929072854.png?ex=651815fc&is=6516c47c&hm=6e284f439d01d451a540f46353ba2007401dbb985c098cb39c73a9933dbefb39&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWMJ_1`"
+        }
+   ],
+    "GWSS_1": [
+        {
+            "name": "**✦ GWSN Soso**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113296814624818/gwsn_20230929072745.png?ex=651815fc&is=6516c47c&hm=d3a3f1c8c1cb04557923bf4a573e51238a6586a854ae837a0faeb9ba62347720&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWSS_1`"
+        }
+   ],
+    "GWLN_1": [
+        {
+            "name": "**✦ GWSN Lena**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157113297166942260/gwsn_20230929072828.png?ex=651815fc&is=6516c47c&hm=f9fc551b3acb3d3b234a922109d16fefa817581070826e0b023732c4be268aa8&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "GWSN",
+            "code": "`GWLN_1`"
+        }
+   ],
+    "GWMY_2": [
+        {
+            "name": "**✦✦ GWSN Miya**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114909121855620/gwsn_20230929073925.png?ex=6518177c&is=6516c5fc&hm=2e0257ffdb77f375ae3b286c1a4ac13f2c2da46ffc2a410a59e5a9cb6fde84fa&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWMY_2`"
+        }
+   ],
+    "GWSK_2": [
+        {
+            "name": "**✦✦ GWSN Seokyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114909440618667/gwsn_20230929074256.png?ex=6518177c&is=6516c5fc&hm=fb241fd5533ec31b3b0e893e6516d4a709c0f41dbe4f00c86de725cadcc5c185&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWSK_2`"
+        }
+   ],
+    "GWSR_2": [
+        {
+            "name": "**✦✦ GWSN Seoryoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114909755179058/gwsn_20230929074350.png?ex=6518177c&is=6516c5fc&hm=0705bae95e64202aaafef6771fee7223e7191051662dbec8115df0266c83cbf7&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWSR_2`"
+        }
+   ],
+    "GWAN_2": [
+        {
+            "name": "**✦✦ GWSN Anne**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114910057185280/gwsn_20230929073032.png?ex=6518177c&is=6516c5fc&hm=ae314de2af7726b3af57b55559097cca527e09bc869b6b7bf0851aeb3e15486e&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWAN_2`"
+        }
+   ],
+    "GWMJ_2": [
+        {
+            "name": "**✦✦ GWSN Minju**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114910363365478/gwsn_20230929084036.png?ex=6518177c&is=6516c5fc&hm=885806dd31ab439f1cb7b9a24598c274fb8665b3655aa7da2998bdde007c9083&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWMJ_2`"
+        }
+   ],
+    "GWSS_2": [
+        {
+            "name": "**✦✦ GWSN Soso**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114910686314526/gwsn_20230929074428.png?ex=6518177c&is=6516c5fc&hm=638066065e6584a9c769b84d969f4376b65702621a9fb3955da95375d000dddf&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWSS_2`"
+        }
+   ],
+    "GWLN_2": [
+        {
+            "name": "**✦✦ GWSN Lena**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157114910975737876/gwsn_20230929073200.png?ex=6518177c&is=6516c5fc&hm=fee4fce5c230b4e4cf232515e5cc251be1920e02320cf96d33a0ef2b224acd2c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "GWSN",
+            "code": "`GWLN_2`"
+        }
+   ],
+    "GWMY_3": [
+        {
+            "name": "**✦✦✦ GWSN Miya**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115054504824863/gwsn_20230929081705.png?ex=6518179f&is=6516c61f&hm=33cf18a8ab723ba98ae0a4b84801c9065e3330ae13dade6120866f7138e16110&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWMY_3`"
+        }
+   ],
+    "GWSK_3": [
+        {
+            "name": "**✦✦✦ GWSN Seokyoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115054815191080/gwsn_20230929081452.png?ex=6518179f&is=6516c61f&hm=d707a96f26f0ca59d3a95778fc9606af58a0313754c7e794c11f38973b49683d&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWSK_3`"
+        }
+   ],
+    "GWSR_3": [
+        {
+            "name": "**✦✦✦ GWSN Seoryoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115055188492379/gwsn_20230929081512.png?ex=6518179f&is=6516c61f&hm=9e79cbb4402304e3a85ad9728df5ee3bd9d93013be3f39d99929851a07703ad3&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWSR_3`"
+        }
+   ],
+    "GWAN_3": [
+        {
+            "name": "**✦✦✦ GWSN Anne**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115055515652147/gwsn_20230929083637.png?ex=6518179f&is=6516c61f&hm=4adad102787a7c203dfc6606c49c16afc6cd1cdd6dc823d79f7a9b799a7f8487&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWAN_3`"
+        }
+   ],
+    "GWMJ_3": [
+        {
+            "name": "**✦✦✦ GWSN Minju**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115055863767070/gwsn_20230929081542.png?ex=6518179f&is=6516c61f&hm=d43f6224bb43040b7016abc59d20c1b26670e9e901ef930a48648c8a9277e44f&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWMJ_3`"
+        }
+   ],
+    "GWSS_3": [
+        {
+            "name": "**✦✦✦ GWSN Soso**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115056203513886/gwsn_20230929081634.png?ex=6518179f&is=6516c61f&hm=7da0cd0ec1c2605c3e7baab610674013b5df227b9b7e47fe56a6f72786c3db63&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWSS_3`"
+        }
+   ],
+    "GWLN_3": [
+        {
+            "name": "**✦✦✦ GWSN Lena**",
+            "image": "https://cdn.discordapp.com/attachments/1157112693501730816/1157115056555839558/gwsn_20230929081524.png?ex=6518179f&is=6516c61f&hm=5602059b4ca9ed848d7adca9f322d45fd870aa2b7986ab7df1a464076247d4d5&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "GWSN",
+            "code": "`GWLN_3`"
+        }
+   ],
+    "LSSA_1": [
+        {
+            "name": "**✦ LIGHTSUM Sangah**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189882687537232/lightsum_20230929130706.png?ex=6517b48f&is=6516630f&hm=c85e3a657f5475f1de87a8d333e451a54ab25e181a824c9e6f4dec79954bddb4&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSSA_1`"
+        }
+   ],
+    "LSCH_1": [
+        {
+            "name": "**✦ LIGHTSUM Chowon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189883165679727/lightsum_20230929130647.png?ex=6517b48f&is=6516630f&hm=c80270f10330ebb6d34b6037123ba2c27a5d3ce3511fd4931c135b2d93a01a2c&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSCH_1`"
+        }
+   ],
+    "LSNY_1": [
+        {
+            "name": "**✦ LIGHTSUM Nayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189883459289108/lightsum_20230929130619.png?ex=6517b48f&is=6516630f&hm=34d9d41250cd96f0045096a879835bf214809568620e69a49789f045cc0df1e5&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSNY_1`"
+        }
+   ],
+    "LSHN_1": [
+        {
+            "name": "**✦ LIGHTSUM Hina**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189883861946458/lightsum_20230929130607.png?ex=6517b48f&is=6516630f&hm=9ea99c98ea98c34bf1baadbb2378508f6ec1d31ca632f39c7488ab573af64ef4&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSHN_1`"
+        }
+   ],
+    "LSJH_1": [
+        {
+            "name": "**✦ LIGHTSUM Juhyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189884252004372/lightsum_20230929130742.png?ex=6517b48f&is=6516630f&hm=17f25b99a4bbf4b93c2bb2a3d2577315b72479978e93f72f47ed20cb698a028f&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSJH_1`"
+        }
+   ],
+    "LSYU_1": [
+        {
+            "name": "**✦ LIGHTSUM Yujeong**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157189884633698384/lightsum_20230929130538.png?ex=6517b490&is=65166310&hm=1ded29bb126e3465ab39917640f5cd9faa2bca7f06556748eccb65422a7f79b0&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "LIGHTSUM",
+            "code": "`LSYU_1`"
+        }
+ ],
+    "LSSA_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Sangah**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190571048325150/lightsum_20230929131440.png?ex=6517b533&is=651663b3&hm=b0a845325480771dae93b57f8975f5d0f310e0f0efcc43e2a91d840b76e44427&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSSA_2`"
+        }
+   ],
+    "LSCH_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Chowon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190571320942702/lightsum_20230929131518.png?ex=6517b533&is=651663b3&hm=b3a32495ab80695d4daec526be58e1160de09c0d8f0ab5f9c1cc58119eac4d4b&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSCH_2`"
+        }
+   ],
+    "LSNY_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Nayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190571639713802/lightsum_20230929131454.png?ex=6517b533&is=651663b3&hm=c74edac898496a64eee239d85565d678dd46519567331c90a5883a026b7d0b7c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSNY_2`"
+        }
+   ],
+    "LSHN_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Hina**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190572000432138/lightsum_20230929134051.png?ex=6517b533&is=651663b3&hm=7925fbc0bc922fd9bfc1f74e11b9284badd98ca7028bbca7370d1f093b5a3f7e&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSHN_2`"
+        }
+   ],
+    "LSJH_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Juhyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190572323381359/lightsum_20230929131505.png?ex=6517b534&is=651663b4&hm=1af7a79519099adff44e07d394088d01011ffa527fea1f19f966c5c096df2ba1&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSJH_2`"
+        }
+   ],
+    "LSYU_2": [
+        {
+            "name": "**✦✦ LIGHTSUM Yujeong**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190572625375272/lightsum_20230929131426.png?ex=6517b534&is=651663b4&hm=4f08ec40379bec4da02e299c375768d9caa1e90c94c76218419d19fbf670fd0d&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "LIGHTSUM",
+            "code": "`LSYU_2`"
+        }
+   ],
+    "LSSA_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Sangah**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190650987552788/lightsum_20230929133730.png?ex=6517b546&is=651663c6&hm=11a940ddf063b5c307d1163b247a4eacd74ecf057dad0e85da79772f52631802&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSSA_3`"
+        }
+   ],
+    "LSCH_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Chowon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190651339866202/lightsum_20230929133708.png?ex=6517b546&is=651663c6&hm=bc9b742439c8f7b8a4e20121953ff921ba52c7569b195b1aaa6cbbdd2d2ab292&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSCH_3`"
+        }
+   ],
+    "LSNY_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Nayoung**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190651696386088/lightsum_20230929133654.png?ex=6517b546&is=651663c6&hm=8f951ea0eaa0ff4c4084587efee6c40c9d83ca8e59b35fc81dc0e5604da635a9&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSNY_3`"
+        }
+   ],
+    "LSHN_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Hina**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190652250038272/lightsum_20230929133634.png?ex=6517b547&is=651663c7&hm=9bb1cd1ea08f7a801a9e208d73f7162221a32e5ff7475e070a689b5a18636c82&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSHN_3`"
+        }
+   ],
+    "LSJH_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Juhyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190652552019988/lightsum_20230929133555.png?ex=6517b547&is=651663c7&hm=68234fbd3da1b2d1f9a774b66ffc72dd752e03f39241ae6c25d4831c96691809&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSJH_3`"
+        }
+   ],
+    "LSYU_3": [
+        {
+            "name": "**✦✦✦ LIGHTSUM Yujeong**",
+            "image": "https://cdn.discordapp.com/attachments/1157189689397215283/1157190652816265326/lightsum_20230929133616.png?ex=6517b547&is=651663c7&hm=5b61cfb1fbf16920daa185c75741c31eeb7845984c70c8504bbc69cf576b3a7d&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "LIGHTSUM",
+            "code": "`LSYU_3`"
+        }
     ]
  }
                  
