@@ -12087,7 +12087,576 @@
             "grade": "3star",
             "inv": "AUTUMN2023",
             "code": "`AU23OAR_3`"
-        }   
+        }
+    ],
+    "ACDH_1": [
+        {
+            "name": "**✦ A.C.E Donghun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156940230998372412/shb_template_20230928210433.png?ex=651774cd&is=6516234d&hm=b47400f7719fd5c2be13ed8ed964841729a366ce00c8011b10fed595f86491a5&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "A.C.E",
+            "code": "`ACDH_1`"
+        }     
+    ],
+    "ACWO_1": [
+        {
+            "name": "**✦ A.C.E Wow**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156940231321329725/shb_template_20230928210439.png?ex=651774ce&is=6516234e&hm=c93e59b6e10b119b903495ea4bde167d3f6bf98fab94b85115a1bc3d091074d5&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "A.C.E",
+            "code": "`ACWO_1`"
+        } 
+    ],
+    "ACJU_1": [
+        {
+            "name": "**✦ A.C.E Jun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156940230738313257/shb_template_20230928210427.png?ex=651774cd&is=6516234d&hm=662cffea7de63f86631f76e4847437f763e54ecdd6d9758ba43b1f6c0b929ccb&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "A.C.E",
+            "code": "`ACJU_1`"
+        } 
+    ],
+    "ACBK_1": [
+        {
+            "name": "**✦ A.C.E Byeongkwan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156940231858192394/shb_template_20230928210445.png?ex=651774ce&is=6516234e&hm=3e9370d79af6ce6e114330ebb78672b03327056fa42a8c6448922f1a13fc92a5&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "A.C.E",
+            "code": "`ACBK_1`"
+        } 
+    ],
+    "ACCH_1": [
+        {
+            "name": "**✦ A.C.E Chan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156940232143417354/shb_template_20230928210451.png?ex=651774ce&is=6516234e&hm=cf336654d3082f3e078933ea4e2b00a369c847b5c3f8c954622ff47fee479f56&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "A.C.E",
+            "code": "`ACCH_1`"
+        } 
+    ],
+    "ACDH_2": [
+        {
+            "name": "**✦✦ A.C.E Donghun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156943750195597332/shb_template_Restored_20230928211942.png?ex=65177815&is=65162695&hm=b0234e770cc4d46da1a24a77e79f1b54c895cd613b872d932b707d54d93ec6ea&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "A.C.E",
+            "code": "`ACDH_2`"
+        }     
+    ],
+    "ACWO_2": [
+        {
+            "name": "**✦✦ A.C.E Wow**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156943750552096908/shb_template_Restored_20230928211948.png?ex=65177815&is=65162695&hm=88bfd8c41ba361b17a6be2d37ec65ed97bf690fe67c453309a7b47bd9ebb2238&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "A.C.E",
+            "code": "`ACWO_2`"
+        } 
+    ],
+    "ACJU_2": [
+        {
+            "name": "**✦✦ A.C.E Jun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156943749755191316/shb_template_Restored_20230928211919.png?ex=65177814&is=65162694&hm=7b823ba6e4671a0a29c5b4fbf0392f49acde189bfc10bc46e00fbc6f8e45e08c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "A.C.E",
+            "code": "`ACJU_2`"
+        } 
+    ],
+    "ACBK_2": [
+        {
+            "name": "**✦✦ A.C.E Byeongkwan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156943750942179459/shb_template_Restored_20230928212011.png?ex=65177815&is=65162695&hm=a4e99b8ab34b94273caed6dfba4979c3f591dd14bef62057965da350f7ed600c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "A.C.E",
+            "code": "`ACBK_2`"
+        } 
+    ],
+    "ACCH_2": [
+        {
+            "name": "**✦✦ A.C.E Chan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156943751248367667/shb_template_Restored_20230928212044.png?ex=65177815&is=65162695&hm=fc8278e82a171c6d8123e18a9d242a2cd6599868363959c23ddeddcb59b6e3d2&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "A.C.E",
+            "code": "`ACCH_2`"
+        } 
+    ],
+    "ACDH_3": [
+        {
+            "name": "**✦✦✦ A.C.E Donghun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156960210448027689/shb_template_Restored_20230928222545.png?ex=65178769&is=651635e9&hm=979a88745ff055598e52d21c2984bff8cbc13ea00c2f1b43490fd9ef6f63501b&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "A.C.E",
+            "code": "`ACDH_3`"
+        }     
+    ],
+    "ACWO_3": [
+        {
+            "name": "**✦✦✦ A.C.E Wow**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156960210821324821/shb_template_Restored_20230928222534.png?ex=65178769&is=651635e9&hm=9ecfe9374c9bf0c8c3569c8673c9015f6119f229cbb5da7199c12d3f8cf046f4&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "A.C.E",
+            "code": "`ACWO_3`"
+        } 
+    ],
+    "ACJU_3": [
+        {
+            "name": "**✦✦✦ A.C.E Jun**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156960210120876113/shb_template_Restored_20230928222550.png?ex=65178769&is=651635e9&hm=dbf73fd4421fc233482eb5fce7cc73936df5c2e09c8d43737c17d4f078c708cc&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "A.C.E",
+            "code": "`ACJU_3`"
+        } 
+    ],
+    "ACBK_3": [
+        {
+            "name": "**✦✦✦ A.C.E Byeongkwan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156960211320442920/shb_template_Restored_20230928222529.png?ex=65178769&is=651635e9&hm=7f9d7cd173c9601e15c4a1a39cbb2d788a3db00b7befa6514ab4e37f2aa28326&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "A.C.E",
+            "code": "`ACBK_3`"
+        } 
+    ],
+    "ACCH_3": [
+        {
+            "name": "**✦✦✦ A.C.E Chan**",
+            "image": "https://cdn.discordapp.com/attachments/1156940157753229455/1156960211861520434/shb_template_Restored_20230928222520.png?ex=65178769&is=651635e9&hm=116785c7df6110660ee2ac249aa6ebe25d8c8248793aac73d97eec84dd4aef6f&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "A.C.E",
+            "code": "`ACCH_3`"
+        }
+    ],
+    "EVKT_1": [
+        {
+            "name": "**✦ EVNNE Keita**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466274323824650/shb_template_20230924192852.png?ex=65175e13&is=65160c93&hm=a8dafc8010d1edc7dcc6af9aa765bb38391030c0c12be22a6ef3dc414ec0ce1e&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVKT_1`"
+        }     
+    ],
+    "EVPH_1": [
+        {
+            "name": "**✦ EVNNE Park Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466274764247161/shb_template_20230924192858.png?ex=65175e13&is=65160c93&hm=0d03d8d7841fb69375706ea10b266bd2476f1c4318b27777f2ad8261d237b59f&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVPH_1`"
+        } 
+    ],
+    "EVLJ_1": [
+        {
+            "name": "**✦ EVNNE Lee Jeonghyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466275070427196/shb_template_20230924192904.png?ex=65175e13&is=65160c93&hm=b80a3354cf264a0e06574dfc5c77258c763b3cfed15f44b3ca7a4793e8719249&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVLJ_1`"
+        } 
+    ],
+    "EVYS_1": [
+        {
+            "name": "**✦ EVNNE Yoo Seungeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466275435315282/shb_template_20230924192913.png?ex=65175e13&is=65160c93&hm=01bed209eb909687decb1aa17fbb5386bf3d57e330f3eb66b53ba6d7c7bca88a&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVYS_1`"
+        } 
+    ],
+    "EVJY_1": [
+        {
+            "name": "**✦ EVNNE Ji Yunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466275762491422/shb_template_20230924192918.png?ex=65175e13&is=65160c93&hm=c1d348ef27ff20cf5b790fa7b88ded40c818d7c19a310ffcf5d474a53db329af&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVJY_1`"
+        } 
+    ],
+    "EVMJ_1": [
+        {
+            "name": "**✦ EVNNE Mun Junghyun**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466276110614588/shb_template_20230924192930.png?ex=65175e13&is=65160c93&hm=4865584f243388500f68027b21dde14198fdbd6785784319ea4b9937a658d2ec&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVMJ_1`"
+        } 
+    ],
+    "EVPJ_1": [
+        {
+            "name": "**✦ EVNNE Park Jihoo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155466276420997182/shb_template_20230924192936.png?ex=65175e13&is=65160c93&hm=3739a41fbae500efb61eb685e588ce6135e552ec9bcbfb6714d31e66c5ae2df7&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "EVNNE",
+            "code": "`EVPJ_1`"
+        } 
+    ],
+    "EVKT_2": [
+        {
+            "name": "**✦✦ EVNNE Keita**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468376357998592/shb_template_20230924193705.png?ex=65176008&is=65160e88&hm=36b117663c6d4a22303c8997089a6e45f9053fceaec0e6f78ac463826786bb10&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVKT_2`"
+        }     
+    ],
+    "EVPH_2": [
+        {
+            "name": "**✦✦ EVNNE Park Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468376643207178/shb_template_20230924193717.png?ex=65176008&is=65160e88&hm=bcc364331b3e86407a7825b8d522c6dad936210909e57def8a68c1832c52a4fe&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVPH_2`"
+        } 
+    ],
+    "EVLJ_2": [
+        {
+            "name": "**✦✦ EVNNE Lee Jeonghyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468376936824842/shb_template_20230924193737.png?ex=65176008&is=65160e88&hm=f52e75595898375dde6328a5ffaa087583d5a573a1b90ab767cac339669a24e1&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVLJ_2`"
+        } 
+    ],
+    "EVYS_2": [
+        {
+            "name": "**✦✦ EVNNE Yoo Seungeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468377230413885/shb_template_20230924193747.png?ex=65176008&is=65160e88&hm=a5b2c15ff3a1b44367067eeba4c3804d02d7e23f219f395089a323e3a6c0b00e&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVYS_2`"
+        } 
+    ],
+    "EVJY_2": [
+        {
+            "name": "**✦✦ EVNNE Ji Yunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468377519816724/shb_template_20230924193756.png?ex=65176008&is=65160e88&hm=e7ce1957d8279666646af3a368bb4d0005b7f19475d0119245b5bc4497a53439&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVJY_2`"
+        } 
+    ],
+    "EVMJ_2": [
+        {
+            "name": "**✦✦ EVNNE Mun Junghyun**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468377805045760/shb_template_20230924193804.png?ex=65176008&is=65160e88&hm=8a51968251846deea8bc8925f28495a3c0ccd9e4ef4ab837bf6ef54e5fc697d6&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVMJ_2`"
+        } 
+    ],
+    "EVPJ_2": [
+        {
+            "name": "**✦✦ EVNNE Park Jihoo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155468378337710171/shb_template_20230924193812.png?ex=65176008&is=65160e88&hm=290e80d888af59a00006e50acfca6a281e2ce61ab71c3e6aaf8f37ed7bbb459c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "EVNNE",
+            "code": "`EVPJ_2`"
+        } 
+    ],
+    "EVKT_3": [
+        {
+            "name": "**✦✦✦ EVNNE Keita**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472400671055882/shb_template_20230924195007.png?ex=651763c7&is=65161247&hm=15a360dd61e18da7288c03d03f03e2a1b0fa25ac20466d6e9e0257da47c0d800&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVKT_3`"
+        }     
+    ],
+    "EVPH_3": [
+        {
+            "name": "**✦✦✦ EVNNE Park Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472401069518938/shb_template_20230924195014.png?ex=651763c8&is=65161248&hm=a90a26ea4ab790488b3cfd0100079741933b90aa7146e772020c2f67a1c5bcd1&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVPH_3`"
+        } 
+    ],
+    "EVLJ_3": [
+        {
+            "name": "**✦✦✦ EVNNE Lee Jeonghyeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472401551872113/shb_template_20230924195404.png?ex=651763c8&is=65161248&hm=1af387364a587b12221df471c63b84b165b6f9d7d45a079a7ff860952fee14cf&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVLJ_3`"
+        } 
+    ],
+    "EVYS_3": [
+        {
+            "name": "**✦✦✦ EVNNE Yoo Seungeon**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472402000650250/shb_template_20230924195349.png?ex=651763c8&is=65161248&hm=775fadd58de5b3d3827a22f204a3d62b1ca55e064bf2204b3379ded1936d16ec&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVYS_3`"
+        } 
+    ],
+    "EVJY_3": [
+        {
+            "name": "**✦✦✦ EVNNE Ji Yunseo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472402516553758/shb_template_20230924195050.png?ex=651763c8&is=65161248&hm=c222ba40104124890ed25f097622aa5a11190394341d3b674f3318861dbace63&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVJY_3`"
+        } 
+    ],
+    "EVMJ_3": [
+        {
+            "name": "**✦✦✦ EVNNE Mun Junghyun**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472402994712586/shb_template_20230924195323.png?ex=651763c8&is=65161248&hm=a10f4a3b1a7d99015a58ba750be8446fea0b686cde31a998781ea58c8c9b7faf&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVMJ_3`"
+        } 
+    ],
+    "EVPJ_3": [
+        {
+            "name": "**✦✦✦ EVNNE Park Jihoo**",
+            "image": "https://cdn.discordapp.com/attachments/1155466168728035459/1155472403569324112/shb_template_20230924195301.png?ex=651763c8&is=65161248&hm=515bcb717ba6a2a45e3943c958e72b221522e0a17d5e14ee8d4814693ae9906e&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "EVNNE",
+            "code": "`EVPJ_3`"
+        }
+   ],
+    "TPLE_1": [
+        {
+            "name": "**✦ TEMPEST LEW**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150169826078761/Untitled341_20230928222339.png?ex=65178f93&is=65163e13&hm=423166de78fcf853a0bb68624a1c133fc96ae648a5806f309fbeb0a82dd1dc96&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPLE_1`"
+        }
+   ],
+    "TPHB_1": [
+        {
+            "name": "**✦ TEMPEST Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150170161618984/Untitled341_20230928221819.png?ex=65178f93&is=65163e13&hm=b1d51eeb2f492633c40b42d75bfb14423269446883ed939eeb42a3b7c2d8f87e&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPHB_1`"
+        }
+   ],
+    "TPHS_1": [
+        {
+            "name": "**✦ TEMPEST Hyeongseop**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150170467799100/Untitled341_20230928221025.png?ex=65178f93&is=65163e13&hm=8e5e43f375ea872e32fbf9a9e35798851dbf017c9f8ea6be7f55b3b5e20228fb&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPHS_1`"
+        }
+   ],
+    "TPHY_1": [
+        {
+            "name": "**✦ TEMPEST Hyuk**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150170790768680/Untitled341_20230928220626.png?ex=65178f93&is=65163e13&hm=cc5dd0d349c09ab67b99cb50c2845d1e19c88ef5ea3d18855532074e02494e50&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPHY_1`"
+        }
+   ],
+    "TPEC_1": [
+        {
+            "name": "**✦ TEMPEST Eunchan**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150171113725952/Untitled341_20230928223550.png?ex=65178f93&is=65163e13&hm=4c85521692d727b6a41612e207c7e642ac8ac7181f6cdde3915928ad3df9828c&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPEC_1`"
+        }
+   ],
+    "TPHW_1": [
+        {
+            "name": "**✦ TEMPEST Hwarang**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150171445071872/Untitled341_20230928222549.png?ex=65178f93&is=65163e13&hm=22103a93a71eed29e46752b02dc6f976e21871f8d2e26d1f316d87e684b60219&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPHW_1`"
+        }
+   ],
+    "TPTR_1": [
+        {
+            "name": "**✦ TEMPEST Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150171776426036/Untitled341_20230928223741.png?ex=65178f93&is=65163e13&hm=38cc4ca7afb16ab30e972ae515ee7280f0b33612d95bd1a4adf5dd41050582fb&",
+            "theme": "card1",
+            "grade": "1star",
+            "inv": "TEMPEST",
+            "code": "`TPTR_1`"
+        }
+   ],
+    "TPLE_2": [
+        {
+            "name": "**✦✦ TEMPEST LEW**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150286016684102/Untitled341_20230929102754.png?ex=65178fae&is=65163e2e&hm=716bbb83fb6ba7eb23c9a0fbe53f47146b3d4e0f60e4788150b43e0b67423177&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPLE_2`"
+        }
+   ],
+    "TPHB_2": [
+        {
+            "name": "**✦✦ TEMPEST Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150286394167416/Untitled341_20230929102917.png?ex=65178faf&is=65163e2f&hm=2ac7cef51eb7af473e8809ba3c192afc2dd98706277ab85006a73790a150550a&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPHB_2`"
+        }
+   ],
+    "TPHS_2": [
+        {
+            "name": "**✦✦ TEMPEST Hyeongseop**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150286708756560/Untitled341_20230929103038.png?ex=65178faf&is=65163e2f&hm=4dba7b4b1b54c6f2287f0f19561aefb2e88516199819fc10f6488e4d258fa6c7&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPHS_2`"
+        }
+   ],
+    "TPHY_2": [
+        {
+            "name": "**✦✦ TEMPEST Hyuk**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150287212056627/Untitled341_20230929103118.png?ex=65178faf&is=65163e2f&hm=a167b867feaf81495545943bbcd772b0bc9dc217803433763bee14f9c222f17b&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPHY_2`"
+        }
+   ],
+    "TPEC_2": [
+        {
+            "name": "**✦✦ TEMPEST Eunchan**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150287606337606/Untitled341_20230929103255.png?ex=65178faf&is=65163e2f&hm=a117db74d08f3f4a0f917e200147a6caccd334b300ab9edc9fce374d52d4de8c&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPEC_2`"
+        }
+   ],
+    "TPHW_2": [
+        {
+            "name": "**✦✦ TEMPEST Hwarang**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150287946063932/Untitled341_20230929102657.png?ex=65178faf&is=65163e2f&hm=147b263a3a9a8f9a101926fa98ad4747f46310bba1c85bffec6e7cb5430331eb&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPHW_2`"
+        }
+   ],
+    "TPTR_2": [
+        {
+            "name": "**✦✦ TEMPEST Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150288315158579/Untitled341_20230929102552.png?ex=65178faf&is=65163e2f&hm=66d98559d7d30a16c642562779d5773221adc6f56ccca52d5038fe10ac508016&",
+            "theme": "card2",
+            "grade": "2star",
+            "inv": "TEMPEST",
+            "code": "`TPTR_2`"
+        }
+   ],
+    "TPLE_3": [
+        {
+            "name": "**✦✦✦ TEMPEST LEW**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150469299376189/Untitled341_20230929104507.png?ex=65178fda&is=65163e5a&hm=c11f35d0a1fc83cadb8136f1eca1e404b741a3b8530242aa087a2694448bb9b7&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPLE_3`"
+        }
+   ],
+    "TPHB_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Hanbin**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150469685256212/Untitled341_20230929104628.png?ex=65178fda&is=65163e5a&hm=05aa21e70e1e152f6c04f257dff04f43a73fcede71971999cf2b08fd2595deb6&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPHB_3`"
+        }
+   ],
+    "TPHS_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Hyeongseop**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150470037573662/Untitled341_20230929105005.png?ex=65178fda&is=65163e5a&hm=f3b08d31871f6f893afa5a7618fed98774c57630fb8e38219318181ad88d554d&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPHS_3`"
+        }
+   ],
+    "TPHY_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Hyuk**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150470691901561/Untitled341_20230929104354.png?ex=65178fdb&is=65163e5b&hm=e90d3c13dd7e3deccbb10b3cf89458d4b55809c0ee45f887a4e5e4d1cc5f9fa3&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPHY_3`"
+        }
+   ],
+    "TPEC_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Eunchan**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150471077761085/Untitled341_20230929104218.png?ex=65178fdb&is=65163e5b&hm=56dc0ddbf5e21a9c0cc7322de1836712435d6e62f6da8bd58b45d8e72837f53f&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPEC_3`"
+        }
+   ],
+    "TPHW_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Hwarang**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150471564316795/Untitled341_20230929104733.png?ex=65178fdb&is=65163e5b&hm=bf616f6732f98eea0bf758ac8e78d910b877e9417098e4a7635ea5a22665f7a5&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPHW_3`"
+        }
+   ],
+    "TPTR_3": [
+        {
+            "name": "**✦✦✦ TEMPEST Taerae**",
+            "image": "https://cdn.discordapp.com/attachments/1157149631407460483/1157150472004702248/Untitled341_20230929104902.png?ex=65178fdb&is=65163e5b&hm=ef19f6e7badf038c517c872db4bcaad6d79eba0c79c99f0548f62a967994be70&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "TEMPEST",
+            "code": "`TPTR_3`"     
         ]
  }
                  
