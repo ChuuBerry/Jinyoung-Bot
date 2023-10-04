@@ -13347,6 +13347,126 @@
             "grade": "3star",
             "inv": "Soloist",
             "code": "`SFLC_3`"
+        }
+   ],
+    "SK&MK_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  &TEAM Maki**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393790860623953/SKMK_3.png?ex=651d6749&is=651c15c9&hm=89e94e0d58f812c6179414b5844f406412270b94b047050cbb6dea781c565393&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SK&MK_3`"
+        }
+   ],
+    "SK8YG_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  8TURN Yungyu**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393791288447047/SK8YG_3.png?ex=651d6749&is=651c15c9&hm=b8aceaea876a2c650d0bd4329c28b3edce28b11feb4027c6c40164282038d755&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SK8YG_3`"
+        }
+   ],
+    "SKASH_3": [
+        {
+            "name": "**<:doodle:1158929046231597187> ATBO Seunghwan **",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393791686918145/SKASH_3.png?ex=651d6749&is=651c15c9&hm=00e3a07b3eb219773fe2edfaa2e6cf11adbc29bbe7d026b2366dcf2eaea4a5f3&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKASH_3`"
+        }
+   ],
+    "SKAJH_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  ATEEZ Jongho**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393792106336347/SKAJH_3.png?ex=651d6749&is=651c15c9&hm=983b586d6aa42681f25fa0d15f6bd5d949c7d4d08a5da4540ffabd56eab4a8b4&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKAJH_3`"
+        }
+   ],
+    "SKEMJ_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  EVNNE Mun Junghyun**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393792471253043/SKEMJ_3.png?ex=651d674a&is=651c15ca&hm=d966bff25a0ee1f2a064fd4e502b69f131a0db1ac5b04d0209bd947deabcf92a&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKEMJ_3`"
+        }
+   ],
+    "SKSLK_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  Stray Kids Lee Know**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158393792802586644/SKSLK_3.png?ex=651d674a&is=651c15ca&hm=670fc2df9379a2d4824021ba380eeb952e77dc3496c0f1f139f5a8ed0ab7456f&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKSLK_3`"
+        }
+   ],
+    "SKBHR_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  Billlie Haruna**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406314347728977/SKBHR_3.png?ex=651d72f3&is=651c2173&hm=79b85770126668c585ff7d9e5d9055a6c8b499b845dc2486511573b6974c0704&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKBHR_3`"
+        }
+   ],
+    "SKEOD_3": [
+        {
+            "name": "**<:doodle:1158929046231597187> EVERGLOW Onda**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406314679083018/SKEOD_3.png?ex=651d72f3&is=651c2173&hm=fde967d2f36fcbeb86081698a74915c22f7079b5992575d14e819dc7e6b41275&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKEOD_3`"
+        }
+   ],
+    "SKKYS_3": [
+        {
+            "name": "**<:doodle:1158929046231597187> Kep1er Yeseo**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406315023007774/SKKYS_3.png?ex=651d72f3&is=651c2173&hm=8cccd1395d13fbeef4b03242d1a09202b3cb1c01af3de6fa3d15a299aa6dd561&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKKYS_3`"
+        }
+   ],
+    "SKLGW_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  LOOSSEMBLE Gowon**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406315366944809/SKLGW_3.png?ex=651d72f3&is=651c2173&hm=d2b45dd16994d4fc362b1279cdb3567270a37e53a6fcce7c506121588bff94de&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKLGW_3`"
+        }
+   ],
+    "SKWZA_3": [
+        {
+            "name": "**<:doodle:1158929046231597187>  WEEEKLY Zoa**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406315647967272/SKWZA_3.png?ex=651d72f3&is=651c2173&hm=8319b2b7ee6786f40c512ee9922fb2c4c38c3f4e3755ec105176a7f9dfc627d1&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKWZA_3`"
+        }
+   ],
+    "SKWDY_3": [
+        {
+            "name": "**<:doodle:1158929046231597187> WEKI MEKI Doyeon  **",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406315962531900/SKWDY_3.png?ex=651d72f3&is=651c2173&hm=dd3a6095de6f18192cdb7e4c53966f4846231f5efefd1948a75c54459495a489&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SKWDY_3`"
         }                          
     ]
  }
