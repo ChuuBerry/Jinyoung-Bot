@@ -458,7 +458,61 @@
             "theme": "card1",
             "inv": "Wallpaper",
             "code": "SCSB`_WP`"
-        }   
+        }
+    ],
+    "WIMD_WP": [
+        {
+            "name": "**WEi Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447152284684388/Untitled281_20231005185845.png?ex=65310e4e&is=651e994e&hm=89e6cd6eddd17735c728a64a2ad07a07dccd1428d045dd0dc66abda87250f426&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WIMD_WP`"
+        }  
+    ],
+    "BTYT_WP": [
+        {
+            "name": "**BTS Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447152603443290/Untitled281_20231005190002.png?ex=65310e4e&is=651e994e&hm=38c2c3fc4ff258010b2f66dadb6a42a28e64d42531deebbb3337cd961074ae05&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`BTYT_WP`"
+        } 
+    ],
+    "NJAT_WP": [
+        {
+            "name": "**NewJeans Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447153190637670/Untitled281_20231005190303.png?ex=65310e4e&is=651e994e&hm=783c8be89a9a9d9805666e4c2a8fe9ccc13efc4fabec9628c61dcb5ae896cbfb&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`NJAT_WP`"
+        }  
+    ],
+    "HKTT_WP": [
+        {
+            "name": "**H1-KEY Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447153526198283/Untitled281_20231005190349.png?ex=65310e4e&is=651e994e&hm=b1ec458d0179b6e3bdad05103f0ab3dadda7be85f7633bde31fd09fc3d8bbb8a&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`HKTT_WP`"
+        }
+    ],
+    "YNSP_WP": [
+        {
+            "name": "**YENA Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447153815588985/Untitled281_20231005190709.png?ex=65310e4e&is=651e994e&hm=cc02dad306e61d4ed7a3c7787fd0bf1084e1153894a503c22b5991bff583ec92&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`YNSP_WP`"
+        }     
+    ],
+    "WDJN_WP": [
+        {
+            "name": "**WOODZ Limited Wallpaper #1**",
+            "image": "https://cdn.discordapp.com/attachments/1123454137967841334/1159447154071457873/Untitled281_20231005190807.png?ex=65310e4f&is=651e994f&hm=e0bd3ffdaefb2dccb2d237c4eda022e4a0890a43674026edb81560f8bb9cd7da&",
+            "theme": "card1",
+            "inv": "Wallpaper",
+            "code": "`WDJN_WP`"
+        }     
     ]
 }
     
