@@ -13461,12 +13461,21 @@
    ],
     "SKWDY_3": [
         {
-            "name": "**<:doodle:1158929046231597187> WEKI MEKI Doyeon  **",
+            "name": "**<:doodle:1158929046231597187> WEKI MEKI Doyeon**",
             "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1158406315962531900/SKWDY_3.png?ex=651d72f3&is=651c2173&hm=dd3a6095de6f18192cdb7e4c53966f4846231f5efefd1948a75c54459495a489&",
             "theme": "card3",
             "grade": "3star",
             "inv": "Sketch",
             "code": "`SKWDY_3`"
+   ],
+    "SHB100": [
+        {
+            "name": "**<:doodle:1158929046231597187> CIX Seunghun**",
+            "image": "https://cdn.discordapp.com/attachments/1158393583586508831/1159447350369071134/bash_20231003142223.png?ex=65310e7d&is=651e997d&hm=ab77df27327a697f387d59fe0d3d4a21cd6a3a162bb211d217c89de8a18496b9&",
+            "theme": "card3",
+            "grade": "3star",
+            "inv": "Sketch",
+            "code": "`SHB100`"
         }                          
     ]
  }
